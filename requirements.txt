@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+websockets
+python-dotenv
+yfinance
+beautifulsoup4
+lxml
+pandas
