@@ -40,7 +40,4 @@ env/
 .env/
 
 # Build results
-public/candidates.json
-public/dashboard_data.json
-public/market_index_cache.json
-public/live_stock_data.json
+# (JSON data is now tracked to enable GitHub Actions automation)
