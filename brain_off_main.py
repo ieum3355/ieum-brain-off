@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import subprocess
+import sys
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -33,7 +34,7 @@ def get_verified_indices():
         if res.ok:
             data = res.json()
             for item in data['result']['areas'][0]['datas']:
-                name = "KOSPI" if "코스피" in item['nm'] else "KOSDAQ"
+                name = item['cd']
                 curr_val = float(item['nv'])
                 
                 # [무결성 검증] 전일 대비 10% 이상 괴리 시 과거 데이터로 간주하고 차단
@@ -71,7 +72,7 @@ def run_screener():
     print("🚀 Running Screener Engine...")
     try:
         # subprocess로 screener_engine.py 실행 (결과는 public/candidates.json에 저장됨)
-        subprocess.run(["python", "screener_engine.py"], check=True)
+        subprocess.run([sys.executable, "screener_engine.py"], check=True)
         print("✅ Screener Engine Finished Successfully.")
     except Exception as e:
         print(f"❌ Screener Execution Failed: {e}")
