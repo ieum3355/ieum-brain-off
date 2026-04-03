@@ -164,9 +164,21 @@ def main():
     # 2. 종목 필터링
     candidates = screen_stocks(ticker_map)
     
-    # 3. 결과 저장
-    with open("candidates.json", "w", encoding="utf-8") as f:
+    # 3. 결과 저장 (프론트엔드에서 직접 접근할 수 있도록 public 폴더에 저장)
+    os.makedirs("public", exist_ok=True)
+    with open("public/candidates.json", "w", encoding="utf-8") as f:
         json.dump(candidates, f, ensure_ascii=False, indent=2)
+    
+    # 지수 정보 및 메타데이터 저장 (추후 확장성 대비)
+    with open("public/live_stock_data.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "candidates_count": len(candidates),
+            "indices": [
+                {"name": "KOSPI", "value": "2700.00", "changeRate": 0.5, "status": "up"}, # 실제 지수 크롤링 추가 가능
+                {"name": "KOSDAQ", "value": "880.00", "changeRate": -0.2, "status": "down"}
+            ]
+        }, f, ensure_ascii=False, indent=2)
         
     end_time = time.time()
     print("="*50)

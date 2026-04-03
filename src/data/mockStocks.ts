@@ -35,6 +35,8 @@ export interface Stock {
   };
 
   albbanooScore: number;
+  tier?: 'Premium' | 'Standard' | 'Basic';
+  isLocked?: boolean;
   reasoning?: {
     title: string;
     content: string;
