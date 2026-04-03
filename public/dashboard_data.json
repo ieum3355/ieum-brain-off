@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-04-03 16:17:36",
+    "last_updated_kst": "2026-04-03 07:33:32",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -20,7 +20,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-03 16:16"
+        "validated_at": "2026-04-03 07:33"
       },
       {
         "name": "KOSDAQ",
@@ -31,7 +31,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-03 16:16"
+        "validated_at": "2026-04-03 07:33"
       }
     ],
     "protection_mode": {
