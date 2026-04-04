@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-04-03 07:33:32",
+    "last_updated_kst": "2026-04-04 03:15:23",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -20,7 +20,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-03 07:33"
+        "validated_at": "2026-04-04 03:15"
       },
       {
         "name": "KOSDAQ",
@@ -31,7 +31,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-03 07:33"
+        "validated_at": "2026-04-04 03:15"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260403-011930",
+      "id": "BO-260404-011930",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신성이엔지",
@@ -61,7 +61,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 3445,
         "current_price": 3445,
         "profit_pct": "0.00%",
@@ -71,7 +71,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-003280",
+      "id": "BO-260404-003280",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "흥아해운",
@@ -85,7 +85,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 4090,
         "current_price": 4090,
         "profit_pct": "0.00%",
@@ -95,7 +95,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-008350",
+      "id": "BO-260404-008350",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "남선알미늄",
@@ -109,7 +109,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 1805,
         "current_price": 1805,
         "profit_pct": "0.00%",
@@ -119,7 +119,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-001250",
+      "id": "BO-260404-001250",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "GS글로벌",
@@ -133,7 +133,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 3170,
         "current_price": 3170,
         "profit_pct": "0.00%",
@@ -143,7 +143,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-017900",
+      "id": "BO-260404-017900",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "광전****",
@@ -157,7 +157,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 4455,
         "current_price": 4455,
         "profit_pct": "0.00%",
@@ -167,7 +167,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-018470",
+      "id": "BO-260404-018470",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "조일알미늄",
@@ -181,7 +181,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 1424,
         "current_price": 1424,
         "profit_pct": "0.00%",
@@ -191,7 +191,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-005880",
+      "id": "BO-260404-005880",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대한해운",
@@ -205,7 +205,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 2390,
         "current_price": 2390,
         "profit_pct": "0.00%",
@@ -215,7 +215,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-475150",
+      "id": "BO-260404-475150",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "SK****",
@@ -229,7 +229,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 68200,
         "current_price": 68200,
         "profit_pct": "0.00%",
@@ -239,7 +239,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-005010",
+      "id": "BO-260404-005010",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "휴스틸",
@@ -253,7 +253,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 6090,
         "current_price": 6090,
         "profit_pct": "0.00%",
@@ -263,7 +263,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-100090",
+      "id": "BO-260404-100090",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK오션플랜트",
@@ -277,7 +277,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 30200,
         "current_price": 30200,
         "profit_pct": "0.00%",
@@ -287,7 +287,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-079980",
+      "id": "BO-260404-079980",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "휴비스",
@@ -301,7 +301,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 3640,
         "current_price": 3640,
         "profit_pct": "0.00%",
@@ -311,7 +311,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-093370",
+      "id": "BO-260404-093370",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "후성****",
@@ -325,7 +325,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 8920,
         "current_price": 8920,
         "profit_pct": "0.00%",
@@ -335,21 +335,45 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-001780",
+      "id": "BO-260404-0080G0",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "KO****",
+      "name": "KODEX 방산TOP10",
+      "ticker": "0080G0",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "KODEX 방산TOP10 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-04",
+        "entry_price": 8920,
+        "current_price": 8920,
+        "profit_pct": "0.00%",
+        "target_price": 10258,
+        "stop_loss": 6850
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260404-014160",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "알루코",
-      "name": "알루코",
-      "ticker": "001780",
+      "display_name": "대영포장",
+      "name": "대영포장",
+      "ticker": "014160",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "알루코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "대영포장 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 2440,
         "current_price": 2440,
         "profit_pct": "0.00%",
@@ -359,21 +383,21 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-092790",
+      "id": "BO-260404-092220",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "넥스틸",
-      "name": "넥스틸",
-      "ticker": "092790",
+      "display_name": "KEC",
+      "name": "KEC",
+      "ticker": "092220",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "넥스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "KEC 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 14920,
         "current_price": 14920,
         "profit_pct": "0.00%",
@@ -383,7 +407,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-008970",
+      "id": "BO-260404-008970",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "KBI동양철관",
@@ -397,7 +421,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 1812,
         "current_price": 1812,
         "profit_pct": "0.00%",
@@ -407,7 +431,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-322000",
+      "id": "BO-260404-322000",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "HD****",
@@ -421,7 +445,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 191100,
         "current_price": 191100,
         "profit_pct": "0.00%",
@@ -431,7 +455,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260403-375500",
+      "id": "BO-260404-375500",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "DL이앤씨",
@@ -445,7 +469,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-03",
+        "entry_date": "2026-04-04",
         "entry_price": 75000,
         "current_price": 75000,
         "profit_pct": "0.00%",
@@ -457,7 +481,7 @@
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 17,
+    "active_holdings_count": 18,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
