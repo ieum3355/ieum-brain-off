@@ -8,7 +8,7 @@
     "volume": 193573653,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 3445,
@@ -27,7 +27,7 @@
     "volume": 124803310,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 4090,
@@ -46,7 +46,7 @@
     "volume": 51211225,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 1805,
@@ -65,7 +65,7 @@
     "volume": 28470561,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 3170,
@@ -84,7 +84,7 @@
     "volume": 25962798,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 4455,
@@ -103,7 +103,7 @@
     "volume": 21160956,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 1424,
@@ -122,7 +122,7 @@
     "volume": 16001210,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 2390,
@@ -141,7 +141,7 @@
     "volume": 11359130,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 68200,
@@ -160,7 +160,7 @@
     "volume": 10584813,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 6090,
@@ -179,7 +179,7 @@
     "volume": 10066236,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 30200,
@@ -198,7 +198,7 @@
     "volume": 9753589,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 3640,
@@ -217,7 +217,7 @@
     "volume": 8942707,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 8920,
@@ -229,33 +229,14 @@
   },
   {
     "id": 13,
-    "ticker": "0080G0",
-    "name": "KODEX 방산TOP10",
-    "currentPrice": 8920,
-    "changeRate": 28.53,
-    "volume": 8942707,
-    "score": 90,
-    "status": "active",
-    "captureDate": "2026-04-04",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 8920,
-      "stop": 6850,
-      "target": 10258
-    },
-    "resistancePrice": 8970,
-    "supportPrice": 7643
-  },
-  {
-    "id": 14,
-    "ticker": "014160",
-    "name": "대영포장",
+    "ticker": "001780",
+    "name": "알루코",
     "currentPrice": 2440,
     "changeRate": 2.31,
     "volume": 7354990,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 2440,
@@ -266,15 +247,15 @@
     "supportPrice": 2202
   },
   {
-    "id": 15,
-    "ticker": "092220",
-    "name": "KEC",
+    "id": 14,
+    "ticker": "092790",
+    "name": "넥스틸",
     "currentPrice": 14920,
     "changeRate": 21.4,
     "volume": 6107663,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 14920,
@@ -285,7 +266,7 @@
     "supportPrice": 11293
   },
   {
-    "id": 16,
+    "id": 15,
     "ticker": "008970",
     "name": "KBI동양철관",
     "currentPrice": 1812,
@@ -293,7 +274,7 @@
     "volume": 5757023,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 1812,
@@ -304,7 +285,7 @@
     "supportPrice": 1765
   },
   {
-    "id": 17,
+    "id": 16,
     "ticker": "322000",
     "name": "HD현대에너지솔루션",
     "currentPrice": 191100,
@@ -312,7 +293,7 @@
     "volume": 3337733,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 191100,
@@ -323,7 +304,7 @@
     "supportPrice": 90066
   },
   {
-    "id": 18,
+    "id": 17,
     "ticker": "375500",
     "name": "DL이앤씨",
     "currentPrice": 75000,
@@ -331,7 +312,7 @@
     "volume": 2963265,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-04-04",
+    "captureDate": "2026-04-05",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 75000,
