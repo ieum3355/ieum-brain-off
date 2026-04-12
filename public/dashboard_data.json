@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-04-11 03:19:06",
+    "last_updated_kst": "2026-04-12 03:45:59",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -20,7 +20,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-11 03:18"
+        "validated_at": "2026-04-12 03:45"
       },
       {
         "name": "KOSDAQ",
@@ -31,7 +31,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-11 03:18"
+        "validated_at": "2026-04-12 03:45"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260411-005880",
+      "id": "BO-260412-005880",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "대한****",
@@ -61,7 +61,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 3090,
         "current_price": 3090,
         "profit_pct": "0.00%",
@@ -71,7 +71,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-011930",
+      "id": "BO-260412-011930",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신성이엔지",
@@ -85,7 +85,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 3785,
         "current_price": 3785,
         "profit_pct": "0.00%",
@@ -95,7 +95,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-047040",
+      "id": "BO-260412-047040",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대우건설",
@@ -109,7 +109,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 24300,
         "current_price": 24300,
         "profit_pct": "0.00%",
@@ -119,7 +119,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-010820",
+      "id": "BO-260412-010820",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "퍼스텍",
@@ -133,7 +133,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 11390,
         "current_price": 11390,
         "profit_pct": "0.00%",
@@ -143,7 +143,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-084680",
+      "id": "BO-260412-084680",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "이월드",
@@ -157,7 +157,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 1823,
         "current_price": 1823,
         "profit_pct": "0.00%",
@@ -167,7 +167,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-026940",
+      "id": "BO-260412-026940",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "부국철강",
@@ -181,7 +181,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 2680,
         "current_price": 2680,
         "profit_pct": "0.00%",
@@ -191,7 +191,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-044450",
+      "id": "BO-260412-044450",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "KSS해운",
@@ -205,7 +205,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 12640,
         "current_price": 12640,
         "profit_pct": "0.00%",
@@ -215,7 +215,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-017550",
+      "id": "BO-260412-017550",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "수산세보틱스",
@@ -229,7 +229,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 3030,
         "current_price": 3030,
         "profit_pct": "0.00%",
@@ -239,7 +239,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-006360",
+      "id": "BO-260412-006360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "GS건설",
@@ -253,7 +253,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 37650,
         "current_price": 37650,
         "profit_pct": "0.00%",
@@ -263,7 +263,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-008970",
+      "id": "BO-260412-008970",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "KBI동양철관",
@@ -277,7 +277,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 1972,
         "current_price": 1972,
         "profit_pct": "0.00%",
@@ -287,7 +287,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-093370",
+      "id": "BO-260412-093370",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "후성",
@@ -301,7 +301,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 10590,
         "current_price": 10590,
         "profit_pct": "0.00%",
@@ -311,7 +311,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-071090",
+      "id": "BO-260412-071090",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "하이스틸",
@@ -325,7 +325,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 4220,
         "current_price": 4220,
         "profit_pct": "0.00%",
@@ -335,7 +335,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-007210",
+      "id": "BO-260412-007210",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "벽산",
@@ -349,7 +349,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 2065,
         "current_price": 2065,
         "profit_pct": "0.00%",
@@ -359,7 +359,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-395270",
+      "id": "BO-260412-395270",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "HA****",
@@ -373,7 +373,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 37090,
         "current_price": 37090,
         "profit_pct": "0.00%",
@@ -383,7 +383,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-013360",
+      "id": "BO-260412-013360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "일성건설",
@@ -397,7 +397,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 2130,
         "current_price": 2130,
         "profit_pct": "0.00%",
@@ -407,7 +407,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-009410",
+      "id": "BO-260412-009410",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "태영건설",
@@ -421,7 +421,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 2020,
         "current_price": 2020,
         "profit_pct": "0.00%",
@@ -431,7 +431,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260411-002780",
+      "id": "BO-260412-002780",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "진흥기업",
@@ -445,7 +445,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-11",
+        "entry_date": "2026-04-12",
         "entry_price": 1000,
         "current_price": 1000,
         "profit_pct": "0.00%",
