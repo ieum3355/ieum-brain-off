@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-04-12 03:45:59",
+    "last_updated_kst": "2026-04-13 03:52:05",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "585,887.00",
-        "value": "585,887.00",
-        "change_rate": 1.4,
-        "changeRate": 1.4,
-        "status": "up",
+        "current_value": "578,542.00",
+        "value": "578,542.00",
+        "change_rate": -1.25,
+        "changeRate": -1.25,
+        "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-12 03:45"
+        "validated_at": "2026-04-13 03:51"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "109,363.00",
-        "value": "109,363.00",
-        "change_rate": 1.64,
-        "changeRate": 1.64,
+        "current_value": "109,629.00",
+        "value": "109,629.00",
+        "change_rate": 0.24,
+        "changeRate": 0.24,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-12 03:45"
+        "validated_at": "2026-04-13 03:51"
       }
     ],
     "protection_mode": {
@@ -47,31 +47,55 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260412-005880",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "대한****",
+      "id": "BO-260413-018470",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "조일알미늄",
+      "name": "조일알미늄",
+      "ticker": "018470",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "조일알미늄 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 1847,
+        "current_price": 1847,
+        "profit_pct": "0.00%",
+        "target_price": 2124,
+        "stop_loss": 1411
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-005880",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "대한해운",
       "name": "대한해운",
       "ticker": "005880",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "대한해운 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 3090,
-        "current_price": 3090,
+        "entry_date": "2026-04-13",
+        "entry_price": 2895,
+        "current_price": 2895,
         "profit_pct": "0.00%",
-        "target_price": 3553,
+        "target_price": 3329,
         "stop_loss": 2270
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-011930",
+      "id": "BO-260413-011930",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신성이엔지",
@@ -85,17 +109,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 3785,
-        "current_price": 3785,
+        "entry_date": "2026-04-13",
+        "entry_price": 3875,
+        "current_price": 3875,
         "profit_pct": "0.00%",
-        "target_price": 4352,
+        "target_price": 4456,
         "stop_loss": 3110
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-047040",
+      "id": "BO-260413-047040",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대우건설",
@@ -109,17 +133,89 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 24300,
-        "current_price": 24300,
+        "entry_date": "2026-04-13",
+        "entry_price": 23600,
+        "current_price": 23600,
         "profit_pct": "0.00%",
-        "target_price": 27944,
+        "target_price": 27139,
         "stop_loss": 16940
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-010820",
+      "id": "BO-260413-001780",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "알루코",
+      "name": "알루코",
+      "ticker": "001780",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "알루코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 2855,
+        "current_price": 2855,
+        "profit_pct": "0.00%",
+        "target_price": 3283,
+        "stop_loss": 2455
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-025860",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "남해화학",
+      "name": "남해화학",
+      "ticker": "025860",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "남해화학 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 9390,
+        "current_price": 9390,
+        "profit_pct": "0.00%",
+        "target_price": 10798,
+        "stop_loss": 7700
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-014160",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "대영포장",
+      "name": "대영포장",
+      "ticker": "014160",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "대영포장 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 1302,
+        "current_price": 1302,
+        "profit_pct": "0.00%",
+        "target_price": 1497,
+        "stop_loss": 1120
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-010820",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "퍼스텍",
@@ -133,137 +229,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 11390,
-        "current_price": 11390,
+        "entry_date": "2026-04-13",
+        "entry_price": 11570,
+        "current_price": 11570,
         "profit_pct": "0.00%",
-        "target_price": 13098,
+        "target_price": 13305,
         "stop_loss": 7220
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-084680",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "이월드",
-      "name": "이월드",
-      "ticker": "084680",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "이월드 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 1823,
-        "current_price": 1823,
-        "profit_pct": "0.00%",
-        "target_price": 2096,
-        "stop_loss": 1652
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-026940",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "부국철강",
-      "name": "부국철강",
-      "ticker": "026940",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "부국철강 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 2680,
-        "current_price": 2680,
-        "profit_pct": "0.00%",
-        "target_price": 3081,
-        "stop_loss": 2000
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-044450",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "KSS해운",
-      "name": "KSS해운",
-      "ticker": "044450",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "KSS해운 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 12640,
-        "current_price": 12640,
-        "profit_pct": "0.00%",
-        "target_price": 14535,
-        "stop_loss": 11070
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-017550",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "수산세보틱스",
-      "name": "수산세보틱스",
-      "ticker": "017550",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "수산세보틱스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 3030,
-        "current_price": 3030,
-        "profit_pct": "0.00%",
-        "target_price": 3484,
-        "stop_loss": 1990
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-006360",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "GS건설",
-      "name": "GS건설",
-      "ticker": "006360",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "GS건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 37650,
-        "current_price": 37650,
-        "profit_pct": "0.00%",
-        "target_price": 43297,
-        "stop_loss": 27550
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-008970",
+      "id": "BO-260413-008970",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "KBI동양철관",
@@ -277,17 +253,161 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 1972,
-        "current_price": 1972,
+        "entry_date": "2026-04-13",
+        "entry_price": 2020,
+        "current_price": 2020,
         "profit_pct": "0.00%",
-        "target_price": 2267,
+        "target_price": 2323,
         "stop_loss": 1710
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-093370",
+      "id": "BO-260413-017900",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "광전****",
+      "name": "광전자",
+      "ticker": "017900",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "광전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 13680,
+        "current_price": 13680,
+        "profit_pct": "0.00%",
+        "target_price": 15731,
+        "stop_loss": 6200
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-004710",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "한솔****",
+      "name": "한솔테크닉스",
+      "ticker": "004710",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "한솔테크닉스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 6510,
+        "current_price": 6510,
+        "profit_pct": "0.00%",
+        "target_price": 7486,
+        "stop_loss": 4565
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-109070",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "주성****",
+      "name": "주성코퍼레이션",
+      "ticker": "109070",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "주성코퍼레이션 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 1778,
+        "current_price": 1778,
+        "profit_pct": "0.00%",
+        "target_price": 2044,
+        "stop_loss": 1175
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-092790",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "넥스틸",
+      "name": "넥스틸",
+      "ticker": "092790",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "넥스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 17460,
+        "current_price": 17460,
+        "profit_pct": "0.00%",
+        "target_price": 20079,
+        "stop_loss": 13310
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-004140",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "동방",
+      "name": "동방",
+      "ticker": "004140",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "동방 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 3015,
+        "current_price": 3015,
+        "profit_pct": "0.00%",
+        "target_price": 3467,
+        "stop_loss": 2635
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-006360",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "GS건설",
+      "name": "GS건설",
+      "ticker": "006360",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "GS건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 35800,
+        "current_price": 35800,
+        "profit_pct": "0.00%",
+        "target_price": 41170,
+        "stop_loss": 27900
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-093370",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "후성",
@@ -301,137 +421,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 10590,
-        "current_price": 10590,
+        "entry_date": "2026-04-13",
+        "entry_price": 10430,
+        "current_price": 10430,
         "profit_pct": "0.00%",
-        "target_price": 12178,
+        "target_price": 11994,
         "stop_loss": 9140
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-071090",
+      "id": "BO-260413-010120",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "하이스틸",
-      "name": "하이스틸",
-      "ticker": "071090",
+      "display_name": "LS ELECTRIC",
+      "name": "LS ELECTRIC",
+      "ticker": "010120",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "하이스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "LS ELECTRIC 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 4220,
-        "current_price": 4220,
+        "entry_date": "2026-04-13",
+        "entry_price": 178400,
+        "current_price": 178400,
         "profit_pct": "0.00%",
-        "target_price": 4853,
-        "stop_loss": 3475
+        "target_price": 205159,
+        "stop_loss": 153400
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260412-007210",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "벽산",
-      "name": "벽산",
-      "ticker": "007210",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "벽산 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 2065,
-        "current_price": 2065,
-        "profit_pct": "0.00%",
-        "target_price": 2374,
-        "stop_loss": 1750
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-395270",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "HA****",
-      "name": "HANARO Fn K-반도체",
-      "ticker": "395270",
-      "sector": "분석중",
-      "mvp_score": 90,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "HANARO Fn K-반도체 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 37090,
-        "current_price": 37090,
-        "profit_pct": "0.00%",
-        "target_price": 42653,
-        "stop_loss": 32635
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-013360",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "일성건설",
-      "name": "일성건설",
-      "ticker": "013360",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "일성건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 2130,
-        "current_price": 2130,
-        "profit_pct": "0.00%",
-        "target_price": 2449,
-        "stop_loss": 1796
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-009410",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "태영건설",
-      "name": "태영건설",
-      "ticker": "009410",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "태영건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 2020,
-        "current_price": 2020,
-        "profit_pct": "0.00%",
-        "target_price": 2323,
-        "stop_loss": 1776
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260412-002780",
+      "id": "BO-260413-002780",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "진흥기업",
@@ -445,19 +469,91 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-12",
-        "entry_price": 1000,
-        "current_price": 1000,
+        "entry_date": "2026-04-13",
+        "entry_price": 1006,
+        "current_price": 1006,
         "profit_pct": "0.00%",
-        "target_price": 1150,
-        "stop_loss": 919
+        "target_price": 1156,
+        "stop_loss": 923
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-395270",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "HANARO Fn K-반도체",
+      "name": "HANARO Fn K-반도체",
+      "ticker": "395270",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "HANARO Fn K-반도체 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 36795,
+        "current_price": 36795,
+        "profit_pct": "0.00%",
+        "target_price": 42314,
+        "stop_loss": 32795
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-071090",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "하이스틸",
+      "name": "하이스틸",
+      "ticker": "071090",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "하이스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 4350,
+        "current_price": 4350,
+        "profit_pct": "0.00%",
+        "target_price": 5002,
+        "stop_loss": 3475
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260413-084680",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "이월드",
+      "name": "이월드",
+      "ticker": "084680",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "이월드 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-13",
+        "entry_price": 1886,
+        "current_price": 1886,
+        "profit_pct": "0.00%",
+        "target_price": 2168,
+        "stop_loss": 1660
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 17,
+    "active_holdings_count": 21,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
