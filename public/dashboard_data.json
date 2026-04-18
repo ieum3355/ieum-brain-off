@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-04-17 03:45:04",
+    "last_updated_kst": "2026-04-18 03:29:49",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "616,575.00",
-        "value": "616,575.00",
-        "change_rate": -0.97,
-        "changeRate": -0.97,
+        "current_value": "619,192.00",
+        "value": "619,192.00",
+        "change_rate": -0.55,
+        "changeRate": -0.55,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-17 03:44"
+        "validated_at": "2026-04-18 03:29"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "116,539.00",
-        "value": "116,539.00",
-        "change_rate": 0.21,
-        "changeRate": 0.21,
+        "current_value": "117,004.00",
+        "value": "117,004.00",
+        "change_rate": 0.61,
+        "changeRate": 0.61,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-04-17 03:44"
+        "validated_at": "2026-04-18 03:29"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260417-009580",
+      "id": "BO-260418-009580",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "무림P&P",
@@ -61,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 3580,
-        "current_price": 3580,
+        "entry_date": "2026-04-18",
+        "entry_price": 3630,
+        "current_price": 3630,
         "profit_pct": "0.00%",
-        "target_price": 4117,
+        "target_price": 4174,
         "stop_loss": 2730
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-093370",
+      "id": "BO-260418-093370",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "후성",
@@ -85,17 +85,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 14140,
-        "current_price": 14140,
+        "entry_date": "2026-04-18",
+        "entry_price": 13820,
+        "current_price": 13820,
         "profit_pct": "0.00%",
-        "target_price": 16260,
+        "target_price": 15892,
         "stop_loss": 10220
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-015260",
+      "id": "BO-260418-010820",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "퍼스텍",
+      "name": "퍼스텍",
+      "ticker": "010820",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "퍼스텍 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-18",
+        "entry_price": 13480,
+        "current_price": 13480,
+        "profit_pct": "0.00%",
+        "target_price": 15501,
+        "stop_loss": 10810
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260418-015260",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "에이엔피",
@@ -109,41 +133,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 843,
-        "current_price": 843,
+        "entry_date": "2026-04-18",
+        "entry_price": 778,
+        "current_price": 778,
         "profit_pct": "0.00%",
-        "target_price": 969,
+        "target_price": 894,
         "stop_loss": 601
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-010820",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "퍼스****",
-      "name": "퍼스텍",
-      "ticker": "010820",
-      "sector": "분석중",
-      "mvp_score": 90,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "퍼스텍 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 13960,
-        "current_price": 13960,
-        "profit_pct": "0.00%",
-        "target_price": 16053,
-        "stop_loss": 10810
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260417-011930",
+      "id": "BO-260418-011930",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신성이엔지",
@@ -157,17 +157,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 4115,
-        "current_price": 4115,
+        "entry_date": "2026-04-18",
+        "entry_price": 4170,
+        "current_price": 4170,
         "profit_pct": "0.00%",
-        "target_price": 4732,
+        "target_price": 4795,
         "stop_loss": 3640
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-017550",
+      "id": "BO-260418-017550",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "수산세보틱스",
@@ -181,17 +181,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 3250,
-        "current_price": 3250,
+        "entry_date": "2026-04-18",
+        "entry_price": 3280,
+        "current_price": 3280,
         "profit_pct": "0.00%",
-        "target_price": 3737,
+        "target_price": 3771,
         "stop_loss": 2870
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-001440",
+      "id": "BO-260418-001440",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대한전선",
@@ -205,17 +205,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 39100,
-        "current_price": 39100,
+        "entry_date": "2026-04-18",
+        "entry_price": 39300,
+        "current_price": 39300,
         "profit_pct": "0.00%",
-        "target_price": 44965,
+        "target_price": 45195,
         "stop_loss": 30800
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-009200",
+      "id": "BO-260418-009200",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "무림페이퍼",
@@ -229,17 +229,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 2230,
-        "current_price": 2230,
+        "entry_date": "2026-04-18",
+        "entry_price": 2240,
+        "current_price": 2240,
         "profit_pct": "0.00%",
-        "target_price": 2564,
+        "target_price": 2576,
         "stop_loss": 2070
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-019170",
+      "id": "BO-260418-019170",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신풍제약",
@@ -253,17 +253,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 13350,
-        "current_price": 13350,
+        "entry_date": "2026-04-18",
+        "entry_price": 14090,
+        "current_price": 14090,
         "profit_pct": "0.00%",
-        "target_price": 15352,
+        "target_price": 16203,
         "stop_loss": 10380
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-006340",
+      "id": "BO-260418-006340",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대원전선",
@@ -277,17 +277,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 6200,
-        "current_price": 6200,
+        "entry_date": "2026-04-18",
+        "entry_price": 6190,
+        "current_price": 6190,
         "profit_pct": "0.00%",
-        "target_price": 7129,
+        "target_price": 7118,
         "stop_loss": 5310
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-395270",
+      "id": "BO-260418-082740",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "한화엔진",
+      "name": "한화엔진",
+      "ticker": "082740",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "한화엔진 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-18",
+        "entry_price": 56100,
+        "current_price": 56100,
+        "profit_pct": "0.00%",
+        "target_price": 64514,
+        "stop_loss": 44400
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260418-395270",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "HA****",
@@ -301,41 +325,89 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 40600,
-        "current_price": 40600,
+        "entry_date": "2026-04-18",
+        "entry_price": 40615,
+        "current_price": 40615,
         "profit_pct": "0.00%",
-        "target_price": 46690,
+        "target_price": 46707,
         "stop_loss": 36020
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-001340",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "PKC",
+      "id": "BO-260418-077970",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "ST****",
+      "name": "STX엔진",
+      "ticker": "077970",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "STX엔진 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-18",
+        "entry_price": 44000,
+        "current_price": 44000,
+        "profit_pct": "0.00%",
+        "target_price": 50599,
+        "stop_loss": 32500
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260418-001340",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "PK****",
       "name": "PKC",
       "ticker": "001340",
       "sector": "분석중",
-      "mvp_score": 80,
+      "mvp_score": 90,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "PKC 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 7860,
-        "current_price": 7860,
+        "entry_date": "2026-04-18",
+        "entry_price": 7970,
+        "current_price": 7970,
         "profit_pct": "0.00%",
-        "target_price": 9039,
+        "target_price": 9165,
         "stop_loss": 6630
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260417-006800",
+      "id": "BO-260418-090460",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "비에이치",
+      "name": "비에이치",
+      "ticker": "090460",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "비에이치 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-04-18",
+        "entry_price": 31400,
+        "current_price": 31400,
+        "profit_pct": "0.00%",
+        "target_price": 36110,
+        "stop_loss": 22100
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260418-006800",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "미래에셋증권",
@@ -349,11 +421,11 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-04-17",
-        "entry_price": 71100,
-        "current_price": 71100,
+        "entry_date": "2026-04-18",
+        "entry_price": 70400,
+        "current_price": 70400,
         "profit_pct": "0.00%",
-        "target_price": 81765,
+        "target_price": 80960,
         "stop_loss": 64400
       },
       "history_hit_rate": "80%+"
@@ -361,7 +433,7 @@
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 13,
+    "active_holdings_count": 16,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
