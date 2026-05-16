@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-05-15 04:16:27",
+    "last_updated_kst": "2026-05-16 04:00:29",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "766,902.00",
-        "value": "766,902.00",
-        "change_rate": -3.91,
-        "changeRate": -3.91,
+        "current_value": "749,318.00",
+        "value": "749,318.00",
+        "change_rate": -6.12,
+        "changeRate": -6.12,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-15 04:15"
+        "validated_at": "2026-05-16 03:59"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "115,318.00",
-        "value": "115,318.00",
-        "change_rate": -3.18,
-        "changeRate": -3.18,
+        "current_value": "112,982.00",
+        "value": "112,982.00",
+        "change_rate": -5.14,
+        "changeRate": -5.14,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-15 04:15"
+        "validated_at": "2026-05-16 03:59"
       }
     ],
     "protection_mode": {
@@ -47,31 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260515-018880",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "한온시스템",
-      "name": "한온시스템",
-      "ticker": "018880",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한온시스템 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 5260,
-        "current_price": 5260,
-        "profit_pct": "0.00%",
-        "target_price": 6048,
-        "stop_loss": 4850
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260515-001740",
+      "id": "BO-260516-001740",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK네트웍스",
@@ -85,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 8120,
-        "current_price": 8120,
+        "entry_date": "2026-05-16",
+        "entry_price": 8720,
+        "current_price": 8720,
         "profit_pct": "0.00%",
-        "target_price": 9338,
+        "target_price": 10028,
         "stop_loss": 6050
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260515-452260",
+      "id": "BO-260516-452260",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한화갤러리아",
@@ -109,17 +85,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 3375,
-        "current_price": 3375,
+        "entry_date": "2026-05-16",
+        "entry_price": 3350,
+        "current_price": 3350,
         "profit_pct": "0.00%",
-        "target_price": 3881,
+        "target_price": 3852,
         "stop_loss": 2715
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260515-088350",
+      "id": "BO-260516-088350",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한화생명",
@@ -133,41 +109,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 5490,
-        "current_price": 5490,
+        "entry_date": "2026-05-16",
+        "entry_price": 5390,
+        "current_price": 5390,
         "profit_pct": "0.00%",
-        "target_price": 6313,
+        "target_price": 6198,
         "stop_loss": 4420
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260515-014910",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "성문전자",
-      "name": "성문전자",
-      "ticker": "014910",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "성문전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 3250,
-        "current_price": 3250,
-        "profit_pct": "0.00%",
-        "target_price": 3737,
-        "stop_loss": 1752
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260515-454910",
+      "id": "BO-260516-454910",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "두산로보틱스",
@@ -181,41 +133,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 127600,
-        "current_price": 127600,
+        "entry_date": "2026-05-16",
+        "entry_price": 127400,
+        "current_price": 127400,
         "profit_pct": "0.00%",
-        "target_price": 146740,
+        "target_price": 146510,
         "stop_loss": 97100
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260515-064400",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "LG씨엔에스",
-      "name": "LG씨엔에스",
-      "ticker": "064400",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "LG씨엔에스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 88000,
-        "current_price": 88000,
-        "profit_pct": "0.00%",
-        "target_price": 101199,
-        "stop_loss": 68500
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260515-077500",
+      "id": "BO-260516-077500",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "유니퀘스트",
@@ -229,17 +157,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 8460,
-        "current_price": 8460,
+        "entry_date": "2026-05-16",
+        "entry_price": 7860,
+        "current_price": 7860,
         "profit_pct": "0.00%",
-        "target_price": 9729,
+        "target_price": 9039,
         "stop_loss": 7030
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260515-066570",
+      "id": "BO-260516-064400",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "LG씨엔에스",
+      "name": "LG씨엔에스",
+      "ticker": "064400",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "LG씨엔에스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-05-16",
+        "entry_price": 86600,
+        "current_price": 86600,
+        "profit_pct": "0.00%",
+        "target_price": 99589,
+        "stop_loss": 68500
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260516-066570",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "LG전자",
@@ -253,67 +205,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 243000,
-        "current_price": 243000,
+        "entry_date": "2026-05-16",
+        "entry_price": 240500,
+        "current_price": 240500,
         "profit_pct": "0.00%",
-        "target_price": 279450,
+        "target_price": 276575,
         "stop_loss": 152000
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260515-025820",
+      "id": "BO-260516-092790",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "이구산업",
-      "name": "이구산업",
-      "ticker": "025820",
+      "display_name": "넥스틸",
+      "name": "넥스틸",
+      "ticker": "092790",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "이구산업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "넥스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 6340,
-        "current_price": 6340,
+        "entry_date": "2026-05-16",
+        "entry_price": 20700,
+        "current_price": 20700,
         "profit_pct": "0.00%",
-        "target_price": 7290,
-        "stop_loss": 5750
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260515-012610",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "경인양행",
-      "name": "경인양행",
-      "ticker": "012610",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "경인양행 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-15",
-        "entry_price": 5780,
-        "current_price": 5780,
-        "profit_pct": "0.00%",
-        "target_price": 6646,
-        "stop_loss": 5110
+        "target_price": 23804,
+        "stop_loss": 16960
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 11,
+    "active_holdings_count": 8,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
