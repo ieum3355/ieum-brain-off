@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-05-17 04:20:55",
+    "last_updated_kst": "2026-05-18 04:41:05",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "749,318.00",
-        "value": "749,318.00",
-        "change_rate": -6.12,
-        "changeRate": -6.12,
-        "status": "down",
+        "current_value": "751,337.00",
+        "value": "751,337.00",
+        "change_rate": 0.27,
+        "changeRate": 0.27,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-17 04:20"
+        "validated_at": "2026-05-18 04:40"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "112,982.00",
-        "value": "112,982.00",
-        "change_rate": -5.14,
-        "changeRate": -5.14,
+        "current_value": "110,881.00",
+        "value": "110,881.00",
+        "change_rate": -1.86,
+        "changeRate": -1.86,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-17 04:20"
+        "validated_at": "2026-05-18 04:40"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260517-001740",
+      "id": "BO-260518-001740",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK네트웍스",
@@ -61,41 +61,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 8720,
-        "current_price": 8720,
+        "entry_date": "2026-05-18",
+        "entry_price": 8730,
+        "current_price": 8730,
         "profit_pct": "0.00%",
-        "target_price": 10028,
+        "target_price": 10039,
         "stop_loss": 6050
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260517-452260",
+      "id": "BO-260518-011000",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "한화갤러리아",
-      "name": "한화갤러리아",
-      "ticker": "452260",
+      "display_name": "진원생명과학",
+      "name": "진원생명과학",
+      "ticker": "011000",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한화갤러리아 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "진원생명과학 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 3350,
-        "current_price": 3350,
+        "entry_date": "2026-05-18",
+        "entry_price": 1122,
+        "current_price": 1122,
         "profit_pct": "0.00%",
-        "target_price": 3852,
-        "stop_loss": 2715
+        "target_price": 1290,
+        "stop_loss": 930
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260517-088350",
+      "id": "BO-260518-088350",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한화생명",
@@ -109,89 +109,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 5390,
-        "current_price": 5390,
+        "entry_date": "2026-05-18",
+        "entry_price": 5710,
+        "current_price": 5710,
         "profit_pct": "0.00%",
-        "target_price": 6198,
+        "target_price": 6566,
         "stop_loss": 4420
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260517-454910",
+      "id": "BO-260518-005950",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "두산로보틱스",
-      "name": "두산로보틱스",
-      "ticker": "454910",
+      "display_name": "이수화학",
+      "name": "이수화학",
+      "ticker": "005950",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "두산로보틱스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "이수화학 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 127400,
-        "current_price": 127400,
+        "entry_date": "2026-05-18",
+        "entry_price": 10720,
+        "current_price": 10720,
         "profit_pct": "0.00%",
-        "target_price": 146510,
-        "stop_loss": 97100
+        "target_price": 12327,
+        "stop_loss": 9090
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260517-077500",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "유니퀘스트",
-      "name": "유니퀘스트",
-      "ticker": "077500",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "유니퀘스트 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 7860,
-        "current_price": 7860,
-        "profit_pct": "0.00%",
-        "target_price": 9039,
-        "stop_loss": 7030
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260517-064400",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "LG씨엔에스",
-      "name": "LG씨엔에스",
-      "ticker": "064400",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "LG씨엔에스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 86600,
-        "current_price": 86600,
-        "profit_pct": "0.00%",
-        "target_price": 99589,
-        "stop_loss": 68500
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260517-066570",
+      "id": "BO-260518-066570",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "LG전자",
@@ -205,43 +157,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 240500,
-        "current_price": 240500,
+        "entry_date": "2026-05-18",
+        "entry_price": 220000,
+        "current_price": 220000,
         "profit_pct": "0.00%",
-        "target_price": 276575,
-        "stop_loss": 152000
+        "target_price": 252999,
+        "stop_loss": 160400
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260517-092790",
+      "id": "BO-260518-454910",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "넥스틸",
-      "name": "넥스틸",
-      "ticker": "092790",
+      "display_name": "두산로보틱스",
+      "name": "두산로보틱스",
+      "ticker": "454910",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "넥스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "두산로보틱스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-17",
-        "entry_price": 20700,
-        "current_price": 20700,
+        "entry_date": "2026-05-18",
+        "entry_price": 119500,
+        "current_price": 119500,
         "profit_pct": "0.00%",
-        "target_price": 23804,
-        "stop_loss": 16960
+        "target_price": 137425,
+        "stop_loss": 97100
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 8,
+    "active_holdings_count": 6,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }

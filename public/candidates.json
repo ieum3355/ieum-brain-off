@@ -3,152 +3,114 @@
     "id": 1,
     "ticker": "001740",
     "name": "SK네트웍스",
-    "currentPrice": 8720,
-    "changeRate": 10.38,
-    "volume": 70864974,
+    "currentPrice": 8730,
+    "changeRate": 0.11,
+    "volume": 39865716,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-05-17",
+    "captureDate": "2026-05-18",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 8720,
+      "entry": 8730,
       "stop": 6050,
-      "target": 10028
+      "target": 10039
     },
-    "resistancePrice": 9900,
-    "supportPrice": 5551
+    "resistancePrice": 10360,
+    "supportPrice": 5610
   },
   {
     "id": 2,
-    "ticker": "452260",
-    "name": "한화갤러리아",
-    "currentPrice": 3350,
-    "changeRate": 0.3,
-    "volume": 30790937,
+    "ticker": "011000",
+    "name": "진원생명과학",
+    "currentPrice": 1122,
+    "changeRate": 16.88,
+    "volume": 15830617,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-05-17",
+    "captureDate": "2026-05-18",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3350,
-      "stop": 2715,
-      "target": 3852
+      "entry": 1122,
+      "stop": 930,
+      "target": 1290
     },
-    "resistancePrice": 4120,
-    "supportPrice": 2752
+    "resistancePrice": 1664,
+    "supportPrice": 1015
   },
   {
     "id": 3,
     "ticker": "088350",
     "name": "한화생명",
-    "currentPrice": 5390,
-    "changeRate": -1.82,
-    "volume": 22831890,
+    "currentPrice": 5710,
+    "changeRate": 5.94,
+    "volume": 12336554,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-05-17",
+    "captureDate": "2026-05-18",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 5390,
+      "entry": 5710,
       "stop": 4420,
-      "target": 6198
+      "target": 6566
     },
     "resistancePrice": 5990,
-    "supportPrice": 4909
+    "supportPrice": 4924
   },
   {
     "id": 4,
-    "ticker": "454910",
-    "name": "두산로보틱스",
-    "currentPrice": 127400,
-    "changeRate": 19.29,
-    "volume": 8437915,
+    "ticker": "005950",
+    "name": "이수화학",
+    "currentPrice": 10720,
+    "changeRate": 7.09,
+    "volume": 3820270,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-05-17",
+    "captureDate": "2026-05-18",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 127400,
-      "stop": 97100,
-      "target": 146510
+      "entry": 10720,
+      "stop": 9090,
+      "target": 12327
     },
-    "resistancePrice": 138800,
-    "supportPrice": 94270
+    "resistancePrice": 12700,
+    "supportPrice": 8836
   },
   {
     "id": 5,
-    "ticker": "077500",
-    "name": "유니퀘스트",
-    "currentPrice": 7860,
-    "changeRate": 0.13,
-    "volume": 7828343,
+    "ticker": "066570",
+    "name": "LG전자",
+    "currentPrice": 220000,
+    "changeRate": -8.52,
+    "volume": 3432134,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-05-17",
+    "captureDate": "2026-05-18",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 7860,
-      "stop": 7030,
-      "target": 9039
+      "entry": 220000,
+      "stop": 160400,
+      "target": 252999
     },
-    "resistancePrice": 9520,
-    "supportPrice": 6622
+    "resistancePrice": 266500,
+    "supportPrice": 130394
   },
   {
     "id": 6,
-    "ticker": "064400",
-    "name": "LG씨엔에스",
-    "currentPrice": 86600,
-    "changeRate": 0.58,
-    "volume": 7333668,
+    "ticker": "454910",
+    "name": "두산로보틱스",
+    "currentPrice": 119500,
+    "changeRate": -6.2,
+    "volume": 2619921,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-05-17",
+    "captureDate": "2026-05-18",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 86600,
-      "stop": 68500,
-      "target": 99589
+      "entry": 119500,
+      "stop": 97100,
+      "target": 137425
     },
-    "resistancePrice": 99400,
-    "supportPrice": 65690
-  },
-  {
-    "id": 7,
-    "ticker": "066570",
-    "name": "LG전자",
-    "currentPrice": 240500,
-    "changeRate": 10.83,
-    "volume": 5856267,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-05-17",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 240500,
-      "stop": 152000,
-      "target": 276575
-    },
-    "resistancePrice": 266500,
-    "supportPrice": 128666
-  },
-  {
-    "id": 8,
-    "ticker": "092790",
-    "name": "넥스틸",
-    "currentPrice": 20700,
-    "changeRate": 12.07,
-    "volume": 4462831,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-05-17",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 20700,
-      "stop": 16960,
-      "target": 23804
-    },
-    "resistancePrice": 23000,
-    "supportPrice": 14532
+    "resistancePrice": 138800,
+    "supportPrice": 94593
   }
 ]
