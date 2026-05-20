@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-05-19 04:33:13",
+    "last_updated_kst": "2026-05-20 04:35:14",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "722,505.00",
-        "value": "722,505.00",
-        "change_rate": -3.87,
-        "changeRate": -3.87,
+        "current_value": "716,013.00",
+        "value": "716,013.00",
+        "change_rate": -1.53,
+        "changeRate": -1.53,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-19 04:32"
+        "validated_at": "2026-05-20 04:35"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "107,017.00",
-        "value": "107,017.00",
-        "change_rate": -3.68,
-        "changeRate": -3.68,
+        "current_value": "104,990.00",
+        "value": "104,990.00",
+        "change_rate": -3.18,
+        "changeRate": -3.18,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-19 04:32"
+        "validated_at": "2026-05-20 04:35"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260519-011000",
+      "id": "BO-260520-011000",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "진원생명과학",
@@ -61,65 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-19",
-        "entry_price": 1310,
-        "current_price": 1310,
+        "entry_date": "2026-05-20",
+        "entry_price": 1579,
+        "current_price": 1579,
         "profit_pct": "0.00%",
-        "target_price": 1506,
+        "target_price": 1815,
         "stop_loss": 950
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260519-088350",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "한화생명",
-      "name": "한화생명",
-      "ticker": "088350",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한화생명 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-19",
-        "entry_price": 5870,
-        "current_price": 5870,
-        "profit_pct": "0.00%",
-        "target_price": 6750,
-        "stop_loss": 4775
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260519-001740",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "SK네트웍스",
-      "name": "SK네트웍스",
-      "ticker": "001740",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "SK네트웍스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-19",
-        "entry_price": 7970,
-        "current_price": 7970,
-        "profit_pct": "0.00%",
-        "target_price": 9165,
-        "stop_loss": 6050
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260519-005950",
+      "id": "BO-260520-005950",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "이수화학",
@@ -133,36 +85,84 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-19",
-        "entry_price": 11330,
-        "current_price": 11330,
+        "entry_date": "2026-05-20",
+        "entry_price": 13150,
+        "current_price": 13150,
         "profit_pct": "0.00%",
-        "target_price": 13029,
-        "stop_loss": 9190
+        "target_price": 15122,
+        "stop_loss": 9660
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260519-005500",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "삼진****",
-      "name": "삼진제약",
-      "ticker": "005500",
+      "id": "BO-260520-014910",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "성문전자",
+      "name": "성문전자",
+      "ticker": "014910",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼진제약 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "성문전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-19",
-        "entry_price": 24450,
-        "current_price": 24450,
+        "entry_date": "2026-05-20",
+        "entry_price": 3125,
+        "current_price": 3125,
         "profit_pct": "0.00%",
-        "target_price": 28117,
-        "stop_loss": 17710
+        "target_price": 3593,
+        "stop_loss": 2210
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260520-005250",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "녹십자홀딩스",
+      "name": "녹십자홀딩스",
+      "ticker": "005250",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "녹십자홀딩스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-05-20",
+        "entry_price": 15870,
+        "current_price": 15870,
+        "profit_pct": "0.00%",
+        "target_price": 18250,
+        "stop_loss": 14480
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260520-001820",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "삼화콘덴서",
+      "name": "삼화콘덴서",
+      "ticker": "001820",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "삼화콘덴서 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-05-20",
+        "entry_price": 74500,
+        "current_price": 74500,
+        "profit_pct": "0.00%",
+        "target_price": 85675,
+        "stop_loss": 55000
       },
       "history_hit_rate": "80%+"
     }
