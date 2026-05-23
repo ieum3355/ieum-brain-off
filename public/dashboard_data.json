@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-05-22 04:34:20",
+    "last_updated_kst": "2026-05-23 04:06:48",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "785,852.00",
-        "value": "785,852.00",
-        "change_rate": 0.55,
-        "changeRate": 0.55,
+        "current_value": "784,771.00",
+        "value": "784,771.00",
+        "change_rate": 0.41,
+        "changeRate": 0.41,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-22 04:34"
+        "validated_at": "2026-05-23 04:06"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "116,407.00",
-        "value": "116,407.00",
-        "change_rate": 5.25,
-        "changeRate": 5.25,
+        "current_value": "116,113.00",
+        "value": "116,113.00",
+        "change_rate": 4.99,
+        "changeRate": 4.99,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-05-22 04:34"
+        "validated_at": "2026-05-23 04:06"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260522-004870",
+      "id": "BO-260523-004870",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "티웨이홀딩스",
@@ -61,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 416,
-        "current_price": 416,
+        "entry_date": "2026-05-23",
+        "entry_price": 387,
+        "current_price": 387,
         "profit_pct": "0.00%",
-        "target_price": 478,
+        "target_price": 445,
         "stop_loss": 234
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-017900",
+      "id": "BO-260523-017900",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "광전자",
@@ -85,17 +85,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 13220,
-        "current_price": 13220,
+        "entry_date": "2026-05-23",
+        "entry_price": 13130,
+        "current_price": 13130,
         "profit_pct": "0.00%",
-        "target_price": 15202,
+        "target_price": 15099,
         "stop_loss": 8970
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-001740",
+      "id": "BO-260523-001740",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK네트웍스",
@@ -109,17 +109,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 8320,
-        "current_price": 8320,
+        "entry_date": "2026-05-23",
+        "entry_price": 8400,
+        "current_price": 8400,
         "profit_pct": "0.00%",
-        "target_price": 9568,
+        "target_price": 9660,
         "stop_loss": 7660
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-014910",
+      "id": "BO-260523-014910",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "성문전자",
@@ -133,65 +133,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 3335,
-        "current_price": 3335,
+        "entry_date": "2026-05-23",
+        "entry_price": 3250,
+        "current_price": 3250,
         "profit_pct": "0.00%",
-        "target_price": 3835,
+        "target_price": 3737,
         "stop_loss": 2210
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-088350",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "한화생명",
-      "name": "한화생명",
-      "ticker": "088350",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한화생명 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 5600,
-        "current_price": 5600,
-        "profit_pct": "0.00%",
-        "target_price": 6439,
-        "stop_loss": 5060
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260522-006340",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "대원전선",
-      "name": "대원전선",
-      "ticker": "006340",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 14570,
-        "current_price": 14570,
-        "profit_pct": "0.00%",
-        "target_price": 16755,
-        "stop_loss": 12900
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260522-004150",
+      "id": "BO-260523-004150",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한솔홀딩스",
@@ -205,41 +157,65 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 4525,
-        "current_price": 4525,
+        "entry_date": "2026-05-23",
+        "entry_price": 4120,
+        "current_price": 4120,
         "profit_pct": "0.00%",
-        "target_price": 5203,
+        "target_price": 4738,
         "stop_loss": 3480
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-005950",
+      "id": "BO-260523-088350",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "이수화학",
-      "name": "이수화학",
-      "ticker": "005950",
+      "display_name": "한화생명",
+      "name": "한화생명",
+      "ticker": "088350",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "이수화학 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "한화생명 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 16890,
-        "current_price": 16890,
+        "entry_date": "2026-05-23",
+        "entry_price": 5600,
+        "current_price": 5600,
         "profit_pct": "0.00%",
-        "target_price": 19423,
-        "stop_loss": 10080
+        "target_price": 6439,
+        "stop_loss": 5060
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-066570",
+      "id": "BO-260523-006340",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "대원전선",
+      "name": "대원전선",
+      "ticker": "006340",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-05-23",
+        "entry_price": 14610,
+        "current_price": 14610,
+        "profit_pct": "0.00%",
+        "target_price": 16801,
+        "stop_loss": 12900
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260523-066570",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "LG전자",
@@ -253,17 +229,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 242500,
-        "current_price": 242500,
+        "entry_date": "2026-05-23",
+        "entry_price": 237000,
+        "current_price": 237000,
         "profit_pct": "0.00%",
-        "target_price": 278875,
+        "target_price": 272550,
         "stop_loss": 175300
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-064400",
+      "id": "BO-260523-005950",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "이수화학",
+      "name": "이수화학",
+      "ticker": "005950",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "이수화학 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-05-23",
+        "entry_price": 16240,
+        "current_price": 16240,
+        "profit_pct": "0.00%",
+        "target_price": 18676,
+        "stop_loss": 10080
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260523-064400",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "LG씨엔에스",
@@ -277,17 +277,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 84800,
-        "current_price": 84800,
+        "entry_date": "2026-05-23",
+        "entry_price": 83200,
+        "current_price": 83200,
         "profit_pct": "0.00%",
-        "target_price": 97519,
+        "target_price": 95679,
         "stop_loss": 69000
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260522-001820",
+      "id": "BO-260523-001820",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "삼화****",
@@ -301,7 +301,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-05-22",
+        "entry_date": "2026-05-23",
         "entry_price": 102000,
         "current_price": 102000,
         "profit_pct": "0.00%",
@@ -309,35 +309,11 @@
         "stop_loss": 55000
       },
       "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260522-006345",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "대원전선우",
-      "name": "대원전선우",
-      "ticker": "006345",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대원전선우 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-05-22",
-        "entry_price": 17170,
-        "current_price": 17170,
-        "profit_pct": "0.00%",
-        "target_price": 19745,
-        "stop_loss": 13500
-      },
-      "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 12,
+    "active_holdings_count": 11,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
