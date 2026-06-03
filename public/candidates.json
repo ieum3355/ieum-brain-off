@@ -3,133 +3,114 @@
     "id": 1,
     "ticker": "037560",
     "name": "LG헬로비전",
-    "currentPrice": 3125,
-    "changeRate": 9.27,
-    "volume": 58105785,
+    "currentPrice": 3170,
+    "changeRate": 10.84,
+    "volume": 65929784,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-02",
+    "captureDate": "2026-06-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3125,
+      "entry": 3170,
       "stop": 2080,
-      "target": 3593
+      "target": 3645
     },
     "resistancePrice": 3660,
-    "supportPrice": 2293
+    "supportPrice": 2294
   },
   {
     "id": 2,
     "ticker": "066570",
     "name": "LG전자",
-    "currentPrice": 359000,
-    "changeRate": -5.65,
-    "volume": 7810588,
+    "currentPrice": 392500,
+    "changeRate": 3.15,
+    "volume": 10466703,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-02",
+    "captureDate": "2026-06-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 359000,
+      "entry": 392500,
       "stop": 215000,
-      "target": 412849
+      "target": 451374
     },
     "resistancePrice": 438000,
-    "supportPrice": 151969
+    "supportPrice": 152527
   },
   {
     "id": 3,
     "ticker": "454910",
     "name": "두산로보틱스",
-    "currentPrice": 159000,
-    "changeRate": 14.88,
-    "volume": 7330474,
-    "score": 80,
+    "currentPrice": 166700,
+    "changeRate": 20.45,
+    "volume": 9339442,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-06-02",
+    "captureDate": "2026-06-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 159000,
+      "entry": 166700,
       "stop": 96000,
-      "target": 182850
+      "target": 191704
     },
     "resistancePrice": 170000,
-    "supportPrice": 96563
+    "supportPrice": 96691
   },
   {
     "id": 4,
     "ticker": "138530",
     "name": "TIGER LG그룹플러스",
-    "currentPrice": 16430,
-    "changeRate": -12.63,
-    "volume": 7068284,
+    "currentPrice": 17100,
+    "changeRate": -9.07,
+    "volume": 9037331,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-02",
+    "captureDate": "2026-06-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 16430,
+      "entry": 17100,
       "stop": 13265,
-      "target": 18894
+      "target": 19665
     },
     "resistancePrice": 22100,
-    "supportPrice": 11328
+    "supportPrice": 11340
   },
   {
     "id": 5,
     "ticker": "064400",
     "name": "LG씨엔에스",
-    "currentPrice": 133400,
-    "changeRate": -7.17,
-    "volume": 5333604,
+    "currentPrice": 135700,
+    "changeRate": -5.57,
+    "volume": 7085039,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-02",
+    "captureDate": "2026-06-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 133400,
+      "entry": 135700,
       "stop": 79400,
-      "target": 153410
+      "target": 156055
     },
     "resistancePrice": 153300,
-    "supportPrice": 70619
+    "supportPrice": 70658
   },
   {
     "id": 6,
-    "ticker": "011000",
-    "name": "진원생명과학",
-    "currentPrice": 1173,
-    "changeRate": 1.91,
-    "volume": 5306709,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-06-02",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 1173,
-      "stop": 914,
-      "target": 1348
-    },
-    "resistancePrice": 1740,
-    "supportPrice": 1017
-  },
-  {
-    "id": 7,
     "ticker": "001740",
     "name": "SK네트웍스",
-    "currentPrice": 12780,
-    "changeRate": 7.58,
-    "volume": 3525880,
+    "currentPrice": 12840,
+    "changeRate": 8.08,
+    "volume": 5333706,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-02",
+    "captureDate": "2026-06-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 12780,
+      "entry": 12840,
       "stop": 10740,
-      "target": 14696
+      "target": 14765
     },
     "resistancePrice": 13960,
-    "supportPrice": 6418
+    "supportPrice": 6419
   }
 ]
