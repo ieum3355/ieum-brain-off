@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-04 05:03:37",
+    "last_updated_kst": "2026-06-05 04:45:49",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "870,796.00",
-        "value": "870,796.00",
-        "change_rate": -1.06,
-        "changeRate": -1.06,
+        "current_value": "818,812.00",
+        "value": "818,812.00",
+        "change_rate": -5.22,
+        "changeRate": -5.22,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-04 05:03"
+        "validated_at": "2026-06-05 04:45"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "105,136.00",
-        "value": "105,136.00",
-        "change_rate": 2.47,
-        "changeRate": 2.47,
-        "status": "up",
+        "current_value": "100,483.00",
+        "value": "100,483.00",
+        "change_rate": -4.28,
+        "changeRate": -4.28,
+        "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-04 05:03"
+        "validated_at": "2026-06-05 04:45"
       }
     ],
     "protection_mode": {
@@ -47,177 +47,33 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260604-001740",
+      "id": "BO-260605-085620",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "SK네트웍스",
-      "name": "SK네트웍스",
-      "ticker": "001740",
+      "display_name": "미래에셋생명",
+      "name": "미래에셋생명",
+      "ticker": "085620",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "SK네트웍스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "미래에셋생명 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 12480,
-        "current_price": 12480,
+        "entry_date": "2026-06-05",
+        "entry_price": 20200,
+        "current_price": 20200,
         "profit_pct": "0.00%",
-        "target_price": 14351,
-        "stop_loss": 10740
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260604-011000",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "진원생명과학",
-      "name": "진원생명과학",
-      "ticker": "011000",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "진원생명과학 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 1247,
-        "current_price": 1247,
-        "profit_pct": "0.00%",
-        "target_price": 1434,
-        "stop_loss": 914
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260604-037560",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "LG헬로비전",
-      "name": "LG헬로비전",
-      "ticker": "037560",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "LG헬로비전 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 2855,
-        "current_price": 2855,
-        "profit_pct": "0.00%",
-        "target_price": 3283,
-        "stop_loss": 2080
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260604-454910",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "두산로보틱스",
-      "name": "두산로보틱스",
-      "ticker": "454910",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "두산로보틱스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 159200,
-        "current_price": 159200,
-        "profit_pct": "0.00%",
-        "target_price": 183080,
-        "stop_loss": 96000
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260604-066570",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "LG전자",
-      "name": "LG전자",
-      "ticker": "066570",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "LG전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 337750,
-        "current_price": 337750,
-        "profit_pct": "0.00%",
-        "target_price": 388412,
-        "stop_loss": 215000
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260604-092200",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "디아이씨",
-      "name": "디아이씨",
-      "ticker": "092200",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "디아이씨 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 10140,
-        "current_price": 10140,
-        "profit_pct": "0.00%",
-        "target_price": 11661,
-        "stop_loss": 7770
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260604-064400",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "LG씨엔에스",
-      "name": "LG씨엔에스",
-      "ticker": "064400",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "LG씨엔에스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-04",
-        "entry_price": 126000,
-        "current_price": 126000,
-        "profit_pct": "0.00%",
-        "target_price": 144900,
-        "stop_loss": 83800
+        "target_price": 23230,
+        "stop_loss": 13200
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 7,
+    "active_holdings_count": 1,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
