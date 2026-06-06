@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-05 04:45:49",
+    "last_updated_kst": "2026-06-06 04:18:58",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "818,812.00",
-        "value": "818,812.00",
-        "change_rate": -5.22,
-        "changeRate": -5.22,
+        "current_value": "816,059.00",
+        "value": "816,059.00",
+        "change_rate": -5.54,
+        "changeRate": -5.54,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-05 04:45"
+        "validated_at": "2026-06-06 04:18"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "100,483.00",
-        "value": "100,483.00",
-        "change_rate": -4.28,
-        "changeRate": -4.28,
+        "current_value": "100,244.00",
+        "value": "100,244.00",
+        "change_rate": -4.5,
+        "changeRate": -4.5,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-05 04:45"
+        "validated_at": "2026-06-06 04:18"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260605-085620",
+      "id": "BO-260606-085620",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "미래에셋생명",
@@ -61,11 +61,11 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-05",
-        "entry_price": 20200,
-        "current_price": 20200,
+        "entry_date": "2026-06-06",
+        "entry_price": 18590,
+        "current_price": 18590,
         "profit_pct": "0.00%",
-        "target_price": 23230,
+        "target_price": 21378,
         "stop_loss": 13200
       },
       "history_hit_rate": "80%+"

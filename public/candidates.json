@@ -3,19 +3,19 @@
     "id": 1,
     "ticker": "085620",
     "name": "미래에셋생명",
-    "currentPrice": 20200,
-    "changeRate": 4.07,
-    "volume": 6377301,
+    "currentPrice": 18590,
+    "changeRate": -4.22,
+    "volume": 7281347,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-05",
+    "captureDate": "2026-06-06",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 20200,
+      "entry": 18590,
       "stop": 13200,
-      "target": 23230
+      "target": 21378
     },
     "resistancePrice": 24200,
-    "supportPrice": 16333
+    "supportPrice": 16306
   }
 ]
