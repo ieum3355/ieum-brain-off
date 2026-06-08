@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-07 04:55:34",
+    "last_updated_kst": "2026-06-08 05:00:19",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "816,059.00",
-        "value": "816,059.00",
-        "change_rate": -5.54,
-        "changeRate": -5.54,
+        "current_value": "763,662.00",
+        "value": "763,662.00",
+        "change_rate": -6.42,
+        "changeRate": -6.42,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-07 04:54"
+        "validated_at": "2026-06-08 04:59"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "100,244.00",
-        "value": "100,244.00",
-        "change_rate": -4.5,
-        "changeRate": -4.5,
+        "current_value": "92,884.00",
+        "value": "92,884.00",
+        "change_rate": -7.34,
+        "changeRate": -7.34,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-07 04:54"
+        "validated_at": "2026-06-08 04:59"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,31 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260607-085620",
+      "id": "BO-260608-001740",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "SK****",
+      "name": "SK네트웍스",
+      "ticker": "001740",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "SK네트웍스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-08",
+        "entry_price": 13740,
+        "current_price": 13740,
+        "profit_pct": "0.00%",
+        "target_price": 15800,
+        "stop_loss": 9500
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260608-085620",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "미래에셋생명",
@@ -61,19 +85,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-07",
-        "entry_price": 18590,
-        "current_price": 18590,
+        "entry_date": "2026-06-08",
+        "entry_price": 20200,
+        "current_price": 20200,
         "profit_pct": "0.00%",
-        "target_price": 21378,
-        "stop_loss": 13200
+        "target_price": 23230,
+        "stop_loss": 14220
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260608-092200",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "디아****",
+      "name": "디아이씨",
+      "ticker": "092200",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "디아이씨 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-08",
+        "entry_price": 10400,
+        "current_price": 10400,
+        "profit_pct": "0.00%",
+        "target_price": 11959,
+        "stop_loss": 8600
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 1,
+    "active_holdings_count": 3,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }

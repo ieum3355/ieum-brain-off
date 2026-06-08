@@ -1,21 +1,59 @@
 [
   {
     "id": 1,
-    "ticker": "085620",
-    "name": "미래에셋생명",
-    "currentPrice": 18590,
-    "changeRate": -4.22,
-    "volume": 7281347,
-    "score": 80,
+    "ticker": "001740",
+    "name": "SK네트웍스",
+    "currentPrice": 13740,
+    "changeRate": 26.06,
+    "volume": 45697341,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-06-07",
+    "captureDate": "2026-06-08",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 18590,
-      "stop": 13200,
-      "target": 21378
+      "entry": 13740,
+      "stop": 9500,
+      "target": 15800
+    },
+    "resistancePrice": 13990,
+    "supportPrice": 6798
+  },
+  {
+    "id": 2,
+    "ticker": "085620",
+    "name": "미래에셋생명",
+    "currentPrice": 20200,
+    "changeRate": 8.66,
+    "volume": 2501123,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-06-08",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 20200,
+      "stop": 14220,
+      "target": 23230
     },
     "resistancePrice": 24200,
-    "supportPrice": 16306
+    "supportPrice": 16403
+  },
+  {
+    "id": 3,
+    "ticker": "092200",
+    "name": "디아이씨",
+    "currentPrice": 10400,
+    "changeRate": 3.38,
+    "volume": 2402289,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-06-08",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 10400,
+      "stop": 8600,
+      "target": 11959
+    },
+    "resistancePrice": 10610,
+    "supportPrice": 8289
   }
 ]
