@@ -3,57 +3,76 @@
     "id": 1,
     "ticker": "001740",
     "name": "SK네트웍스",
-    "currentPrice": 13740,
-    "changeRate": 26.06,
-    "volume": 45697341,
-    "score": 90,
+    "currentPrice": 13030,
+    "changeRate": -8.05,
+    "volume": 42957759,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-06-08",
+    "captureDate": "2026-06-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 13740,
+      "entry": 13030,
       "stop": 9500,
-      "target": 15800
+      "target": 14984
     },
-    "resistancePrice": 13990,
-    "supportPrice": 6798
+    "resistancePrice": 16240,
+    "supportPrice": 6937
   },
   {
     "id": 2,
     "ticker": "085620",
     "name": "미래에셋생명",
-    "currentPrice": 20200,
-    "changeRate": 8.66,
-    "volume": 2501123,
+    "currentPrice": 24450,
+    "changeRate": 16.43,
+    "volume": 6293760,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-08",
+    "captureDate": "2026-06-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 20200,
-      "stop": 14220,
-      "target": 23230
+      "entry": 24450,
+      "stop": 14990,
+      "target": 28117
     },
-    "resistancePrice": 24200,
-    "supportPrice": 16403
+    "resistancePrice": 25500,
+    "supportPrice": 16564
   },
   {
     "id": 3,
     "ticker": "092200",
     "name": "디아이씨",
-    "currentPrice": 10400,
-    "changeRate": 3.38,
-    "volume": 2402289,
-    "score": 90,
+    "currentPrice": 10450,
+    "changeRate": 3.36,
+    "volume": 2755779,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-06-08",
+    "captureDate": "2026-06-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 10400,
-      "stop": 8600,
-      "target": 11959
+      "entry": 10450,
+      "stop": 8770,
+      "target": 12017
     },
-    "resistancePrice": 10610,
-    "supportPrice": 8289
+    "resistancePrice": 11000,
+    "supportPrice": 8302
+  },
+  {
+    "id": 4,
+    "ticker": "000430",
+    "name": "대원강업",
+    "currentPrice": 5090,
+    "changeRate": 10.17,
+    "volume": 2221852,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-06-09",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 5090,
+      "stop": 4450,
+      "target": 5853
+    },
+    "resistancePrice": 5600,
+    "supportPrice": 4255
   }
 ]
