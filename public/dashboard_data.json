@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-13 04:49:12",
+    "last_updated_kst": "2026-06-14 05:04:45",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -20,7 +20,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-13 04:48"
+        "validated_at": "2026-06-14 05:04"
       },
       {
         "name": "KOSDAQ",
@@ -31,7 +31,7 @@
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-13 04:48"
+        "validated_at": "2026-06-14 05:04"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260613-005930",
+      "id": "BO-260614-005930",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼성전자",
@@ -61,7 +61,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 322500,
         "current_price": 322500,
         "profit_pct": "0.00%",
@@ -71,7 +71,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-093370",
+      "id": "BO-260614-093370",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "후성",
@@ -85,7 +85,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 19010,
         "current_price": 19010,
         "profit_pct": "0.00%",
@@ -95,7 +95,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-279570",
+      "id": "BO-260614-279570",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "케이****",
@@ -109,7 +109,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 6570,
         "current_price": 6570,
         "profit_pct": "0.00%",
@@ -119,7 +119,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-085620",
+      "id": "BO-260614-085620",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "미래에셋생명",
@@ -133,7 +133,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 28300,
         "current_price": 28300,
         "profit_pct": "0.00%",
@@ -143,7 +143,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-035420",
+      "id": "BO-260614-035420",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "NAVER",
@@ -157,7 +157,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 247000,
         "current_price": 247000,
         "profit_pct": "0.00%",
@@ -167,7 +167,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-000660",
+      "id": "BO-260614-000660",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK하이닉스",
@@ -181,7 +181,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 2150000,
         "current_price": 2150000,
         "profit_pct": "0.00%",
@@ -191,7 +191,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-005935",
+      "id": "BO-260614-005935",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼성전자우",
@@ -205,7 +205,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 207000,
         "current_price": 207000,
         "profit_pct": "0.00%",
@@ -215,7 +215,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260613-030000",
+      "id": "BO-260614-030000",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "제일기획",
@@ -229,7 +229,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-13",
+        "entry_date": "2026-06-14",
         "entry_price": 20450,
         "current_price": 20450,
         "profit_pct": "0.00%",
