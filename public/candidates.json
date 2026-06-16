@@ -3,133 +3,171 @@
     "id": 1,
     "ticker": "005930",
     "name": "삼성전자",
-    "currentPrice": 336750,
-    "changeRate": 4.42,
-    "volume": 14561145,
+    "currentPrice": 341000,
+    "changeRate": 1.19,
+    "volume": 13105950,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 336750,
+      "entry": 341000,
       "stop": 287500,
-      "target": 387262
+      "target": 392149
     },
     "resistancePrice": 370000,
-    "supportPrice": 247450
+    "supportPrice": 249670
   },
   {
     "id": 2,
-    "ticker": "003490",
-    "name": "대한항공",
-    "currentPrice": 29450,
-    "changeRate": 10.71,
-    "volume": 10594385,
+    "ticker": "093370",
+    "name": "후성",
+    "currentPrice": 19510,
+    "changeRate": -12.9,
+    "volume": 10205538,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 29450,
-      "stop": 24100,
-      "target": 33867
+      "entry": 19510,
+      "stop": 13810,
+      "target": 22436
     },
-    "resistancePrice": 31200,
-    "supportPrice": 25124
+    "resistancePrice": 23550,
+    "supportPrice": 11790
   },
   {
     "id": 3,
     "ticker": "279570",
     "name": "케이뱅크",
-    "currentPrice": 6970,
-    "changeRate": 6.09,
-    "volume": 10215163,
-    "score": 90,
+    "currentPrice": 6920,
+    "changeRate": -0.86,
+    "volume": 9010192,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 6970,
-      "stop": 5460,
-      "target": 8015
+      "entry": 6920,
+      "stop": 5640,
+      "target": 7957
     },
-    "resistancePrice": 7030,
+    "resistancePrice": 7100,
     "supportPrice": 6038
   },
   {
     "id": 4,
-    "ticker": "001740",
-    "name": "SK네트웍스",
-    "currentPrice": 13320,
-    "changeRate": 2.46,
-    "volume": 8650790,
+    "ticker": "085620",
+    "name": "미래에셋생명",
+    "currentPrice": 31800,
+    "changeRate": 10.99,
+    "volume": 6090693,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 13320,
-      "stop": 11420,
-      "target": 15317
+      "entry": 31800,
+      "stop": 19500,
+      "target": 36570
     },
-    "resistancePrice": 16240,
-    "supportPrice": 7465
+    "resistancePrice": 35150,
+    "supportPrice": 17568
   },
   {
     "id": 5,
-    "ticker": "093370",
-    "name": "후성",
-    "currentPrice": 19500,
-    "changeRate": 2.58,
-    "volume": 8097416,
+    "ticker": "204320",
+    "name": "HL만도",
+    "currentPrice": 75400,
+    "changeRate": 6.8,
+    "volume": 3504344,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 19500,
-      "stop": 11600,
-      "target": 22425
+      "entry": 75400,
+      "stop": 47500,
+      "target": 86710
     },
-    "resistancePrice": 20950,
-    "supportPrice": 11537
+    "resistancePrice": 77700,
+    "supportPrice": 55685
   },
   {
     "id": 6,
     "ticker": "000660",
     "name": "SK하이닉스",
-    "currentPrice": 2296000,
-    "changeRate": 6.79,
-    "volume": 2620719,
-    "score": 80,
+    "currentPrice": 2376000,
+    "changeRate": 3.85,
+    "volume": 2583403,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2296000,
+      "entry": 2376000,
       "stop": 1960000,
-      "target": 2640400
+      "target": 2732400
     },
     "resistancePrice": 2407000,
-    "supportPrice": 1493157
+    "supportPrice": 1515026
   },
   {
     "id": 7,
     "ticker": "005935",
     "name": "삼성전자우",
-    "currentPrice": 214500,
-    "changeRate": 3.62,
-    "volume": 2236230,
+    "currentPrice": 223000,
+    "changeRate": 3.24,
+    "volume": 2598210,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-15",
+    "captureDate": "2026-06-16",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 214500,
+      "entry": 223000,
       "stop": 183000,
-      "target": 246674
+      "target": 256449
     },
     "resistancePrice": 243500,
-    "supportPrice": 165675
+    "supportPrice": 166939
+  },
+  {
+    "id": 8,
+    "ticker": "024110",
+    "name": "기업은행",
+    "currentPrice": 23050,
+    "changeRate": 2.9,
+    "volume": 2549318,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-06-16",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 23050,
+      "stop": 20100,
+      "target": 26507
+    },
+    "resistancePrice": 23200,
+    "supportPrice": 21638
+  },
+  {
+    "id": 9,
+    "ticker": "003490",
+    "name": "대한항공",
+    "currentPrice": 29200,
+    "changeRate": -2.67,
+    "volume": 2517122,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-06-16",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 29200,
+      "stop": 24100,
+      "target": 33580
+    },
+    "resistancePrice": 31200,
+    "supportPrice": 25208
   }
 ]
