@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-17 05:14:36",
+    "last_updated_kst": "2026-06-18 05:01:16",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "879,130.00",
-        "value": "879,130.00",
-        "change_rate": 0.74,
-        "changeRate": 0.74,
+        "current_value": "896,488.00",
+        "value": "896,488.00",
+        "change_rate": 1.14,
+        "changeRate": 1.14,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-17 05:14"
+        "validated_at": "2026-06-18 05:00"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "103,119.00",
-        "value": "103,119.00",
-        "change_rate": 1.23,
-        "changeRate": 1.23,
-        "status": "up",
+        "current_value": "100,605.00",
+        "value": "100,605.00",
+        "change_rate": -2.51,
+        "changeRate": -2.51,
+        "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-17 05:14"
+        "validated_at": "2026-06-18 05:00"
       }
     ],
     "protection_mode": {
@@ -47,31 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260617-004310",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "현대약품",
-      "name": "현대약품",
-      "ticker": "004310",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "현대약품 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 8850,
-        "current_price": 8850,
-        "profit_pct": "0.00%",
-        "target_price": 10177,
-        "stop_loss": 5380
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260617-004870",
+      "id": "BO-260618-004870",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "티웨이홀딩스",
@@ -85,65 +61,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 363,
-        "current_price": 363,
+        "entry_date": "2026-06-18",
+        "entry_price": 420,
+        "current_price": 420,
         "profit_pct": "0.00%",
-        "target_price": 417,
-        "stop_loss": 266
+        "target_price": 482,
+        "stop_loss": 271
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-008970",
+      "id": "BO-260618-004310",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "KBI동양철관",
-      "name": "KBI동양철관",
-      "ticker": "008970",
+      "display_name": "현대약품",
+      "name": "현대약품",
+      "ticker": "004310",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "KBI동양철관 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "현대약품 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 1566,
-        "current_price": 1566,
+        "entry_date": "2026-06-18",
+        "entry_price": 9230,
+        "current_price": 9230,
         "profit_pct": "0.00%",
-        "target_price": 1800,
-        "stop_loss": 1308
+        "target_price": 10614,
+        "stop_loss": 5650
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-013360",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "일성건설",
-      "name": "일성건설",
-      "ticker": "013360",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "일성건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 1880,
-        "current_price": 1880,
-        "profit_pct": "0.00%",
-        "target_price": 2162,
-        "stop_loss": 1126
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260617-005930",
+      "id": "BO-260618-005930",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼성전자",
@@ -157,113 +109,113 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 341000,
-        "current_price": 341000,
+        "entry_date": "2026-06-18",
+        "entry_price": 355000,
+        "current_price": 355000,
         "profit_pct": "0.00%",
-        "target_price": 392149,
-        "stop_loss": 287500
+        "target_price": 408249,
+        "stop_loss": 320000
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-010690",
+      "id": "BO-260618-279570",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "화신",
-      "name": "화신",
-      "ticker": "010690",
+      "display_name": "케이뱅크",
+      "name": "케이뱅크",
+      "ticker": "279570",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "화신 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "케이뱅크 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 13600,
-        "current_price": 13600,
+        "entry_date": "2026-06-18",
+        "entry_price": 6910,
+        "current_price": 6910,
         "profit_pct": "0.00%",
-        "target_price": 15639,
-        "stop_loss": 9760
+        "target_price": 7946,
+        "stop_loss": 6070
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-026940",
+      "id": "BO-260618-004710",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "부국철강",
-      "name": "부국철강",
-      "ticker": "026940",
+      "display_name": "한솔테크닉스",
+      "name": "한솔테크닉스",
+      "ticker": "004710",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "부국철강 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "한솔테크닉스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 2435,
-        "current_price": 2435,
+        "entry_date": "2026-06-18",
+        "entry_price": 14290,
+        "current_price": 14290,
         "profit_pct": "0.00%",
-        "target_price": 2800,
-        "stop_loss": 1901
+        "target_price": 16433,
+        "stop_loss": 11520
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-015760",
+      "id": "BO-260618-013360",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "한국전력",
-      "name": "한국전력",
-      "ticker": "015760",
+      "display_name": "일성건설",
+      "name": "일성건설",
+      "ticker": "013360",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한국전력 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "일성건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 41000,
-        "current_price": 41000,
+        "entry_date": "2026-06-18",
+        "entry_price": 1866,
+        "current_price": 1866,
         "profit_pct": "0.00%",
-        "target_price": 47149,
-        "stop_loss": 35000
+        "target_price": 2145,
+        "stop_loss": 1241
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-028050",
+      "id": "BO-260618-085620",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "삼성E&A",
-      "name": "삼성E&A",
-      "ticker": "028050",
+      "display_name": "미래에셋생명",
+      "name": "미래에셋생명",
+      "ticker": "085620",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼성E&A 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "미래에셋생명 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 53600,
-        "current_price": 53600,
+        "entry_date": "2026-06-18",
+        "entry_price": 32400,
+        "current_price": 32400,
         "profit_pct": "0.00%",
-        "target_price": 61639,
-        "stop_loss": 43200
+        "target_price": 37260,
+        "stop_loss": 25900
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-000660",
+      "id": "BO-260618-000660",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "SK****",
@@ -277,67 +229,187 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 2484000,
-        "current_price": 2484000,
+        "entry_date": "2026-06-18",
+        "entry_price": 2686000,
+        "current_price": 2686000,
         "profit_pct": "0.00%",
-        "target_price": 2856600,
-        "stop_loss": 1960000
+        "target_price": 3088899,
+        "stop_loss": 2150000
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-100090",
+      "id": "BO-260618-058430",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "SK오션플랜트",
-      "name": "SK오션플랜트",
-      "ticker": "100090",
+      "display_name": "포스코스틸리온",
+      "name": "포스코스틸리온",
+      "ticker": "058430",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "SK오션플랜트 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "포스코스틸리온 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 19920,
-        "current_price": 19920,
+        "entry_date": "2026-06-18",
+        "entry_price": 6180,
+        "current_price": 6180,
         "profit_pct": "0.00%",
-        "target_price": 22908,
-        "stop_loss": 14660
+        "target_price": 7106,
+        "stop_loss": 5350
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260617-011200",
+      "id": "BO-260618-001820",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "HMM",
-      "name": "HMM",
-      "ticker": "011200",
+      "display_name": "삼화콘덴서",
+      "name": "삼화콘덴서",
+      "ticker": "001820",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "HMM 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "삼화콘덴서 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-17",
-        "entry_price": 22200,
-        "current_price": 22200,
+        "entry_date": "2026-06-18",
+        "entry_price": 192500,
+        "current_price": 192500,
         "profit_pct": "0.00%",
-        "target_price": 25529,
-        "stop_loss": 18000
+        "target_price": 221374,
+        "stop_loss": 121900
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260618-011230",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "삼화전자",
+      "name": "삼화전자",
+      "ticker": "011230",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "삼화전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-18",
+        "entry_price": 3740,
+        "current_price": 3740,
+        "profit_pct": "0.00%",
+        "target_price": 4301,
+        "stop_loss": 2185
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260618-026940",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "부국철강",
+      "name": "부국철강",
+      "ticker": "026940",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "부국철강 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-18",
+        "entry_price": 2495,
+        "current_price": 2495,
+        "profit_pct": "0.00%",
+        "target_price": 2869,
+        "stop_loss": 1950
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260618-005935",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "삼성전자우",
+      "name": "삼성전자우",
+      "ticker": "005935",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "삼성전자우 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-18",
+        "entry_price": 226500,
+        "current_price": 226500,
+        "profit_pct": "0.00%",
+        "target_price": 260474,
+        "stop_loss": 203000
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260618-006345",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "대원전선우",
+      "name": "대원전선우",
+      "ticker": "006345",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "대원전선우 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-18",
+        "entry_price": 15420,
+        "current_price": 15420,
+        "profit_pct": "0.00%",
+        "target_price": 17733,
+        "stop_loss": 10090
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260618-008970",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "KBI동양철관",
+      "name": "KBI동양철관",
+      "ticker": "008970",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "KBI동양철관 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-18",
+        "entry_price": 1463,
+        "current_price": 1463,
+        "profit_pct": "0.00%",
+        "target_price": 1682,
+        "stop_loss": 1355
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 12,
+    "active_holdings_count": 15,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
