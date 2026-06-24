@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-23 04:19:27",
+    "last_updated_kst": "2026-06-24 04:33:56",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "862,676.00",
-        "value": "862,676.00",
-        "change_rate": -5.35,
-        "changeRate": -5.35,
-        "status": "down",
+        "current_value": "823,157.00",
+        "value": "823,157.00",
+        "change_rate": 0.34,
+        "changeRate": 0.34,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-23 04:18"
+        "validated_at": "2026-06-24 04:33"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "91,686.00",
-        "value": "91,686.00",
-        "change_rate": -5.32,
-        "changeRate": -5.32,
-        "status": "down",
+        "current_value": "89,254.00",
+        "value": "89,254.00",
+        "change_rate": 0.11,
+        "changeRate": 0.11,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-23 04:18"
+        "validated_at": "2026-06-24 04:33"
       }
     ],
     "protection_mode": {
@@ -47,55 +47,31 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260623-026940",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "부국****",
+      "id": "BO-260624-026940",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "부국철강",
       "name": "부국철강",
       "ticker": "026940",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "부국철강 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 3755,
-        "current_price": 3755,
+        "entry_date": "2026-06-24",
+        "entry_price": 4340,
+        "current_price": 4340,
         "profit_pct": "0.00%",
-        "target_price": 4318,
+        "target_price": 4991,
         "stop_loss": 2100
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260623-000890",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "보해****",
-      "name": "보해양조",
-      "ticker": "000890",
-      "sector": "분석중",
-      "mvp_score": 90,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "보해양조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 3040,
-        "current_price": 3040,
-        "profit_pct": "0.00%",
-        "target_price": 3495,
-        "stop_loss": 1397
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260623-058730",
+      "id": "BO-260624-058730",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "다스코",
@@ -109,115 +85,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 3185,
-        "current_price": 3185,
+        "entry_date": "2026-06-24",
+        "entry_price": 3270,
+        "current_price": 3270,
         "profit_pct": "0.00%",
-        "target_price": 3662,
+        "target_price": 3760,
         "stop_loss": 2590
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260623-000660",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "SK하이닉스",
-      "name": "SK하이닉스",
-      "ticker": "000660",
+      "id": "BO-260624-000890",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "보해****",
+      "name": "보해양조",
+      "ticker": "000890",
       "sector": "분석중",
-      "mvp_score": 80,
+      "mvp_score": 90,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "SK하이닉스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "보해양조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 2745000,
-        "current_price": 2745000,
+        "entry_date": "2026-06-24",
+        "entry_price": 3950,
+        "current_price": 3950,
         "profit_pct": "0.00%",
-        "target_price": 3156749,
-        "stop_loss": 2334000
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260623-008420",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "문배철강",
-      "name": "문배철강",
-      "ticker": "008420",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "문배철강 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 2415,
-        "current_price": 2415,
-        "profit_pct": "0.00%",
-        "target_price": 2777,
-        "stop_loss": 2100
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260623-093370",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "후성",
-      "name": "후성",
-      "ticker": "093370",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "후성 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 18800,
-        "current_price": 18800,
-        "profit_pct": "0.00%",
-        "target_price": 21620,
-        "stop_loss": 16440
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260623-014910",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "성문전자",
-      "name": "성문전자",
-      "ticker": "014910",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "성문전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-23",
-        "entry_price": 3060,
-        "current_price": 3060,
-        "profit_pct": "0.00%",
-        "target_price": 3518,
-        "stop_loss": 2490
+        "target_price": 4542,
+        "stop_loss": 1397
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 7,
+    "active_holdings_count": 3,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
