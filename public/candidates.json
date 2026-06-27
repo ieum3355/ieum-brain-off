@@ -3,20 +3,20 @@
     "id": 1,
     "ticker": "058730",
     "name": "다스코",
-    "currentPrice": 3640,
-    "changeRate": -11.33,
-    "volume": 32662262,
+    "currentPrice": 3435,
+    "changeRate": -16.32,
+    "volume": 37012899,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-26",
+    "captureDate": "2026-06-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3640,
+      "entry": 3435,
       "stop": 2775,
-      "target": 4186
+      "target": 3950
     },
     "resistancePrice": 4990,
-    "supportPrice": 3301
+    "supportPrice": 3298
   },
   {
     "id": 2,
@@ -24,10 +24,10 @@
     "name": "금호전기",
     "currentPrice": 845,
     "changeRate": 30.0,
-    "volume": 10472367,
+    "volume": 10609560,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-06-26",
+    "captureDate": "2026-06-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 845,
@@ -43,10 +43,10 @@
     "name": "금호건설",
     "currentPrice": 6630,
     "changeRate": 30.0,
-    "volume": 8739220,
+    "volume": 9084096,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-06-26",
+    "captureDate": "2026-06-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 6630,
@@ -60,38 +60,76 @@
     "id": 4,
     "ticker": "002880",
     "name": "디와이에이",
-    "currentPrice": 961,
-    "changeRate": 22.11,
-    "volume": 7101810,
+    "currentPrice": 990,
+    "changeRate": 25.79,
+    "volume": 9008809,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-26",
+    "captureDate": "2026-06-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 961,
+      "entry": 990,
       "stop": 684,
-      "target": 1105
+      "target": 1138
     },
     "resistancePrice": 1023,
-    "supportPrice": 862
+    "supportPrice": 863
   },
   {
     "id": 5,
-    "ticker": "005935",
-    "name": "삼성전자우",
-    "currentPrice": 221000,
-    "changeRate": -5.96,
-    "volume": 3422334,
+    "ticker": "010960",
+    "name": "삼호개발",
+    "currentPrice": 3690,
+    "changeRate": 8.69,
+    "volume": 6007267,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-26",
+    "captureDate": "2026-06-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 221000,
+      "entry": 3690,
+      "stop": 2985,
+      "target": 4243
+    },
+    "resistancePrice": 4400,
+    "supportPrice": 3609
+  },
+  {
+    "id": 6,
+    "ticker": "005935",
+    "name": "삼성전자우",
+    "currentPrice": 220500,
+    "changeRate": -6.17,
+    "volume": 4988087,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-06-27",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 220500,
       "stop": 202500,
-      "target": 254149
+      "target": 253574
     },
     "resistancePrice": 243500,
-    "supportPrice": 178956
+    "supportPrice": 178948
+  },
+  {
+    "id": 7,
+    "ticker": "037710",
+    "name": "광주신세계",
+    "currentPrice": 52900,
+    "changeRate": 29.98,
+    "volume": 2856213,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-06-27",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 52900,
+      "stop": 34100,
+      "target": 60834
+    },
+    "resistancePrice": 52900,
+    "supportPrice": 36650
   }
 ]

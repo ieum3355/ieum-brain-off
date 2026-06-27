@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-26 04:38:28",
+    "last_updated_kst": "2026-06-27 04:15:09",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "821,070.00",
-        "value": "821,070.00",
-        "change_rate": -8.06,
-        "changeRate": -8.06,
+        "current_value": "841,121.00",
+        "value": "841,121.00",
+        "change_rate": -5.81,
+        "changeRate": -5.81,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-26 04:38"
+        "validated_at": "2026-06-27 04:14"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "84,325.00",
-        "value": "84,325.00",
-        "change_rate": -5.02,
-        "changeRate": -5.02,
+        "current_value": "85,137.00",
+        "value": "85,137.00",
+        "change_rate": -4.1,
+        "changeRate": -4.1,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-26 04:38"
+        "validated_at": "2026-06-27 04:14"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260626-058730",
+      "id": "BO-260627-058730",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "다스코",
@@ -61,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-26",
-        "entry_price": 3640,
-        "current_price": 3640,
+        "entry_date": "2026-06-27",
+        "entry_price": 3435,
+        "current_price": 3435,
         "profit_pct": "0.00%",
-        "target_price": 4186,
+        "target_price": 3950,
         "stop_loss": 2775
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260626-001210",
+      "id": "BO-260627-001210",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "금호****",
@@ -85,7 +85,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-26",
+        "entry_date": "2026-06-27",
         "entry_price": 845,
         "current_price": 845,
         "profit_pct": "0.00%",
@@ -95,7 +95,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260626-002990",
+      "id": "BO-260627-002990",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "금호****",
@@ -109,7 +109,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-26",
+        "entry_date": "2026-06-27",
         "entry_price": 6630,
         "current_price": 6630,
         "profit_pct": "0.00%",
@@ -119,7 +119,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260626-002880",
+      "id": "BO-260627-002880",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "디와이에이",
@@ -133,17 +133,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-26",
-        "entry_price": 961,
-        "current_price": 961,
+        "entry_date": "2026-06-27",
+        "entry_price": 990,
+        "current_price": 990,
         "profit_pct": "0.00%",
-        "target_price": 1105,
+        "target_price": 1138,
         "stop_loss": 684
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260626-005935",
+      "id": "BO-260627-010960",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "삼호개발",
+      "name": "삼호개발",
+      "ticker": "010960",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "삼호개발 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-27",
+        "entry_price": 3690,
+        "current_price": 3690,
+        "profit_pct": "0.00%",
+        "target_price": 4243,
+        "stop_loss": 2985
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260627-005935",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼성전자우",
@@ -157,19 +181,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-26",
-        "entry_price": 221000,
-        "current_price": 221000,
+        "entry_date": "2026-06-27",
+        "entry_price": 220500,
+        "current_price": 220500,
         "profit_pct": "0.00%",
-        "target_price": 254149,
+        "target_price": 253574,
         "stop_loss": 202500
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260627-037710",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "광주****",
+      "name": "광주신세계",
+      "ticker": "037710",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "광주신세계 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-27",
+        "entry_price": 52900,
+        "current_price": 52900,
+        "profit_pct": "0.00%",
+        "target_price": 60834,
+        "stop_loss": 34100
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 5,
+    "active_holdings_count": 7,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
