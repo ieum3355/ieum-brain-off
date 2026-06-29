@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-06-28 04:48:28",
+    "last_updated_kst": "2026-06-29 04:58:05",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "841,121.00",
-        "value": "841,121.00",
-        "change_rate": -5.81,
-        "changeRate": -5.81,
+        "current_value": "822,502.00",
+        "value": "822,502.00",
+        "change_rate": -2.21,
+        "changeRate": -2.21,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-28 04:48"
+        "validated_at": "2026-06-29 04:57"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "85,137.00",
-        "value": "85,137.00",
-        "change_rate": -4.1,
-        "changeRate": -4.1,
-        "status": "down",
+        "current_value": "90,997.00",
+        "value": "90,997.00",
+        "change_rate": 6.88,
+        "changeRate": 6.88,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-06-28 04:48"
+        "validated_at": "2026-06-29 04:57"
       }
     ],
     "protection_mode": {
@@ -47,31 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260628-058730",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "다스코",
-      "name": "다스코",
-      "ticker": "058730",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 3435,
-        "current_price": 3435,
-        "profit_pct": "0.00%",
-        "target_price": 3950,
-        "stop_loss": 2775
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260628-001210",
+      "id": "BO-260629-001210",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "금호****",
@@ -85,41 +61,65 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 845,
-        "current_price": 845,
+        "entry_date": "2026-06-29",
+        "entry_price": 1098,
+        "current_price": 1098,
         "profit_pct": "0.00%",
-        "target_price": 971,
-        "stop_loss": 470
+        "target_price": 1262,
+        "stop_loss": 475
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260628-002990",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "금호****",
-      "name": "금호건설",
-      "ticker": "002990",
+      "id": "BO-260629-058730",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "다스코",
+      "name": "다스코",
+      "ticker": "058730",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "금호건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 6630,
-        "current_price": 6630,
+        "entry_date": "2026-06-29",
+        "entry_price": 4465,
+        "current_price": 4465,
         "profit_pct": "0.00%",
-        "target_price": 7624,
-        "stop_loss": 3705
+        "target_price": 5134,
+        "stop_loss": 2775
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260628-002880",
+      "id": "BO-260629-475150",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "SK이터닉스",
+      "name": "SK이터닉스",
+      "ticker": "475150",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "SK이터닉스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-06-29",
+        "entry_price": 51400,
+        "current_price": 51400,
+        "profit_pct": "0.00%",
+        "target_price": 59109,
+        "stop_loss": 36450
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260629-002880",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "디와이에이",
@@ -133,17 +133,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 990,
-        "current_price": 990,
+        "entry_date": "2026-06-29",
+        "entry_price": 1004,
+        "current_price": 1004,
         "profit_pct": "0.00%",
-        "target_price": 1138,
+        "target_price": 1154,
         "stop_loss": 684
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260628-010960",
+      "id": "BO-260629-010960",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼호개발",
@@ -157,59 +157,35 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 3690,
-        "current_price": 3690,
+        "entry_date": "2026-06-29",
+        "entry_price": 3890,
+        "current_price": 3890,
         "profit_pct": "0.00%",
-        "target_price": 4243,
+        "target_price": 4473,
         "stop_loss": 2985
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260628-005935",
+      "id": "BO-260629-037710",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "삼성전자우",
-      "name": "삼성전자우",
-      "ticker": "005935",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼성전자우 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 220500,
-        "current_price": 220500,
-        "profit_pct": "0.00%",
-        "target_price": 253574,
-        "stop_loss": 202500
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260628-037710",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "광주****",
+      "display_name": "광주신세계",
       "name": "광주신세계",
       "ticker": "037710",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "광주신세계 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-06-28",
-        "entry_price": 52900,
-        "current_price": 52900,
+        "entry_date": "2026-06-29",
+        "entry_price": 55000,
+        "current_price": 55000,
         "profit_pct": "0.00%",
-        "target_price": 60834,
+        "target_price": 63249,
         "stop_loss": 34100
       },
       "history_hit_rate": "80%+"
@@ -217,7 +193,7 @@
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 7,
+    "active_holdings_count": 6,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
