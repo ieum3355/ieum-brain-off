@@ -3,114 +3,114 @@
     "id": 1,
     "ticker": "001210",
     "name": "금호전기",
-    "currentPrice": 1098,
-    "changeRate": 29.94,
-    "volume": 19357515,
+    "currentPrice": 1291,
+    "changeRate": 17.58,
+    "volume": 77549858,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-06-29",
+    "captureDate": "2026-06-30",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 1098,
+      "entry": 1291,
       "stop": 475,
-      "target": 1262
+      "target": 1484
     },
-    "resistancePrice": 1098,
-    "supportPrice": 750
+    "resistancePrice": 1291,
+    "supportPrice": 758
   },
   {
     "id": 2,
-    "ticker": "058730",
-    "name": "다스코",
-    "currentPrice": 4465,
-    "changeRate": 29.99,
-    "volume": 13366947,
-    "score": 80,
+    "ticker": "002990",
+    "name": "금호건설",
+    "currentPrice": 11190,
+    "changeRate": 29.97,
+    "volume": 30796235,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-06-29",
+    "captureDate": "2026-06-30",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 4465,
-      "stop": 2775,
-      "target": 5134
+      "entry": 11190,
+      "stop": 3855,
+      "target": 12868
     },
-    "resistancePrice": 4990,
-    "supportPrice": 3313
+    "resistancePrice": 11190,
+    "supportPrice": 4861
   },
   {
     "id": 3,
-    "ticker": "475150",
-    "name": "SK이터닉스",
-    "currentPrice": 51400,
-    "changeRate": 18.98,
-    "volume": 9031765,
+    "ticker": "058730",
+    "name": "다스코",
+    "currentPrice": 4440,
+    "changeRate": -0.56,
+    "volume": 15134820,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-29",
+    "captureDate": "2026-06-30",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 51400,
-      "stop": 36450,
-      "target": 59109
+      "entry": 4440,
+      "stop": 3125,
+      "target": 5106
     },
-    "resistancePrice": 61900,
-    "supportPrice": 49041
+    "resistancePrice": 4990,
+    "supportPrice": 3325
   },
   {
     "id": 4,
-    "ticker": "002880",
-    "name": "디와이에이",
-    "currentPrice": 1004,
-    "changeRate": 1.41,
-    "volume": 3170963,
+    "ticker": "475150",
+    "name": "SK이터닉스",
+    "currentPrice": 50900,
+    "changeRate": 1.8,
+    "volume": 5601225,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-29",
+    "captureDate": "2026-06-30",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 1004,
-      "stop": 684,
-      "target": 1154
+      "entry": 50900,
+      "stop": 36450,
+      "target": 58534
     },
-    "resistancePrice": 1170,
-    "supportPrice": 864
+    "resistancePrice": 61900,
+    "supportPrice": 48965
   },
   {
     "id": 5,
-    "ticker": "010960",
-    "name": "삼호개발",
-    "currentPrice": 3890,
-    "changeRate": 5.42,
-    "volume": 1968990,
+    "ticker": "093370",
+    "name": "후성",
+    "currentPrice": 19540,
+    "changeRate": 4.49,
+    "volume": 5165301,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-29",
+    "captureDate": "2026-06-30",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3890,
-      "stop": 2985,
-      "target": 4473
+      "entry": 19540,
+      "stop": 15850,
+      "target": 22471
     },
-    "resistancePrice": 4400,
-    "supportPrice": 3611
+    "resistancePrice": 23550,
+    "supportPrice": 13609
   },
   {
     "id": 6,
-    "ticker": "037710",
-    "name": "광주신세계",
-    "currentPrice": 55000,
-    "changeRate": 3.97,
-    "volume": 1790868,
+    "ticker": "000400",
+    "name": "롯데손해보험",
+    "currentPrice": 2120,
+    "changeRate": -5.57,
+    "volume": 4778861,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-06-29",
+    "captureDate": "2026-06-30",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 55000,
-      "stop": 34100,
-      "target": 63249
+      "entry": 2120,
+      "stop": 1631,
+      "target": 2438
     },
-    "resistancePrice": 59300,
-    "supportPrice": 36977
+    "resistancePrice": 2515,
+    "supportPrice": 2042
   }
 ]
