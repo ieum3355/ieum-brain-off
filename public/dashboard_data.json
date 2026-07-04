@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-03 04:06:30",
+    "last_updated_kst": "2026-07-04 04:00:01",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "794,049.00",
-        "value": "794,049.00",
-        "change_rate": 3.82,
-        "changeRate": 3.82,
+        "current_value": "808,834.00",
+        "value": "808,834.00",
+        "change_rate": 5.76,
+        "changeRate": 5.76,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-03 04:06"
+        "validated_at": "2026-07-04 03:59"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "84,743.00",
-        "value": "84,743.00",
-        "change_rate": -2.23,
-        "changeRate": -2.23,
-        "status": "down",
+        "current_value": "86,841.00",
+        "value": "86,841.00",
+        "change_rate": 0.19,
+        "changeRate": 0.19,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-03 04:06"
+        "validated_at": "2026-07-04 03:59"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260703-002780",
+      "id": "BO-260704-002780",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "진흥기업",
@@ -61,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
-        "entry_price": 937,
-        "current_price": 937,
+        "entry_date": "2026-07-04",
+        "entry_price": 936,
+        "current_price": 936,
         "profit_pct": "0.00%",
-        "target_price": 1077,
+        "target_price": 1076,
         "stop_loss": 701
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260703-006340",
+      "id": "BO-260704-006340",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대원전선",
@@ -85,7 +85,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
+        "entry_date": "2026-07-04",
         "entry_price": 13050,
         "current_price": 13050,
         "profit_pct": "0.00%",
@@ -95,7 +95,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260703-011230",
+      "id": "BO-260704-011230",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼화전자",
@@ -109,17 +109,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
-        "entry_price": 3445,
-        "current_price": 3445,
+        "entry_date": "2026-07-04",
+        "entry_price": 3575,
+        "current_price": 3575,
         "profit_pct": "0.00%",
-        "target_price": 3961,
+        "target_price": 4111,
         "stop_loss": 2320
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260703-013360",
+      "id": "BO-260704-013360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "일성건설",
@@ -133,17 +133,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
-        "entry_price": 1593,
-        "current_price": 1593,
+        "entry_date": "2026-07-04",
+        "entry_price": 1607,
+        "current_price": 1607,
         "profit_pct": "0.00%",
-        "target_price": 1831,
+        "target_price": 1848,
         "stop_loss": 1202
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260703-003490",
+      "id": "BO-260704-014910",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "성문전자",
+      "name": "성문전자",
+      "ticker": "014910",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "성문전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-04",
+        "entry_price": 2975,
+        "current_price": 2975,
+        "profit_pct": "0.00%",
+        "target_price": 3421,
+        "stop_loss": 2190
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260704-003490",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대한항공",
@@ -157,17 +181,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
-        "entry_price": 28750,
-        "current_price": 28750,
+        "entry_date": "2026-07-04",
+        "entry_price": 28850,
+        "current_price": 28850,
         "profit_pct": "0.00%",
-        "target_price": 33062,
+        "target_price": 33177,
         "stop_loss": 26850
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260703-055550",
+      "id": "BO-260704-055550",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신한지주",
@@ -181,17 +205,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
-        "entry_price": 107100,
-        "current_price": 107100,
+        "entry_date": "2026-07-04",
+        "entry_price": 107300,
+        "current_price": 107300,
         "profit_pct": "0.00%",
-        "target_price": 123164,
+        "target_price": 123394,
         "stop_loss": 90900
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260703-006360",
+      "id": "BO-260704-006360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "GS건설",
@@ -205,11 +229,11 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-03",
-        "entry_price": 28350,
-        "current_price": 28350,
+        "entry_date": "2026-07-04",
+        "entry_price": 28550,
+        "current_price": 28550,
         "profit_pct": "0.00%",
-        "target_price": 32602,
+        "target_price": 32832,
         "stop_loss": 23150
       },
       "history_hit_rate": "80%+"
@@ -217,7 +241,7 @@
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 7,
+    "active_holdings_count": 8,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
