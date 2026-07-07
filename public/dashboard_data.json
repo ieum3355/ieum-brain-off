@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-06 04:37:35",
+    "last_updated_kst": "2026-07-07 04:15:22",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "801,999.00",
-        "value": "801,999.00",
-        "change_rate": -0.85,
-        "changeRate": -0.85,
+        "current_value": "746,526.00",
+        "value": "746,526.00",
+        "change_rate": -7.28,
+        "changeRate": -7.28,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-06 04:37"
+        "validated_at": "2026-07-07 04:15"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "84,256.00",
-        "value": "84,256.00",
-        "change_rate": -2.98,
-        "changeRate": -2.98,
+        "current_value": "82,097.00",
+        "value": "82,097.00",
+        "change_rate": -3.08,
+        "changeRate": -3.08,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-06 04:37"
+        "validated_at": "2026-07-07 04:15"
       }
     ],
     "protection_mode": {
@@ -47,127 +47,79 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260706-002700",
+      "id": "BO-260707-001210",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "신일전자",
-      "name": "신일전자",
-      "ticker": "002700",
+      "display_name": "금호전기",
+      "name": "금호전기",
+      "ticker": "001210",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "신일전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "금호전기 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 1342,
-        "current_price": 1342,
+        "entry_date": "2026-07-07",
+        "entry_price": 1085,
+        "current_price": 1085,
         "profit_pct": "0.00%",
-        "target_price": 1543,
-        "stop_loss": 1080
+        "target_price": 1247,
+        "stop_loss": 671
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-002780",
+      "id": "BO-260707-002990",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "진흥기업",
-      "name": "진흥기업",
-      "ticker": "002780",
+      "display_name": "금호건설",
+      "name": "금호건설",
+      "ticker": "002990",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "진흥기업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "금호건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 1216,
-        "current_price": 1216,
+        "entry_date": "2026-07-07",
+        "entry_price": 14360,
+        "current_price": 14360,
         "profit_pct": "0.00%",
-        "target_price": 1398,
-        "stop_loss": 766
+        "target_price": 16514,
+        "stop_loss": 8650
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-011230",
+      "id": "BO-260707-058730",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "삼화전자",
-      "name": "삼화전자",
-      "ticker": "011230",
+      "display_name": "다스코",
+      "name": "다스코",
+      "ticker": "058730",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼화전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 3885,
-        "current_price": 3885,
+        "entry_date": "2026-07-07",
+        "entry_price": 4015,
+        "current_price": 4015,
         "profit_pct": "0.00%",
-        "target_price": 4467,
-        "stop_loss": 2445
+        "target_price": 4617,
+        "stop_loss": 3230
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-006340",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "대원전선",
-      "name": "대원전선",
-      "ticker": "006340",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 12520,
-        "current_price": 12520,
-        "profit_pct": "0.00%",
-        "target_price": 14397,
-        "stop_loss": 9860
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260706-010960",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "삼호개발",
-      "name": "삼호개발",
-      "ticker": "010960",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼호개발 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 4275,
-        "current_price": 4275,
-        "profit_pct": "0.00%",
-        "target_price": 4916,
-        "stop_loss": 3235
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260706-013360",
+      "id": "BO-260707-013360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "일성건설",
@@ -181,41 +133,65 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 2085,
-        "current_price": 2085,
+        "entry_date": "2026-07-07",
+        "entry_price": 2020,
+        "current_price": 2020,
         "profit_pct": "0.00%",
-        "target_price": 2397,
-        "stop_loss": 1202
+        "target_price": 2323,
+        "stop_loss": 1209
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-014910",
+      "id": "BO-260707-010960",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "성문전자",
-      "name": "성문전자",
-      "ticker": "014910",
+      "display_name": "삼호개발",
+      "name": "삼호개발",
+      "ticker": "010960",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "성문전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "삼호개발 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 2685,
-        "current_price": 2685,
+        "entry_date": "2026-07-07",
+        "entry_price": 4460,
+        "current_price": 4460,
         "profit_pct": "0.00%",
-        "target_price": 3087,
-        "stop_loss": 2190
+        "target_price": 5129,
+        "stop_loss": 3255
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-006360",
+      "id": "BO-260707-011230",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "삼화전자",
+      "name": "삼화전자",
+      "ticker": "011230",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "삼화전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-07",
+        "entry_price": 3495,
+        "current_price": 3495,
+        "profit_pct": "0.00%",
+        "target_price": 4019,
+        "stop_loss": 2710
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260707-006360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "GS건설",
@@ -229,41 +205,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 30100,
-        "current_price": 30100,
+        "entry_date": "2026-07-07",
+        "entry_price": 30700,
+        "current_price": 30700,
         "profit_pct": "0.00%",
-        "target_price": 34615,
-        "stop_loss": 24750
+        "target_price": 35305,
+        "stop_loss": 26100
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-007610",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "선도전기",
-      "name": "선도전기",
-      "ticker": "007610",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "선도전기 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 5470,
-        "current_price": 5470,
-        "profit_pct": "0.00%",
-        "target_price": 6290,
-        "stop_loss": 3785
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260706-003490",
+      "id": "BO-260707-003490",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대한항공",
@@ -277,7 +229,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
+        "entry_date": "2026-07-07",
         "entry_price": 28650,
         "current_price": 28650,
         "profit_pct": "0.00%",
@@ -287,33 +239,33 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260706-001260",
+      "id": "BO-260707-004980",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "남광토건",
-      "name": "남광토건",
-      "ticker": "001260",
+      "display_name": "성신양회",
+      "name": "성신양회",
+      "ticker": "004980",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "남광토건 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "성신양회 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-06",
-        "entry_price": 10100,
-        "current_price": 10100,
+        "entry_date": "2026-07-07",
+        "entry_price": 9110,
+        "current_price": 9110,
         "profit_pct": "0.00%",
-        "target_price": 11615,
-        "stop_loss": 7960
+        "target_price": 10476,
+        "stop_loss": 7840
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 11,
+    "active_holdings_count": 9,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
