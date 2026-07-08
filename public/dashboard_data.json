@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-07 04:15:22",
+    "last_updated_kst": "2026-07-08 03:42:08",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "746,526.00",
-        "value": "746,526.00",
-        "change_rate": -7.28,
-        "changeRate": -7.28,
+        "current_value": "753,501.00",
+        "value": "753,501.00",
+        "change_rate": -1.58,
+        "changeRate": -1.58,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-07 04:15"
+        "validated_at": "2026-07-08 03:41"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "82,097.00",
-        "value": "82,097.00",
-        "change_rate": -3.08,
-        "changeRate": -3.08,
+        "current_value": "80,152.00",
+        "value": "80,152.00",
+        "change_rate": -3.57,
+        "changeRate": -3.57,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-07 04:15"
+        "validated_at": "2026-07-08 03:41"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260707-001210",
+      "id": "BO-260708-001210",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "금호전기",
@@ -61,41 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 1085,
-        "current_price": 1085,
+        "entry_date": "2026-07-08",
+        "entry_price": 1302,
+        "current_price": 1302,
         "profit_pct": "0.00%",
-        "target_price": 1247,
+        "target_price": 1497,
         "stop_loss": 671
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260707-002990",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "금호건설",
-      "name": "금호건설",
-      "ticker": "002990",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "금호건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 14360,
-        "current_price": 14360,
-        "profit_pct": "0.00%",
-        "target_price": 16514,
-        "stop_loss": 8650
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260707-058730",
+      "id": "BO-260708-058730",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "다스코",
@@ -109,41 +85,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 4015,
-        "current_price": 4015,
+        "entry_date": "2026-07-08",
+        "entry_price": 4150,
+        "current_price": 4150,
         "profit_pct": "0.00%",
-        "target_price": 4617,
+        "target_price": 4772,
         "stop_loss": 3230
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260707-013360",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "일성건설",
-      "name": "일성건설",
-      "ticker": "013360",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "일성건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 2020,
-        "current_price": 2020,
-        "profit_pct": "0.00%",
-        "target_price": 2323,
-        "stop_loss": 1209
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260707-010960",
+      "id": "BO-260708-010960",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼호개발",
@@ -157,115 +109,67 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 4460,
-        "current_price": 4460,
+        "entry_date": "2026-07-08",
+        "entry_price": 4310,
+        "current_price": 4310,
         "profit_pct": "0.00%",
-        "target_price": 5129,
-        "stop_loss": 3255
+        "target_price": 4956,
+        "stop_loss": 3505
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260707-011230",
+      "id": "BO-260708-013360",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "삼화전자",
-      "name": "삼화전자",
-      "ticker": "011230",
+      "display_name": "일성건설",
+      "name": "일성건설",
+      "ticker": "013360",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼화전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "일성건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 3495,
-        "current_price": 3495,
+        "entry_date": "2026-07-08",
+        "entry_price": 2045,
+        "current_price": 2045,
         "profit_pct": "0.00%",
-        "target_price": 4019,
-        "stop_loss": 2710
+        "target_price": 2351,
+        "stop_loss": 1522
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260707-006360",
+      "id": "BO-260708-013700",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "GS건설",
-      "name": "GS건설",
-      "ticker": "006360",
+      "display_name": "까뮤이앤씨",
+      "name": "까뮤이앤씨",
+      "ticker": "013700",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "GS건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "까뮤이앤씨 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 30700,
-        "current_price": 30700,
+        "entry_date": "2026-07-08",
+        "entry_price": 1369,
+        "current_price": 1369,
         "profit_pct": "0.00%",
-        "target_price": 35305,
-        "stop_loss": 26100
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260707-003490",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "대한항공",
-      "name": "대한항공",
-      "ticker": "003490",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대한항공 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 28650,
-        "current_price": 28650,
-        "profit_pct": "0.00%",
-        "target_price": 32947,
-        "stop_loss": 26850
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260707-004980",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "성신양회",
-      "name": "성신양회",
-      "ticker": "004980",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "성신양회 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-07",
-        "entry_price": 9110,
-        "current_price": 9110,
-        "profit_pct": "0.00%",
-        "target_price": 10476,
-        "stop_loss": 7840
+        "target_price": 1574,
+        "stop_loss": 1249
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 9,
+    "active_holdings_count": 5,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
