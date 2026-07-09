@@ -3,95 +3,76 @@
     "id": 1,
     "ticker": "001210",
     "name": "금호전기",
-    "currentPrice": 1302,
-    "changeRate": 29.94,
-    "volume": 45424482,
+    "currentPrice": 1182,
+    "changeRate": -9.22,
+    "volume": 56467423,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-08",
+    "captureDate": "2026-07-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 1302,
+      "entry": 1182,
       "stop": 671,
-      "target": 1497
+      "target": 1359
     },
     "resistancePrice": 1518,
-    "supportPrice": 783
+    "supportPrice": 788
   },
   {
     "id": 2,
     "ticker": "058730",
     "name": "다스코",
-    "currentPrice": 4150,
-    "changeRate": 3.75,
-    "volume": 9109622,
+    "currentPrice": 5010,
+    "changeRate": -3.65,
+    "volume": 24613280,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-08",
+    "captureDate": "2026-07-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 4150,
+      "entry": 5010,
       "stop": 3230,
-      "target": 4772
+      "target": 5761
     },
-    "resistancePrice": 5000,
-    "supportPrice": 3332
+    "resistancePrice": 5800,
+    "supportPrice": 3369
   },
   {
     "id": 3,
-    "ticker": "010960",
-    "name": "삼호개발",
-    "currentPrice": 4310,
-    "changeRate": 2.86,
-    "volume": 5936307,
+    "ticker": "002990",
+    "name": "금호건설",
+    "currentPrice": 15310,
+    "changeRate": 9.36,
+    "volume": 13120854,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-08",
+    "captureDate": "2026-07-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 4310,
-      "stop": 3505,
-      "target": 4956
+      "entry": 15310,
+      "stop": 8650,
+      "target": 17606
     },
-    "resistancePrice": 5500,
-    "supportPrice": 3638
+    "resistancePrice": 18900,
+    "supportPrice": 5806
   },
   {
     "id": 4,
-    "ticker": "013360",
-    "name": "일성건설",
-    "currentPrice": 2045,
-    "changeRate": 6.12,
-    "volume": 4426669,
+    "ticker": "214330",
+    "name": "금호에이치티",
+    "currentPrice": 9060,
+    "changeRate": 0.33,
+    "volume": 2973766,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-08",
+    "captureDate": "2026-07-09",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2045,
-      "stop": 1522,
-      "target": 2351
+      "entry": 9060,
+      "stop": 5110,
+      "target": 10419
     },
-    "resistancePrice": 2380,
-    "supportPrice": 1643
-  },
-  {
-    "id": 5,
-    "ticker": "013700",
-    "name": "까뮤이앤씨",
-    "currentPrice": 1369,
-    "changeRate": -3.52,
-    "volume": 2148899,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-08",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 1369,
-      "stop": 1249,
-      "target": 1574
-    },
-    "resistancePrice": 1630,
-    "supportPrice": 1279
+    "resistancePrice": 10500,
+    "supportPrice": 6405
   }
 ]
