@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-13 03:57:29",
+    "last_updated_kst": "2026-07-14 03:30:53",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "693,380.00",
-        "value": "693,380.00",
-        "change_rate": -7.25,
-        "changeRate": -7.25,
+        "current_value": "657,776.00",
+        "value": "657,776.00",
+        "change_rate": -3.37,
+        "changeRate": -3.37,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-13 03:57"
+        "validated_at": "2026-07-14 03:30"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "80,788.00",
-        "value": "80,788.00",
-        "change_rate": -3.53,
-        "changeRate": -3.53,
+        "current_value": "75,609.00",
+        "value": "75,609.00",
+        "change_rate": -5.41,
+        "changeRate": -5.41,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-13 03:57"
+        "validated_at": "2026-07-14 03:30"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260713-005360",
+      "id": "BO-260714-005360",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "모나미",
@@ -61,91 +61,19 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-13",
+        "entry_date": "2026-07-14",
         "entry_price": 2650,
         "current_price": 2650,
         "profit_pct": "0.00%",
         "target_price": 3047,
-        "stop_loss": 1255
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260713-003680",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "한성기업",
-      "name": "한성기업",
-      "ticker": "003680",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한성기업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-13",
-        "entry_price": 10660,
-        "current_price": 10660,
-        "profit_pct": "0.00%",
-        "target_price": 12258,
-        "stop_loss": 4685
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260713-058730",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "다스코",
-      "name": "다스코",
-      "ticker": "058730",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-13",
-        "entry_price": 5020,
-        "current_price": 5020,
-        "profit_pct": "0.00%",
-        "target_price": 5773,
-        "stop_loss": 3330
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260713-002880",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "디와이에이",
-      "name": "디와이에이",
-      "ticker": "002880",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "디와이에이 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-13",
-        "entry_price": 966,
-        "current_price": 966,
-        "profit_pct": "0.00%",
-        "target_price": 1110,
-        "stop_loss": 798
+        "stop_loss": 1281
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 4,
+    "active_holdings_count": 1,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }

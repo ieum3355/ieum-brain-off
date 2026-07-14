@@ -4,75 +4,18 @@
     "ticker": "005360",
     "name": "모나미",
     "currentPrice": 2650,
-    "changeRate": 23.54,
-    "volume": 12728234,
+    "changeRate": 29.9,
+    "volume": 4492739,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-13",
+    "captureDate": "2026-07-14",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 2650,
-      "stop": 1255,
+      "stop": 1281,
       "target": 3047
     },
     "resistancePrice": 2780,
-    "supportPrice": 1503
-  },
-  {
-    "id": 2,
-    "ticker": "003680",
-    "name": "한성기업",
-    "currentPrice": 10660,
-    "changeRate": 26.0,
-    "volume": 8241651,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-13",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 10660,
-      "stop": 4685,
-      "target": 12258
-    },
-    "resistancePrice": 10990,
-    "supportPrice": 4942
-  },
-  {
-    "id": 3,
-    "ticker": "058730",
-    "name": "다스코",
-    "currentPrice": 5020,
-    "changeRate": -0.2,
-    "volume": 6967432,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-13",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 5020,
-      "stop": 3330,
-      "target": 5773
-    },
-    "resistancePrice": 5800,
-    "supportPrice": 3407
-  },
-  {
-    "id": 4,
-    "ticker": "002880",
-    "name": "디와이에이",
-    "currentPrice": 966,
-    "changeRate": -9.13,
-    "volume": 6484568,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-13",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 966,
-      "stop": 798,
-      "target": 1110
-    },
-    "resistancePrice": 1190,
-    "supportPrice": 858
+    "supportPrice": 1509
   }
 ]
