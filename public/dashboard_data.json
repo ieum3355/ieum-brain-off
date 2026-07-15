@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-14 03:30:53",
+    "last_updated_kst": "2026-07-15 03:30:41",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,29 +13,29 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "657,776.00",
-        "value": "657,776.00",
-        "change_rate": -3.37,
-        "changeRate": -3.37,
-        "status": "down",
-        "is_outlier": false,
-        "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-14 03:30"
+        "current_value": "738,047.00",
+        "value": "738,047.00",
+        "change_rate": 7.64,
+        "changeRate": 7.64,
+        "status": "up",
+        "is_outlier": true,
+        "message": "⚠️ 이상 변동성 감지 (검증 필요)",
+        "validated_at": "2026-07-15 03:30"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "75,609.00",
-        "value": "75,609.00",
-        "change_rate": -5.41,
-        "changeRate": -5.41,
-        "status": "down",
+        "current_value": "82,410.00",
+        "value": "82,410.00",
+        "change_rate": 5.12,
+        "changeRate": 5.12,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-14 03:30"
+        "validated_at": "2026-07-15 03:30"
       }
     ],
     "protection_mode": {
-      "status": "OFF",
+      "status": "ON",
       "logic": "지수 -1.5% 하락 시 자동 보호 모드 활성화"
     }
   },
@@ -47,33 +47,129 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260714-005360",
+      "id": "BO-260715-058730",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "모나미",
+      "display_name": "다스코",
+      "name": "다스코",
+      "ticker": "058730",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-15",
+        "entry_price": 5210,
+        "current_price": 5210,
+        "profit_pct": "0.00%",
+        "target_price": 5991,
+        "stop_loss": 4120
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260715-006340",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "대원전선",
+      "name": "대원전선",
+      "ticker": "006340",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-15",
+        "entry_price": 13100,
+        "current_price": 13100,
+        "profit_pct": "0.00%",
+        "target_price": 15064,
+        "stop_loss": 9210
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260715-475150",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "SK이터닉스",
+      "name": "SK이터닉스",
+      "ticker": "475150",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "SK이터닉스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-15",
+        "entry_price": 54300,
+        "current_price": 54300,
+        "profit_pct": "0.00%",
+        "target_price": 62444,
+        "stop_loss": 41200
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260715-005360",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "모나****",
       "name": "모나미",
       "ticker": "005360",
       "sector": "분석중",
-      "mvp_score": 80,
+      "mvp_score": 90,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "모나미 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-14",
-        "entry_price": 2650,
-        "current_price": 2650,
+        "entry_date": "2026-07-15",
+        "entry_price": 3445,
+        "current_price": 3445,
         "profit_pct": "0.00%",
-        "target_price": 3047,
+        "target_price": 3961,
         "stop_loss": 1281
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260715-006660",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "삼성공조",
+      "name": "삼성공조",
+      "ticker": "006660",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "삼성공조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-15",
+        "entry_price": 11950,
+        "current_price": 11950,
+        "profit_pct": "0.00%",
+        "target_price": 13742,
+        "stop_loss": 8960
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 1,
+    "active_holdings_count": 5,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }

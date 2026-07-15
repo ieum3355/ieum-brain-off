@@ -1,21 +1,97 @@
 [
   {
     "id": 1,
-    "ticker": "005360",
-    "name": "모나미",
-    "currentPrice": 2650,
-    "changeRate": 29.9,
-    "volume": 4492739,
+    "ticker": "058730",
+    "name": "다스코",
+    "currentPrice": 5210,
+    "changeRate": 18.68,
+    "volume": 13174262,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-14",
+    "captureDate": "2026-07-15",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2650,
-      "stop": 1281,
-      "target": 3047
+      "entry": 5210,
+      "stop": 4120,
+      "target": 5991
     },
-    "resistancePrice": 2780,
-    "supportPrice": 1509
+    "resistancePrice": 5800,
+    "supportPrice": 3433
+  },
+  {
+    "id": 2,
+    "ticker": "006340",
+    "name": "대원전선",
+    "currentPrice": 13100,
+    "changeRate": 2.75,
+    "volume": 12695841,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-07-15",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 13100,
+      "stop": 9210,
+      "target": 15064
+    },
+    "resistancePrice": 14950,
+    "supportPrice": 11942
+  },
+  {
+    "id": 3,
+    "ticker": "475150",
+    "name": "SK이터닉스",
+    "currentPrice": 54300,
+    "changeRate": 11.27,
+    "volume": 4275148,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-07-15",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 54300,
+      "stop": 41200,
+      "target": 62444
+    },
+    "resistancePrice": 62000,
+    "supportPrice": 46939
+  },
+  {
+    "id": 4,
+    "ticker": "005360",
+    "name": "모나미",
+    "currentPrice": 3445,
+    "changeRate": 30.0,
+    "volume": 4050876,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-07-15",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 3445,
+      "stop": 1281,
+      "target": 3961
+    },
+    "resistancePrice": 3445,
+    "supportPrice": 1538
+  },
+  {
+    "id": 5,
+    "ticker": "006660",
+    "name": "삼성공조",
+    "currentPrice": 11950,
+    "changeRate": 8.83,
+    "volume": 1907140,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-07-15",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 11950,
+      "stop": 8960,
+      "target": 13742
+    },
+    "resistancePrice": 12770,
+    "supportPrice": 12027
   }
 ]
