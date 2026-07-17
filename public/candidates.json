@@ -1,33 +1,52 @@
 [
   {
     "id": 1,
-    "ticker": "005360",
-    "name": "모나미",
-    "currentPrice": 4325,
-    "changeRate": 25.54,
-    "volume": 18218926,
+    "ticker": "002700",
+    "name": "신일전자",
+    "currentPrice": 1130,
+    "changeRate": -0.53,
+    "volume": 26923382,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 4325,
-      "stop": 1713,
-      "target": 4973
+      "entry": 1130,
+      "stop": 1061,
+      "target": 1299
     },
-    "resistancePrice": 4475,
-    "supportPrice": 1581
+    "resistancePrice": 1430,
+    "supportPrice": 1260
   },
   {
     "id": 2,
+    "ticker": "005360",
+    "name": "모나미",
+    "currentPrice": 3730,
+    "changeRate": 8.27,
+    "volume": 24758240,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-07-17",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 3730,
+      "stop": 1713,
+      "target": 4289
+    },
+    "resistancePrice": 4475,
+    "supportPrice": 1571
+  },
+  {
+    "id": 3,
     "ticker": "012690",
     "name": "모나리자",
     "currentPrice": 2170,
     "changeRate": 29.94,
-    "volume": 12718964,
+    "volume": 12786139,
     "score": 90,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 2170,
@@ -38,117 +57,136 @@
     "supportPrice": 1841
   },
   {
-    "id": 3,
-    "ticker": "002700",
-    "name": "신일전자",
-    "currentPrice": 1141,
-    "changeRate": 0.44,
-    "volume": 8705352,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-16",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 1141,
-      "stop": 1061,
-      "target": 1312
-    },
-    "resistancePrice": 1430,
-    "supportPrice": 1260
-  },
-  {
     "id": 4,
     "ticker": "000020",
     "name": "동화약품",
-    "currentPrice": 6560,
-    "changeRate": 9.15,
-    "volume": 7652190,
+    "currentPrice": 5740,
+    "changeRate": -4.49,
+    "volume": 9760705,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 6560,
+      "entry": 5740,
       "stop": 4960,
-      "target": 7543
+      "target": 6600
     },
     "resistancePrice": 7560,
-    "supportPrice": 5558
+    "supportPrice": 5544
   },
   {
     "id": 5,
-    "ticker": "017180",
-    "name": "명문제약",
-    "currentPrice": 1395,
-    "changeRate": 7.56,
-    "volume": 5406543,
+    "ticker": "004540",
+    "name": "깨끗한나라",
+    "currentPrice": 1907,
+    "changeRate": 26.54,
+    "volume": 9117137,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 1395,
+      "entry": 1907,
+      "stop": 1320,
+      "target": 2193
+    },
+    "resistancePrice": 1959,
+    "supportPrice": 1690
+  },
+  {
+    "id": 6,
+    "ticker": "006660",
+    "name": "삼성공조",
+    "currentPrice": 13580,
+    "changeRate": 17.07,
+    "volume": 7938471,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-07-17",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 13580,
+      "stop": 9250,
+      "target": 15616
+    },
+    "resistancePrice": 14940,
+    "supportPrice": 12035
+  },
+  {
+    "id": 7,
+    "ticker": "017180",
+    "name": "명문제약",
+    "currentPrice": 1372,
+    "changeRate": 5.78,
+    "volume": 6093772,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-07-17",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 1372,
       "stop": 1158,
-      "target": 1604
+      "target": 1577
     },
     "resistancePrice": 1535,
     "supportPrice": 1460
   },
   {
-    "id": 6,
+    "id": 8,
     "ticker": "006340",
     "name": "대원전선",
-    "currentPrice": 12400,
-    "changeRate": -7.46,
-    "volume": 3737464,
+    "currentPrice": 12230,
+    "changeRate": -8.73,
+    "volume": 4832348,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 12400,
+      "entry": 12230,
       "stop": 10210,
-      "target": 14259
+      "target": 14064
     },
     "resistancePrice": 14950,
-    "supportPrice": 12051
+    "supportPrice": 12048
   },
   {
-    "id": 7,
+    "id": 9,
     "ticker": "475150",
     "name": "SK이터닉스",
-    "currentPrice": 53600,
-    "changeRate": 0.56,
-    "volume": 3332638,
+    "currentPrice": 52000,
+    "changeRate": -2.44,
+    "volume": 4145339,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 53600,
+      "entry": 52000,
       "stop": 42500,
-      "target": 61639
+      "target": 59799
     },
     "resistancePrice": 62000,
-    "supportPrice": 46917
+    "supportPrice": 46890
   },
   {
-    "id": 8,
-    "ticker": "006660",
-    "name": "삼성공조",
-    "currentPrice": 12620,
-    "changeRate": 8.79,
-    "volume": 1186368,
-    "score": 90,
+    "id": 10,
+    "ticker": "476800",
+    "name": "KODEX 한국부동산리츠인프라",
+    "currentPrice": 4220,
+    "changeRate": 0.84,
+    "volume": 2059794,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-07-16",
+    "captureDate": "2026-07-17",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 12620,
-      "stop": 9250,
-      "target": 14512
+      "entry": 4220,
+      "stop": 4050,
+      "target": 4853
     },
-    "resistancePrice": 12770,
-    "supportPrice": 12019
+    "resistancePrice": 4389,
+    "supportPrice": 4419
   }
 ]
