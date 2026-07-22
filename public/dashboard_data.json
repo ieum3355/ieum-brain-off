@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-21 03:42:33",
+    "last_updated_kst": "2026-07-22 03:43:38",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "679,307.00",
-        "value": "679,307.00",
-        "change_rate": 4.25,
-        "changeRate": 4.25,
+        "current_value": "706,103.00",
+        "value": "706,103.00",
+        "change_rate": 4.64,
+        "changeRate": 4.64,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-21 03:42"
+        "validated_at": "2026-07-22 03:42"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "75,342.00",
-        "value": "75,342.00",
-        "change_rate": 0.5,
-        "changeRate": 0.5,
+        "current_value": "77,021.00",
+        "value": "77,021.00",
+        "change_rate": 2.24,
+        "changeRate": 2.24,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-21 03:42"
+        "validated_at": "2026-07-22 03:42"
       }
     ],
     "protection_mode": {
@@ -47,55 +47,55 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260721-004310",
+      "id": "BO-260722-012690",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "현대약품",
-      "name": "현대약품",
-      "ticker": "004310",
+      "display_name": "모나리자",
+      "name": "모나리자",
+      "ticker": "012690",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "현대약품 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "모나리자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-21",
-        "entry_price": 7040,
-        "current_price": 7040,
+        "entry_date": "2026-07-22",
+        "entry_price": 1920,
+        "current_price": 1920,
         "profit_pct": "0.00%",
-        "target_price": 8095,
-        "stop_loss": 4430
+        "target_price": 2208,
+        "stop_loss": 1407
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260721-002140",
+      "id": "BO-260722-006340",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "고려산업",
-      "name": "고려산업",
-      "ticker": "002140",
+      "display_name": "대원전선",
+      "name": "대원전선",
+      "ticker": "006340",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "고려산업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-21",
-        "entry_price": 2045,
-        "current_price": 2045,
+        "entry_date": "2026-07-22",
+        "entry_price": 12940,
+        "current_price": 12940,
         "profit_pct": "0.00%",
-        "target_price": 2351,
-        "stop_loss": 1724
+        "target_price": 14880,
+        "stop_loss": 10690
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260721-475150",
+      "id": "BO-260722-475150",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK이터닉스",
@@ -109,17 +109,65 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-21",
-        "entry_price": 58700,
-        "current_price": 58700,
+        "entry_date": "2026-07-22",
+        "entry_price": 64600,
+        "current_price": 64600,
         "profit_pct": "0.00%",
-        "target_price": 67505,
-        "stop_loss": 44000
+        "target_price": 74290,
+        "stop_loss": 47300
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260721-006660",
+      "id": "BO-260722-058730",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "다스코",
+      "name": "다스코",
+      "ticker": "058730",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-22",
+        "entry_price": 4690,
+        "current_price": 4690,
+        "profit_pct": "0.00%",
+        "target_price": 5393,
+        "stop_loss": 4150
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260722-002140",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "고려산업",
+      "name": "고려산업",
+      "ticker": "002140",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "고려산업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-22",
+        "entry_price": 2040,
+        "current_price": 2040,
+        "profit_pct": "0.00%",
+        "target_price": 2346,
+        "stop_loss": 1784
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260722-006660",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "삼성공조",
@@ -133,43 +181,19 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-07-21",
-        "entry_price": 13240,
-        "current_price": 13240,
+        "entry_date": "2026-07-22",
+        "entry_price": 13300,
+        "current_price": 13300,
         "profit_pct": "0.00%",
-        "target_price": 15225,
-        "stop_loss": 9710
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260721-279570",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "케이뱅크",
-      "name": "케이뱅크",
-      "ticker": "279570",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "케이뱅크 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-21",
-        "entry_price": 6135,
-        "current_price": 6135,
-        "profit_pct": "0.00%",
-        "target_price": 7055,
-        "stop_loss": 5410
+        "target_price": 15294,
+        "stop_loss": 11030
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 5,
+    "active_holdings_count": 6,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
