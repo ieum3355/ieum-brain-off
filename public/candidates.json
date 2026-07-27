@@ -1,97 +1,40 @@
 [
   {
     "id": 1,
-    "ticker": "002140",
-    "name": "고려산업",
-    "currentPrice": 2340,
-    "changeRate": 13.04,
-    "volume": 29201097,
+    "ticker": "006340",
+    "name": "대원전선",
+    "currentPrice": 13980,
+    "changeRate": 1.82,
+    "volume": 12924251,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-26",
+    "captureDate": "2026-07-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2340,
-      "stop": 1800,
-      "target": 2691
+      "entry": 13980,
+      "stop": 10690,
+      "target": 16076
     },
-    "resistancePrice": 2615,
-    "supportPrice": 2128
+    "resistancePrice": 15200,
+    "supportPrice": 12551
   },
   {
     "id": 2,
-    "ticker": "475150",
-    "name": "SK이터닉스",
-    "currentPrice": 80900,
-    "changeRate": 0.37,
-    "volume": 20907413,
+    "ticker": "002140",
+    "name": "고려산업",
+    "currentPrice": 2115,
+    "changeRate": -9.62,
+    "volume": 2142374,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-07-26",
+    "captureDate": "2026-07-27",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 80900,
-      "stop": 50800,
-      "target": 93035
+      "entry": 2115,
+      "stop": 1920,
+      "target": 2432
     },
-    "resistancePrice": 87700,
-    "supportPrice": 47974
-  },
-  {
-    "id": 3,
-    "ticker": "100090",
-    "name": "SK오션플랜트",
-    "currentPrice": 18350,
-    "changeRate": 6.32,
-    "volume": 20219380,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-26",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 18350,
-      "stop": 12570,
-      "target": 21102
-    },
-    "resistancePrice": 20850,
-    "supportPrice": 17310
-  },
-  {
-    "id": 4,
-    "ticker": "006340",
-    "name": "대원전선",
-    "currentPrice": 13730,
-    "changeRate": -3.31,
-    "volume": 12467237,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-26",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 13730,
-      "stop": 10690,
-      "target": 15789
-    },
-    "resistancePrice": 14950,
-    "supportPrice": 12488
-  },
-  {
-    "id": 5,
-    "ticker": "006360",
-    "name": "GS건설",
-    "currentPrice": 30250,
-    "changeRate": -12.06,
-    "volume": 3663787,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-07-26",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 30250,
-      "stop": 24950,
-      "target": 34787
-    },
-    "resistancePrice": 35750,
-    "supportPrice": 30356
+    "resistancePrice": 2615,
+    "supportPrice": 2116
   }
 ]
