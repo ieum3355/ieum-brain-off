@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-28 03:32:15",
+    "last_updated_kst": "2026-07-29 03:36:09",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "604,122.00",
-        "value": "604,122.00",
-        "change_rate": -10.58,
-        "changeRate": -10.58,
+        "current_value": "553,156.00",
+        "value": "553,156.00",
+        "change_rate": -8.17,
+        "changeRate": -8.17,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-28 03:31"
+        "validated_at": "2026-07-29 03:35"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "70,142.00",
-        "value": "70,142.00",
-        "change_rate": -8.29,
-        "changeRate": -8.29,
+        "current_value": "64,900.00",
+        "value": "64,900.00",
+        "change_rate": -8.05,
+        "changeRate": -8.05,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-28 03:31"
+        "validated_at": "2026-07-29 03:35"
       }
     ],
     "protection_mode": {
@@ -45,59 +45,10 @@
     "전일 대비 지수 괴리율 10% 이상 데이터 자동 폐기",
     "Adaptive Guard v2.1 필터링 적용"
   ],
-  "recommendations": [
-    {
-      "id": "BO-260728-002140",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "고려산업",
-      "name": "고려산업",
-      "ticker": "002140",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "고려산업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-28",
-        "entry_price": 2205,
-        "current_price": 2205,
-        "profit_pct": "0.00%",
-        "target_price": 2535,
-        "stop_loss": 1920
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260728-006340",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "대원전선",
-      "name": "대원전선",
-      "ticker": "006340",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-07-28",
-        "entry_price": 13850,
-        "current_price": 13850,
-        "profit_pct": "0.00%",
-        "target_price": 15927,
-        "stop_loss": 12150
-      },
-      "history_hit_rate": "80%+"
-    }
-  ],
+  "recommendations": [],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 2,
+    "active_holdings_count": 0,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
