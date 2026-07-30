@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-07-29 03:36:09",
+    "last_updated_kst": "2026-07-30 03:25:39",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "553,156.00",
-        "value": "553,156.00",
-        "change_rate": -8.17,
-        "changeRate": -8.17,
+        "current_value": "560,823.00",
+        "value": "560,823.00",
+        "change_rate": -0.97,
+        "changeRate": -0.97,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-29 03:35"
+        "validated_at": "2026-07-30 03:25"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "64,900.00",
-        "value": "64,900.00",
-        "change_rate": -8.05,
-        "changeRate": -8.05,
+        "current_value": "64,662.00",
+        "value": "64,662.00",
+        "change_rate": -2.42,
+        "changeRate": -2.42,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-07-29 03:35"
+        "validated_at": "2026-07-30 03:25"
       }
     ],
     "protection_mode": {
@@ -45,10 +45,35 @@
     "전일 대비 지수 괴리율 10% 이상 데이터 자동 폐기",
     "Adaptive Guard v2.1 필터링 적용"
   ],
-  "recommendations": [],
+  "recommendations": [
+    {
+      "id": "BO-260730-002140",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "고려산업",
+      "name": "고려산업",
+      "ticker": "002140",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "고려산업 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-07-30",
+        "entry_price": 2100,
+        "current_price": 2100,
+        "profit_pct": "0.00%",
+        "target_price": 2415,
+        "stop_loss": 1783
+      },
+      "history_hit_rate": "80%+"
+    }
+  ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 0,
+    "active_holdings_count": 1,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
