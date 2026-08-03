@@ -3,38 +3,19 @@
     "id": 1,
     "ticker": "006340",
     "name": "대원전선",
-    "currentPrice": 13000,
-    "changeRate": 25.97,
-    "volume": 15827629,
+    "currentPrice": 13190,
+    "changeRate": 1.46,
+    "volume": 7498387,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-02",
+    "captureDate": "2026-08-03",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 13000,
+      "entry": 13190,
       "stop": 10090,
-      "target": 14949
+      "target": 15168
     },
     "resistancePrice": 15200,
-    "supportPrice": 12425
-  },
-  {
-    "id": 2,
-    "ticker": "002140",
-    "name": "고려산업",
-    "currentPrice": 2120,
-    "changeRate": 1.68,
-    "volume": 2352192,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-02",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 2120,
-      "stop": 1783,
-      "target": 2438
-    },
-    "resistancePrice": 2615,
-    "supportPrice": 2061
+    "supportPrice": 12344
   }
 ]
