@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "ticker": "006340",
-    "name": "대원전선",
-    "currentPrice": 14820,
-    "changeRate": -4.08,
-    "volume": 7298073,
+    "ticker": "017900",
+    "name": "광전자",
+    "currentPrice": 7760,
+    "changeRate": 14.29,
+    "volume": 15109186,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-06",
+    "captureDate": "2026-08-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 14820,
-      "stop": 11400,
-      "target": 17043
+      "entry": 7760,
+      "stop": 4935,
+      "target": 8924
     },
-    "resistancePrice": 16370,
-    "supportPrice": 12200
+    "resistancePrice": 8570,
+    "supportPrice": 7999
   }
 ]
