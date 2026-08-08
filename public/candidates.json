@@ -3,19 +3,57 @@
     "id": 1,
     "ticker": "017900",
     "name": "광전자",
-    "currentPrice": 7760,
-    "changeRate": 14.29,
-    "volume": 15109186,
+    "currentPrice": 7810,
+    "changeRate": 15.02,
+    "volume": 22041484,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-07",
+    "captureDate": "2026-08-08",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 7760,
+      "entry": 7810,
       "stop": 4935,
-      "target": 8924
+      "target": 8981
     },
     "resistancePrice": 8570,
-    "supportPrice": 7999
+    "supportPrice": 8000
+  },
+  {
+    "id": 2,
+    "ticker": "092790",
+    "name": "넥스틸",
+    "currentPrice": 12300,
+    "changeRate": 1.91,
+    "volume": 4207934,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-08",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 12300,
+      "stop": 10690,
+      "target": 14144
+    },
+    "resistancePrice": 14200,
+    "supportPrice": 13593
+  },
+  {
+    "id": 3,
+    "ticker": "003010",
+    "name": "혜인",
+    "currentPrice": 5910,
+    "changeRate": 29.89,
+    "volume": 3568342,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-08-08",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 5910,
+      "stop": 4210,
+      "target": 6796
+    },
+    "resistancePrice": 5910,
+    "supportPrice": 4829
   }
 ]
