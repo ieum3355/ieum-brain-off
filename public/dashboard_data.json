@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-08-09 02:26:53",
+    "last_updated_kst": "2026-08-10 02:31:41",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "625,877.00",
-        "value": "625,877.00",
-        "change_rate": -0.6,
-        "changeRate": -0.6,
-        "status": "down",
+        "current_value": "628,932.00",
+        "value": "628,932.00",
+        "change_rate": 0.49,
+        "changeRate": 0.49,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-09 02:26"
+        "validated_at": "2026-08-10 02:31"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "79,881.00",
-        "value": "79,881.00",
-        "change_rate": -0.36,
-        "changeRate": -0.36,
-        "status": "down",
+        "current_value": "84,678.00",
+        "value": "84,678.00",
+        "change_rate": 6.01,
+        "changeRate": 6.01,
+        "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-09 02:26"
+        "validated_at": "2026-08-10 02:31"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260809-017900",
+      "id": "BO-260810-017900",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "광전자",
@@ -61,67 +61,91 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-09",
-        "entry_price": 7810,
-        "current_price": 7810,
+        "entry_date": "2026-08-10",
+        "entry_price": 9190,
+        "current_price": 9190,
         "profit_pct": "0.00%",
-        "target_price": 8981,
-        "stop_loss": 4935
+        "target_price": 10568,
+        "stop_loss": 5540
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260809-092790",
+      "id": "BO-260810-006340",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "넥스틸",
-      "name": "넥스틸",
-      "ticker": "092790",
+      "display_name": "대원전선",
+      "name": "대원전선",
+      "ticker": "006340",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "넥스틸 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-09",
-        "entry_price": 12300,
-        "current_price": 12300,
+        "entry_date": "2026-08-10",
+        "entry_price": 14470,
+        "current_price": 14470,
         "profit_pct": "0.00%",
-        "target_price": 14144,
-        "stop_loss": 10690
+        "target_price": 16640,
+        "stop_loss": 13330
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260809-003010",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "혜인****",
+      "id": "BO-260810-003010",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "혜인",
       "name": "혜인",
       "ticker": "003010",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "혜인 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-09",
-        "entry_price": 5910,
-        "current_price": 5910,
+        "entry_date": "2026-08-10",
+        "entry_price": 6520,
+        "current_price": 6520,
         "profit_pct": "0.00%",
-        "target_price": 6796,
-        "stop_loss": 4210
+        "target_price": 7497,
+        "stop_loss": 4320
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260810-011330",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "유니켐",
+      "name": "유니켐",
+      "ticker": "011330",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "유니켐 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-10",
+        "entry_price": 5760,
+        "current_price": 5760,
+        "profit_pct": "0.00%",
+        "target_price": 6623,
+        "stop_loss": 3240
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 3,
+    "active_holdings_count": 4,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }

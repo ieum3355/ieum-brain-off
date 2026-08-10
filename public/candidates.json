@@ -3,57 +3,76 @@
     "id": 1,
     "ticker": "017900",
     "name": "광전자",
-    "currentPrice": 7810,
-    "changeRate": 15.02,
-    "volume": 22041484,
+    "currentPrice": 9190,
+    "changeRate": 17.67,
+    "volume": 13508658,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-09",
+    "captureDate": "2026-08-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 7810,
-      "stop": 4935,
-      "target": 8981
+      "entry": 9190,
+      "stop": 5540,
+      "target": 10568
     },
-    "resistancePrice": 8570,
-    "supportPrice": 8000
+    "resistancePrice": 9640,
+    "supportPrice": 7966
   },
   {
     "id": 2,
-    "ticker": "092790",
-    "name": "넥스틸",
-    "currentPrice": 12300,
-    "changeRate": 1.91,
-    "volume": 4207934,
+    "ticker": "006340",
+    "name": "대원전선",
+    "currentPrice": 14470,
+    "changeRate": 4.93,
+    "volume": 5727204,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-09",
+    "captureDate": "2026-08-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 12300,
-      "stop": 10690,
-      "target": 14144
+      "entry": 14470,
+      "stop": 13330,
+      "target": 16640
     },
-    "resistancePrice": 14200,
-    "supportPrice": 13593
+    "resistancePrice": 16370,
+    "supportPrice": 12153
   },
   {
     "id": 3,
     "ticker": "003010",
     "name": "혜인",
-    "currentPrice": 5910,
-    "changeRate": 29.89,
-    "volume": 3568342,
-    "score": 90,
+    "currentPrice": 6520,
+    "changeRate": 10.32,
+    "volume": 4660296,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-08-09",
+    "captureDate": "2026-08-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 5910,
-      "stop": 4210,
-      "target": 6796
+      "entry": 6520,
+      "stop": 4320,
+      "target": 7497
     },
-    "resistancePrice": 5910,
+    "resistancePrice": 6750,
     "supportPrice": 4829
+  },
+  {
+    "id": 4,
+    "ticker": "011330",
+    "name": "유니켐",
+    "currentPrice": 5760,
+    "changeRate": -2.54,
+    "volume": 3562512,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 5760,
+      "stop": 3240,
+      "target": 6623
+    },
+    "resistancePrice": 7680,
+    "supportPrice": 4216
   }
 ]
