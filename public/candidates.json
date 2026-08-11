@@ -1,78 +1,97 @@
 [
   {
     "id": 1,
-    "ticker": "017900",
-    "name": "광전자",
-    "currentPrice": 9190,
-    "changeRate": 17.67,
-    "volume": 13508658,
+    "ticker": "006340",
+    "name": "대원전선",
+    "currentPrice": 15040,
+    "changeRate": 0.6,
+    "volume": 14010489,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-10",
+    "captureDate": "2026-08-11",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 9190,
-      "stop": 5540,
-      "target": 10568
+      "entry": 15040,
+      "stop": 13400,
+      "target": 17296
     },
-    "resistancePrice": 9640,
-    "supportPrice": 7966
+    "resistancePrice": 16370,
+    "supportPrice": 12152
   },
   {
     "id": 2,
-    "ticker": "006340",
-    "name": "대원전선",
-    "currentPrice": 14470,
-    "changeRate": 4.93,
-    "volume": 5727204,
-    "score": 80,
+    "ticker": "003010",
+    "name": "혜인",
+    "currentPrice": 7690,
+    "changeRate": 29.68,
+    "volume": 8653913,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-10",
+    "captureDate": "2026-08-11",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 14470,
-      "stop": 13330,
-      "target": 16640
+      "entry": 7690,
+      "stop": 4500,
+      "target": 8843
     },
-    "resistancePrice": 16370,
-    "supportPrice": 12153
+    "resistancePrice": 7700,
+    "supportPrice": 4840
   },
   {
     "id": 3,
-    "ticker": "003010",
-    "name": "혜인",
-    "currentPrice": 6520,
-    "changeRate": 10.32,
-    "volume": 4660296,
+    "ticker": "017900",
+    "name": "광전자",
+    "currentPrice": 8460,
+    "changeRate": -5.05,
+    "volume": 2375695,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-10",
+    "captureDate": "2026-08-11",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 6520,
-      "stop": 4320,
-      "target": 7497
+      "entry": 8460,
+      "stop": 6100,
+      "target": 9729
     },
-    "resistancePrice": 6750,
-    "supportPrice": 4829
+    "resistancePrice": 9640,
+    "supportPrice": 7904
   },
   {
     "id": 4,
-    "ticker": "011330",
-    "name": "유니켐",
-    "currentPrice": 5760,
-    "changeRate": -2.54,
-    "volume": 3562512,
+    "ticker": "000490",
+    "name": "대동",
+    "currentPrice": 7760,
+    "changeRate": -0.51,
+    "volume": 961160,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-10",
+    "captureDate": "2026-08-11",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 5760,
-      "stop": 3240,
-      "target": 6623
+      "entry": 7760,
+      "stop": 6610,
+      "target": 8924
     },
-    "resistancePrice": 7680,
-    "supportPrice": 4216
+    "resistancePrice": 8740,
+    "supportPrice": 7492
+  },
+  {
+    "id": 5,
+    "ticker": "004310",
+    "name": "현대약품",
+    "currentPrice": 6350,
+    "changeRate": -0.16,
+    "volume": 957670,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-11",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 6350,
+      "stop": 5650,
+      "target": 7302
+    },
+    "resistancePrice": 8470,
+    "supportPrice": 6318
   }
 ]
