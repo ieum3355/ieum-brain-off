@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-08-11 02:25:20",
+    "last_updated_kst": "2026-08-12 02:42:06",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "631,558.00",
-        "value": "631,558.00",
-        "change_rate": 0.25,
-        "changeRate": 0.25,
+        "current_value": "662,129.00",
+        "value": "662,129.00",
+        "change_rate": 4.35,
+        "changeRate": 4.35,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-11 02:25"
+        "validated_at": "2026-08-12 02:41"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "85,079.00",
-        "value": "85,079.00",
-        "change_rate": -0.43,
-        "changeRate": -0.43,
+        "current_value": "85,595.00",
+        "value": "85,595.00",
+        "change_rate": -0.22,
+        "changeRate": -0.22,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-11 02:25"
+        "validated_at": "2026-08-12 02:41"
       }
     ],
     "protection_mode": {
@@ -47,55 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260811-006340",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "대원전선",
-      "name": "대원전선",
-      "ticker": "006340",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대원전선 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-11",
-        "entry_price": 15040,
-        "current_price": 15040,
-        "profit_pct": "0.00%",
-        "target_price": 17296,
-        "stop_loss": 13400
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260811-003010",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "혜인****",
-      "name": "혜인",
-      "ticker": "003010",
-      "sector": "분석중",
-      "mvp_score": 90,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "혜인 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-11",
-        "entry_price": 7690,
-        "current_price": 7690,
-        "profit_pct": "0.00%",
-        "target_price": 8843,
-        "stop_loss": 4500
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260811-017900",
+      "id": "BO-260812-017900",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "광전자",
@@ -109,60 +61,108 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-11",
-        "entry_price": 8460,
-        "current_price": 8460,
+        "entry_date": "2026-08-12",
+        "entry_price": 9020,
+        "current_price": 9020,
         "profit_pct": "0.00%",
-        "target_price": 9729,
-        "stop_loss": 6100
+        "target_price": 10373,
+        "stop_loss": 6500
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260811-000490",
+      "id": "BO-260812-003350",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "대동",
-      "name": "대동",
-      "ticker": "000490",
+      "display_name": "한국화장품제조",
+      "name": "한국화장품제조",
+      "ticker": "003350",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대동 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "한국화장품제조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-11",
-        "entry_price": 7760,
-        "current_price": 7760,
+        "entry_date": "2026-08-12",
+        "entry_price": 11720,
+        "current_price": 11720,
         "profit_pct": "0.00%",
-        "target_price": 8924,
-        "stop_loss": 6610
+        "target_price": 13477,
+        "stop_loss": 8330
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260811-004310",
+      "id": "BO-260812-090460",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "현대약품",
-      "name": "현대약품",
-      "ticker": "004310",
+      "display_name": "비에이치",
+      "name": "비에이치",
+      "ticker": "090460",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "현대약품 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "비에이치 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-11",
-        "entry_price": 6350,
-        "current_price": 6350,
+        "entry_date": "2026-08-12",
+        "entry_price": 18160,
+        "current_price": 18160,
         "profit_pct": "0.00%",
-        "target_price": 7302,
-        "stop_loss": 5650
+        "target_price": 20884,
+        "stop_loss": 14050
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260812-161890",
+      "tier": "Premium",
+      "is_locked": true,
+      "display_name": "한국****",
+      "name": "한국콜마",
+      "ticker": "161890",
+      "sector": "분석중",
+      "mvp_score": 90,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "한국콜마 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-12",
+        "entry_price": 137700,
+        "current_price": 137700,
+        "profit_pct": "0.00%",
+        "target_price": 158355,
+        "stop_loss": 101100
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260812-103590",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "일진전기",
+      "name": "일진전기",
+      "ticker": "103590",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "일진전기 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-12",
+        "entry_price": 71900,
+        "current_price": 71900,
+        "profit_pct": "0.00%",
+        "target_price": 82685,
+        "stop_loss": 56200
       },
       "history_hit_rate": "80%+"
     }
