@@ -3,57 +3,38 @@
     "id": 1,
     "ticker": "092200",
     "name": "디아이씨",
-    "currentPrice": 6550,
-    "changeRate": 24.76,
-    "volume": 4464650,
+    "currentPrice": 6580,
+    "changeRate": 25.33,
+    "volume": 6544969,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-14",
+    "captureDate": "2026-08-15",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 6550,
+      "entry": 6580,
       "stop": 4915,
-      "target": 7532
+      "target": 7566
     },
     "resistancePrice": 6820,
-    "supportPrice": 6141
+    "supportPrice": 6142
   },
   {
     "id": 2,
-    "ticker": "025560",
-    "name": "미래산업",
-    "currentPrice": 10360,
-    "changeRate": 1.27,
-    "volume": 1069963,
+    "ticker": "010690",
+    "name": "화신",
+    "currentPrice": 9070,
+    "changeRate": 3.19,
+    "volume": 1946521,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-14",
+    "captureDate": "2026-08-15",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 10360,
-      "stop": 6170,
-      "target": 11913
+      "entry": 9070,
+      "stop": 8050,
+      "target": 10430
     },
-    "resistancePrice": 11980,
-    "supportPrice": 7998
-  },
-  {
-    "id": 3,
-    "ticker": "003350",
-    "name": "한국화장품제조",
-    "currentPrice": 11430,
-    "changeRate": -0.52,
-    "volume": 905937,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-14",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 11430,
-      "stop": 8420,
-      "target": 13144
-    },
-    "resistancePrice": 13210,
-    "supportPrice": 8359
+    "resistancePrice": 9580,
+    "supportPrice": 9716
   }
 ]
