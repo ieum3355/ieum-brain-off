@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-08-17 01:53:57",
+    "last_updated_kst": "2026-08-18 01:49:07",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "697,794.00",
-        "value": "697,794.00",
-        "change_rate": 2.42,
-        "changeRate": 2.42,
+        "current_value": "707,596.00",
+        "value": "707,596.00",
+        "change_rate": 1.4,
+        "changeRate": 1.4,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-17 01:53"
+        "validated_at": "2026-08-18 01:48"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "86,465.00",
-        "value": "86,465.00",
-        "change_rate": 0.38,
-        "changeRate": 0.38,
-        "status": "up",
+        "current_value": "86,009.00",
+        "value": "86,009.00",
+        "change_rate": -0.53,
+        "changeRate": -0.53,
+        "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-17 01:53"
+        "validated_at": "2026-08-18 01:48"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,31 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260817-092200",
+      "id": "BO-260818-003010",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "혜인",
+      "name": "혜인",
+      "ticker": "003010",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "혜인 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-18",
+        "entry_price": 10810,
+        "current_price": 10810,
+        "profit_pct": "0.00%",
+        "target_price": 12431,
+        "stop_loss": 6150
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260818-092200",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "디아이씨",
@@ -61,43 +85,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-17",
-        "entry_price": 6580,
-        "current_price": 6580,
+        "entry_date": "2026-08-18",
+        "entry_price": 6890,
+        "current_price": 6890,
         "profit_pct": "0.00%",
-        "target_price": 7566,
-        "stop_loss": 4915
+        "target_price": 7923,
+        "stop_loss": 4950
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260817-010690",
+      "id": "BO-260818-090460",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "화신",
-      "name": "화신",
-      "ticker": "010690",
+      "display_name": "비에이치",
+      "name": "비에이치",
+      "ticker": "090460",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "화신 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "비에이치 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-17",
-        "entry_price": 9070,
-        "current_price": 9070,
+        "entry_date": "2026-08-18",
+        "entry_price": 19060,
+        "current_price": 19060,
         "profit_pct": "0.00%",
-        "target_price": 10430,
-        "stop_loss": 8050
+        "target_price": 21919,
+        "stop_loss": 16370
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 2,
+    "active_holdings_count": 3,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
