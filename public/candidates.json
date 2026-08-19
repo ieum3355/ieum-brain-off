@@ -1,59 +1,135 @@
 [
   {
     "id": 1,
-    "ticker": "003010",
-    "name": "혜인",
-    "currentPrice": 10810,
-    "changeRate": 11.56,
-    "volume": 2191255,
+    "ticker": "003280",
+    "name": "흥아해운",
+    "currentPrice": 1813,
+    "changeRate": -6.26,
+    "volume": 12650846,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-18",
+    "captureDate": "2026-08-19",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 10810,
-      "stop": 6150,
-      "target": 12431
+      "entry": 1813,
+      "stop": 1677,
+      "target": 2084
     },
-    "resistancePrice": 12120,
-    "supportPrice": 5014
+    "resistancePrice": 2130,
+    "supportPrice": 1802
   },
   {
     "id": 2,
-    "ticker": "092200",
-    "name": "디아이씨",
-    "currentPrice": 6890,
-    "changeRate": 4.71,
-    "volume": 1359906,
+    "ticker": "006660",
+    "name": "삼성공조",
+    "currentPrice": 14330,
+    "changeRate": -5.16,
+    "volume": 4743245,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-18",
+    "captureDate": "2026-08-19",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 6890,
-      "stop": 4950,
-      "target": 7923
+      "entry": 14330,
+      "stop": 11080,
+      "target": 16479
     },
-    "resistancePrice": 7050,
-    "supportPrice": 6154
+    "resistancePrice": 16720,
+    "supportPrice": 11654
   },
   {
     "id": 3,
-    "ticker": "090460",
-    "name": "비에이치",
-    "currentPrice": 19060,
-    "changeRate": 3.59,
-    "volume": 1074848,
+    "ticker": "465770",
+    "name": "STX그린로지스",
+    "currentPrice": 4055,
+    "changeRate": 10.49,
+    "volume": 3865501,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-18",
+    "captureDate": "2026-08-19",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 19060,
-      "stop": 16370,
-      "target": 21919
+      "entry": 4055,
+      "stop": 2695,
+      "target": 4663
     },
-    "resistancePrice": 19930,
-    "supportPrice": 21946
+    "resistancePrice": 5750,
+    "supportPrice": 2827
+  },
+  {
+    "id": 4,
+    "ticker": "010690",
+    "name": "화신",
+    "currentPrice": 8860,
+    "changeRate": 5.48,
+    "volume": 3174845,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-19",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 8860,
+      "stop": 8060,
+      "target": 10189
+    },
+    "resistancePrice": 10350,
+    "supportPrice": 9619
+  },
+  {
+    "id": 5,
+    "ticker": "092200",
+    "name": "디아이씨",
+    "currentPrice": 6580,
+    "changeRate": 1.08,
+    "volume": 1133025,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-19",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 6580,
+      "stop": 4950,
+      "target": 7566
+    },
+    "resistancePrice": 7050,
+    "supportPrice": 6134
+  },
+  {
+    "id": 6,
+    "ticker": "011200",
+    "name": "HMM",
+    "currentPrice": 21750,
+    "changeRate": -3.97,
+    "volume": 916066,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-19",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 21750,
+      "stop": 20650,
+      "target": 25012
+    },
+    "resistancePrice": 23400,
+    "supportPrice": 20142
+  },
+  {
+    "id": 7,
+    "ticker": "005880",
+    "name": "대한해운",
+    "currentPrice": 2055,
+    "changeRate": -0.96,
+    "volume": 805561,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-19",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 2055,
+      "stop": 1984,
+      "target": 2363
+    },
+    "resistancePrice": 2120,
+    "supportPrice": 1968
   }
 ]
