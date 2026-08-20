@@ -1,135 +1,78 @@
 [
   {
     "id": 1,
-    "ticker": "003280",
-    "name": "흥아해운",
-    "currentPrice": 1813,
-    "changeRate": -6.26,
-    "volume": 12650846,
-    "score": 80,
+    "ticker": "001510",
+    "name": "SK증권",
+    "currentPrice": 2810,
+    "changeRate": 29.79,
+    "volume": 10244530,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-19",
+    "captureDate": "2026-08-20",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 1813,
-      "stop": 1677,
-      "target": 2084
+      "entry": 2810,
+      "stop": 2140,
+      "target": 3231
     },
-    "resistancePrice": 2130,
-    "supportPrice": 1802
+    "resistancePrice": 2810,
+    "supportPrice": 2576
   },
   {
     "id": 2,
-    "ticker": "006660",
-    "name": "삼성공조",
-    "currentPrice": 14330,
-    "changeRate": -5.16,
-    "volume": 4743245,
+    "ticker": "014990",
+    "name": "인디에프",
+    "currentPrice": 2782,
+    "changeRate": -10.55,
+    "volume": 2934351,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-19",
+    "captureDate": "2026-08-20",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 14330,
-      "stop": 11080,
-      "target": 16479
+      "entry": 2782,
+      "stop": 1806,
+      "target": 3199
     },
-    "resistancePrice": 16720,
-    "supportPrice": 11654
+    "resistancePrice": 3365,
+    "supportPrice": 2099
   },
   {
     "id": 3,
-    "ticker": "465770",
-    "name": "STX그린로지스",
-    "currentPrice": 4055,
-    "changeRate": 10.49,
-    "volume": 3865501,
+    "ticker": "006660",
+    "name": "삼성공조",
+    "currentPrice": 15130,
+    "changeRate": 2.93,
+    "volume": 1616606,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-19",
+    "captureDate": "2026-08-20",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 4055,
-      "stop": 2695,
-      "target": 4663
+      "entry": 15130,
+      "stop": 11110,
+      "target": 17399
     },
-    "resistancePrice": 5750,
-    "supportPrice": 2827
+    "resistancePrice": 16720,
+    "supportPrice": 11711
   },
   {
     "id": 4,
-    "ticker": "010690",
-    "name": "화신",
-    "currentPrice": 8860,
-    "changeRate": 5.48,
-    "volume": 3174845,
+    "ticker": "465770",
+    "name": "STX그린로지스",
+    "currentPrice": 3485,
+    "changeRate": -9.72,
+    "volume": 733330,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-19",
+    "captureDate": "2026-08-20",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 8860,
-      "stop": 8060,
-      "target": 10189
+      "entry": 3485,
+      "stop": 2695,
+      "target": 4007
     },
-    "resistancePrice": 10350,
-    "supportPrice": 9619
-  },
-  {
-    "id": 5,
-    "ticker": "092200",
-    "name": "디아이씨",
-    "currentPrice": 6580,
-    "changeRate": 1.08,
-    "volume": 1133025,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-19",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 6580,
-      "stop": 4950,
-      "target": 7566
-    },
-    "resistancePrice": 7050,
-    "supportPrice": 6134
-  },
-  {
-    "id": 6,
-    "ticker": "011200",
-    "name": "HMM",
-    "currentPrice": 21750,
-    "changeRate": -3.97,
-    "volume": 916066,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-19",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 21750,
-      "stop": 20650,
-      "target": 25012
-    },
-    "resistancePrice": 23400,
-    "supportPrice": 20142
-  },
-  {
-    "id": 7,
-    "ticker": "005880",
-    "name": "대한해운",
-    "currentPrice": 2055,
-    "changeRate": -0.96,
-    "volume": 805561,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-19",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 2055,
-      "stop": 1984,
-      "target": 2363
-    },
-    "resistancePrice": 2120,
-    "supportPrice": 1968
+    "resistancePrice": 5750,
+    "supportPrice": 2823
   }
 ]
