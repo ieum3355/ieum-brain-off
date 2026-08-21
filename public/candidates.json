@@ -3,76 +3,95 @@
     "id": 1,
     "ticker": "001510",
     "name": "SK증권",
-    "currentPrice": 2810,
-    "changeRate": 29.79,
-    "volume": 10244530,
-    "score": 90,
+    "currentPrice": 3085,
+    "changeRate": 9.79,
+    "volume": 58422507,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-08-20",
+    "captureDate": "2026-08-21",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2810,
+      "entry": 3085,
       "stop": 2140,
-      "target": 3231
+      "target": 3547
     },
-    "resistancePrice": 2810,
-    "supportPrice": 2576
+    "resistancePrice": 3555,
+    "supportPrice": 2560
   },
   {
     "id": 2,
-    "ticker": "014990",
-    "name": "인디에프",
-    "currentPrice": 2782,
-    "changeRate": -10.55,
-    "volume": 2934351,
+    "ticker": "002990",
+    "name": "금호건설",
+    "currentPrice": 16200,
+    "changeRate": 3.51,
+    "volume": 22121101,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-20",
+    "captureDate": "2026-08-21",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2782,
-      "stop": 1806,
-      "target": 3199
+      "entry": 16200,
+      "stop": 12430,
+      "target": 18630
     },
-    "resistancePrice": 3365,
-    "supportPrice": 2099
+    "resistancePrice": 18200,
+    "supportPrice": 8984
   },
   {
     "id": 3,
-    "ticker": "006660",
-    "name": "삼성공조",
-    "currentPrice": 15130,
-    "changeRate": 2.93,
-    "volume": 1616606,
-    "score": 80,
+    "ticker": "014990",
+    "name": "인디에프",
+    "currentPrice": 3590,
+    "changeRate": 29.84,
+    "volume": 2522468,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-20",
+    "captureDate": "2026-08-21",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 15130,
-      "stop": 11110,
-      "target": 17399
+      "entry": 3590,
+      "stop": 1806,
+      "target": 4128
     },
-    "resistancePrice": 16720,
-    "supportPrice": 11711
+    "resistancePrice": 3590,
+    "supportPrice": 2111
   },
   {
     "id": 4,
-    "ticker": "465770",
-    "name": "STX그린로지스",
-    "currentPrice": 3485,
-    "changeRate": -9.72,
-    "volume": 733330,
+    "ticker": "006660",
+    "name": "삼성공조",
+    "currentPrice": 14580,
+    "changeRate": -0.88,
+    "volume": 1983193,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-20",
+    "captureDate": "2026-08-21",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3485,
-      "stop": 2695,
-      "target": 4007
+      "entry": 14580,
+      "stop": 11550,
+      "target": 16767
     },
-    "resistancePrice": 5750,
-    "supportPrice": 2823
+    "resistancePrice": 16720,
+    "supportPrice": 11748
+  },
+  {
+    "id": 5,
+    "ticker": "465770",
+    "name": "STX그린로지스",
+    "currentPrice": 3700,
+    "changeRate": 6.63,
+    "volume": 1625601,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-21",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 3700,
+      "stop": 2695,
+      "target": 4255
+    },
+    "resistancePrice": 5210,
+    "supportPrice": 2830
   }
 ]
