@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-08-21 01:55:53",
+    "last_updated_kst": "2026-08-22 01:48:44",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "685,939.00",
-        "value": "685,939.00",
-        "change_rate": 0.1,
-        "changeRate": 0.1,
+        "current_value": "691,295.00",
+        "value": "691,295.00",
+        "change_rate": 0.88,
+        "changeRate": 0.88,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-21 01:55"
+        "validated_at": "2026-08-22 01:48"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "79,726.00",
-        "value": "79,726.00",
-        "change_rate": -5.19,
-        "changeRate": -5.19,
+        "current_value": "80,194.00",
+        "value": "80,194.00",
+        "change_rate": -4.63,
+        "changeRate": -4.63,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-21 01:55"
+        "validated_at": "2026-08-22 01:48"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260821-001510",
+      "id": "BO-260822-001510",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "SK증권",
@@ -61,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-21",
-        "entry_price": 3085,
-        "current_price": 3085,
+        "entry_date": "2026-08-22",
+        "entry_price": 2955,
+        "current_price": 2955,
         "profit_pct": "0.00%",
-        "target_price": 3547,
+        "target_price": 3398,
         "stop_loss": 2140
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260821-002990",
+      "id": "BO-260822-002990",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "금호건설",
@@ -85,65 +85,41 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-21",
-        "entry_price": 16200,
-        "current_price": 16200,
+        "entry_date": "2026-08-22",
+        "entry_price": 14750,
+        "current_price": 14750,
         "profit_pct": "0.00%",
-        "target_price": 18630,
+        "target_price": 16962,
         "stop_loss": 12430
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260821-014990",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "인디****",
+      "id": "BO-260822-014990",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "인디에프",
       "name": "인디에프",
       "ticker": "014990",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "인디에프 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-21",
-        "entry_price": 3590,
-        "current_price": 3590,
+        "entry_date": "2026-08-22",
+        "entry_price": 3270,
+        "current_price": 3270,
         "profit_pct": "0.00%",
-        "target_price": 4128,
+        "target_price": 3760,
         "stop_loss": 1806
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260821-006660",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "삼성공조",
-      "name": "삼성공조",
-      "ticker": "006660",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼성공조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-21",
-        "entry_price": 14580,
-        "current_price": 14580,
-        "profit_pct": "0.00%",
-        "target_price": 16767,
-        "stop_loss": 11550
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260821-465770",
+      "id": "BO-260822-465770",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "STX그린로지스",
@@ -157,12 +133,36 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-21",
-        "entry_price": 3700,
-        "current_price": 3700,
+        "entry_date": "2026-08-22",
+        "entry_price": 3610,
+        "current_price": 3610,
         "profit_pct": "0.00%",
-        "target_price": 4255,
+        "target_price": 4151,
         "stop_loss": 2695
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260822-005880",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "대한해운",
+      "name": "대한해운",
+      "ticker": "005880",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "대한해운 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-22",
+        "entry_price": 2045,
+        "current_price": 2045,
+        "profit_pct": "0.00%",
+        "target_price": 2351,
+        "stop_loss": 1954
       },
       "history_hit_rate": "80%+"
     }
