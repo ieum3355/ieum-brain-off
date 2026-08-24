@@ -3,95 +3,133 @@
     "id": 1,
     "ticker": "001510",
     "name": "SK증권",
-    "currentPrice": 2955,
-    "changeRate": 5.16,
-    "volume": 86268078,
+    "currentPrice": 2720,
+    "changeRate": -7.95,
+    "volume": 9484705,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-23",
+    "captureDate": "2026-08-24",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2955,
+      "entry": 2720,
       "stop": 2140,
-      "target": 3398
+      "target": 3127
     },
     "resistancePrice": 3555,
-    "supportPrice": 2558
+    "supportPrice": 2543
   },
   {
     "id": 2,
     "ticker": "002990",
     "name": "금호건설",
-    "currentPrice": 14750,
-    "changeRate": -5.75,
-    "volume": 31446859,
+    "currentPrice": 15000,
+    "changeRate": 1.69,
+    "volume": 4410185,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-23",
+    "captureDate": "2026-08-24",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 14750,
+      "entry": 15000,
       "stop": 12430,
-      "target": 16962
+      "target": 17250
     },
     "resistancePrice": 18200,
-    "supportPrice": 8960
+    "supportPrice": 9142
   },
   {
     "id": 3,
-    "ticker": "014990",
-    "name": "인디에프",
-    "currentPrice": 3270,
-    "changeRate": 18.26,
-    "volume": 5765561,
-    "score": 80,
+    "ticker": "020120",
+    "name": "키다리스튜디오",
+    "currentPrice": 5090,
+    "changeRate": 26.62,
+    "volume": 3467987,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-23",
+    "captureDate": "2026-08-24",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3270,
-      "stop": 1806,
-      "target": 3760
+      "entry": 5090,
+      "stop": 3520,
+      "target": 5853
     },
-    "resistancePrice": 3590,
-    "supportPrice": 2106
+    "resistancePrice": 5190,
+    "supportPrice": 3449
   },
   {
     "id": 4,
-    "ticker": "465770",
-    "name": "STX그린로지스",
-    "currentPrice": 3610,
-    "changeRate": 4.03,
-    "volume": 2265434,
+    "ticker": "011200",
+    "name": "HMM",
+    "currentPrice": 22450,
+    "changeRate": 3.94,
+    "volume": 1771060,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-23",
+    "captureDate": "2026-08-24",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3610,
-      "stop": 2695,
-      "target": 4151
+      "entry": 22450,
+      "stop": 20850,
+      "target": 25817
     },
-    "resistancePrice": 5210,
-    "supportPrice": 2829
+    "resistancePrice": 23400,
+    "supportPrice": 20221
   },
   {
     "id": 5,
     "ticker": "005880",
     "name": "대한해운",
-    "currentPrice": 2045,
-    "changeRate": 3.44,
-    "volume": 2029068,
-    "score": 80,
+    "currentPrice": 2085,
+    "changeRate": 1.96,
+    "volume": 1077052,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-23",
+    "captureDate": "2026-08-24",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2045,
+      "entry": 2085,
       "stop": 1954,
-      "target": 2351
+      "target": 2397
     },
-    "resistancePrice": 2120,
-    "supportPrice": 1950
+    "resistancePrice": 2127,
+    "supportPrice": 1944
+  },
+  {
+    "id": 6,
+    "ticker": "003350",
+    "name": "한국화장품제조",
+    "currentPrice": 11660,
+    "changeRate": 7.96,
+    "volume": 725417,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-08-24",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 11660,
+      "stop": 10300,
+      "target": 13408
+    },
+    "resistancePrice": 13210,
+    "supportPrice": 8505
+  },
+  {
+    "id": 7,
+    "ticker": "066970",
+    "name": "엘앤에프",
+    "currentPrice": 122300,
+    "changeRate": 17.03,
+    "volume": 591736,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-08-24",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 122300,
+      "stop": 101000,
+      "target": 140645
+    },
+    "resistancePrice": 124600,
+    "supportPrice": 107740
   }
 ]
