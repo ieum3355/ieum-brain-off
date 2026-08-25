@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-08-24 01:56:36",
+    "last_updated_kst": "2026-08-25 01:50:29",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "677,241.00",
-        "value": "677,241.00",
-        "change_rate": -2.03,
-        "changeRate": -2.03,
+        "current_value": "659,853.00",
+        "value": "659,853.00",
+        "change_rate": -1.47,
+        "changeRate": -1.47,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-24 01:55"
+        "validated_at": "2026-08-25 01:50"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "81,418.00",
-        "value": "81,418.00",
-        "change_rate": 1.53,
-        "changeRate": 1.53,
-        "status": "up",
+        "current_value": "80,168.00",
+        "value": "80,168.00",
+        "change_rate": -1.43,
+        "changeRate": -1.43,
+        "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-24 01:55"
+        "validated_at": "2026-08-25 01:50"
       }
     ],
     "protection_mode": {
@@ -47,31 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260824-001510",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "SK증권",
-      "name": "SK증권",
-      "ticker": "001510",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "SK증권 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 2720,
-        "current_price": 2720,
-        "profit_pct": "0.00%",
-        "target_price": 3127,
-        "stop_loss": 2140
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260824-002990",
+      "id": "BO-260825-002990",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "금호건설",
@@ -85,89 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 15000,
-        "current_price": 15000,
+        "entry_date": "2026-08-25",
+        "entry_price": 15270,
+        "current_price": 15270,
         "profit_pct": "0.00%",
-        "target_price": 17250,
+        "target_price": 17560,
         "stop_loss": 12430
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260824-020120",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "키다****",
-      "name": "키다리스튜디오",
-      "ticker": "020120",
-      "sector": "분석중",
-      "mvp_score": 90,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "키다리스튜디오 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 5090,
-        "current_price": 5090,
-        "profit_pct": "0.00%",
-        "target_price": 5853,
-        "stop_loss": 3520
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260824-011200",
-      "tier": "Standard",
-      "is_locked": false,
-      "display_name": "HMM",
-      "name": "HMM",
-      "ticker": "011200",
-      "sector": "분석중",
-      "mvp_score": 80,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "HMM 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 22450,
-        "current_price": 22450,
-        "profit_pct": "0.00%",
-        "target_price": 25817,
-        "stop_loss": 20850
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260824-005880",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "대한****",
-      "name": "대한해운",
-      "ticker": "005880",
-      "sector": "분석중",
-      "mvp_score": 90,
-      "analysis": {
-        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "대한해운 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
-      },
-      "live_tracking": {
-        "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 2085,
-        "current_price": 2085,
-        "profit_pct": "0.00%",
-        "target_price": 2397,
-        "stop_loss": 1954
-      },
-      "history_hit_rate": "80%+"
-    },
-    {
-      "id": "BO-260824-003350",
+      "id": "BO-260825-003350",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한국화장품제조",
@@ -181,36 +85,132 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 11660,
-        "current_price": 11660,
+        "entry_date": "2026-08-25",
+        "entry_price": 12375,
+        "current_price": 12375,
         "profit_pct": "0.00%",
-        "target_price": 13408,
+        "target_price": 14231,
         "stop_loss": 10300
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260824-066970",
+      "id": "BO-260825-020120",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "키다리스튜디오",
+      "name": "키다리스튜디오",
+      "ticker": "020120",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "키다리스튜디오 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-25",
+        "entry_price": 5250,
+        "current_price": 5250,
+        "profit_pct": "0.00%",
+        "target_price": 6037,
+        "stop_loss": 3520
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260825-000880",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "한화",
+      "name": "한화",
+      "ticker": "000880",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "한화 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-25",
+        "entry_price": 124400,
+        "current_price": 124400,
+        "profit_pct": "0.00%",
+        "target_price": 143060,
+        "stop_loss": 100600
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260825-019170",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "신풍제약",
+      "name": "신풍제약",
+      "ticker": "019170",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "신풍제약 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-25",
+        "entry_price": 9270,
+        "current_price": 9270,
+        "profit_pct": "0.00%",
+        "target_price": 10660,
+        "stop_loss": 8010
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260825-005880",
       "tier": "Premium",
       "is_locked": true,
-      "display_name": "엘앤****",
-      "name": "엘앤에프",
-      "ticker": "066970",
+      "display_name": "대한****",
+      "name": "대한해운",
+      "ticker": "005880",
       "sector": "분석중",
       "mvp_score": 90,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "엘앤에프 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "대한해운 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-24",
-        "entry_price": 122300,
-        "current_price": 122300,
+        "entry_date": "2026-08-25",
+        "entry_price": 2125,
+        "current_price": 2125,
         "profit_pct": "0.00%",
-        "target_price": 140645,
-        "stop_loss": 101000
+        "target_price": 2443,
+        "stop_loss": 1954
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260825-014990",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "인디에프",
+      "name": "인디에프",
+      "ticker": "014990",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "인디에프 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-25",
+        "entry_price": 3475,
+        "current_price": 3475,
+        "profit_pct": "0.00%",
+        "target_price": 3996,
+        "stop_loss": 2580
       },
       "history_hit_rate": "80%+"
     }

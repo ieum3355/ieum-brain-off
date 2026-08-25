@@ -1,135 +1,135 @@
 [
   {
     "id": 1,
-    "ticker": "001510",
-    "name": "SK증권",
-    "currentPrice": 2720,
-    "changeRate": -7.95,
-    "volume": 9484705,
+    "ticker": "002990",
+    "name": "금호건설",
+    "currentPrice": 15270,
+    "changeRate": 2.76,
+    "volume": 3185674,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2720,
-      "stop": 2140,
-      "target": 3127
+      "entry": 15270,
+      "stop": 12430,
+      "target": 17560
     },
-    "resistancePrice": 3555,
-    "supportPrice": 2543
+    "resistancePrice": 18200,
+    "supportPrice": 9327
   },
   {
     "id": 2,
-    "ticker": "002990",
-    "name": "금호건설",
-    "currentPrice": 15000,
-    "changeRate": 1.69,
-    "volume": 4410185,
+    "ticker": "003350",
+    "name": "한국화장품제조",
+    "currentPrice": 12375,
+    "changeRate": 5.59,
+    "volume": 1331671,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 15000,
-      "stop": 12430,
-      "target": 17250
+      "entry": 12375,
+      "stop": 10300,
+      "target": 14231
     },
-    "resistancePrice": 18200,
-    "supportPrice": 9142
+    "resistancePrice": 13210,
+    "supportPrice": 8564
   },
   {
     "id": 3,
     "ticker": "020120",
     "name": "키다리스튜디오",
-    "currentPrice": 5090,
-    "changeRate": 26.62,
-    "volume": 3467987,
-    "score": 90,
+    "currentPrice": 5250,
+    "changeRate": 2.94,
+    "volume": 1939479,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 5090,
+      "entry": 5250,
       "stop": 3520,
-      "target": 5853
+      "target": 6037
     },
-    "resistancePrice": 5190,
-    "supportPrice": 3449
+    "resistancePrice": 5400,
+    "supportPrice": 3473
   },
   {
     "id": 4,
-    "ticker": "011200",
-    "name": "HMM",
-    "currentPrice": 22450,
-    "changeRate": 3.94,
-    "volume": 1771060,
+    "ticker": "000880",
+    "name": "한화",
+    "currentPrice": 124400,
+    "changeRate": 12.28,
+    "volume": 1017427,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 22450,
-      "stop": 20850,
-      "target": 25817
+      "entry": 124400,
+      "stop": 100600,
+      "target": 143060
     },
-    "resistancePrice": 23400,
-    "supportPrice": 20221
+    "resistancePrice": 128100,
+    "supportPrice": 102231
   },
   {
     "id": 5,
-    "ticker": "005880",
-    "name": "대한해운",
-    "currentPrice": 2085,
-    "changeRate": 1.96,
-    "volume": 1077052,
-    "score": 90,
+    "ticker": "019170",
+    "name": "신풍제약",
+    "currentPrice": 9270,
+    "changeRate": -12.13,
+    "volume": 930435,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2085,
-      "stop": 1954,
-      "target": 2397
+      "entry": 9270,
+      "stop": 8010,
+      "target": 10660
     },
-    "resistancePrice": 2127,
-    "supportPrice": 1944
+    "resistancePrice": 10550,
+    "supportPrice": 8422
   },
   {
     "id": 6,
-    "ticker": "003350",
-    "name": "한국화장품제조",
-    "currentPrice": 11660,
-    "changeRate": 7.96,
-    "volume": 725417,
-    "score": 80,
+    "ticker": "005880",
+    "name": "대한해운",
+    "currentPrice": 2125,
+    "changeRate": 0.24,
+    "volume": 836689,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 11660,
-      "stop": 10300,
-      "target": 13408
+      "entry": 2125,
+      "stop": 1954,
+      "target": 2443
     },
-    "resistancePrice": 13210,
-    "supportPrice": 8505
+    "resistancePrice": 2135,
+    "supportPrice": 1942
   },
   {
     "id": 7,
-    "ticker": "066970",
-    "name": "엘앤에프",
-    "currentPrice": 122300,
-    "changeRate": 17.03,
-    "volume": 591736,
-    "score": 90,
+    "ticker": "014990",
+    "name": "인디에프",
+    "currentPrice": 3475,
+    "changeRate": 4.04,
+    "volume": 754811,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-08-24",
+    "captureDate": "2026-08-25",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 122300,
-      "stop": 101000,
-      "target": 140645
+      "entry": 3475,
+      "stop": 2580,
+      "target": 3996
     },
-    "resistancePrice": 124600,
-    "supportPrice": 107740
+    "resistancePrice": 3945,
+    "supportPrice": 2130
   }
 ]
