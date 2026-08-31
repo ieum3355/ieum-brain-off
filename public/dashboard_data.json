@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-08-30 05:21:08",
+    "last_updated_kst": "2026-08-31 05:29:57",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "678,888.00",
-        "value": "678,888.00",
-        "change_rate": -1.79,
-        "changeRate": -1.79,
-        "status": "down",
-        "is_outlier": false,
-        "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-30 05:20"
-      },
-      {
-        "name": "KOSDAQ",
-        "current_value": "83,841.00",
-        "value": "83,841.00",
-        "change_rate": 0.09,
-        "changeRate": 0.09,
+        "current_value": "679,712.00",
+        "value": "679,712.00",
+        "change_rate": 0.12,
+        "changeRate": 0.12,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-08-30 05:20"
+        "validated_at": "2026-08-31 05:29"
+      },
+      {
+        "name": "KOSDAQ",
+        "current_value": "83,149.00",
+        "value": "83,149.00",
+        "change_rate": -0.83,
+        "changeRate": -0.83,
+        "status": "down",
+        "is_outlier": false,
+        "message": "전일 대비 안정적 흐름 유지",
+        "validated_at": "2026-08-31 05:29"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,31 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260830-002990",
+      "id": "BO-260831-001210",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "금호전기",
+      "name": "금호전기",
+      "ticker": "001210",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "금호전기 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-08-31",
+        "entry_price": 13150,
+        "current_price": 13150,
+        "profit_pct": "0.00%",
+        "target_price": 15122,
+        "stop_loss": 7900
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260831-002990",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "금호건설",
@@ -61,65 +85,65 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 17020,
-        "current_price": 17020,
+        "entry_date": "2026-08-31",
+        "entry_price": 17120,
+        "current_price": 17120,
         "profit_pct": "0.00%",
-        "target_price": 19573,
-        "stop_loss": 14500
+        "target_price": 19688,
+        "stop_loss": 14620
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260830-001210",
+      "id": "BO-260831-004770",
       "tier": "Premium",
       "is_locked": true,
-      "display_name": "금호****",
-      "name": "금호전기",
-      "ticker": "001210",
+      "display_name": "써니****",
+      "name": "써니전자",
+      "ticker": "004770",
       "sector": "분석중",
       "mvp_score": 90,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "금호전기 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "써니전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 10680,
-        "current_price": 10680,
+        "entry_date": "2026-08-31",
+        "entry_price": 2505,
+        "current_price": 2505,
         "profit_pct": "0.00%",
-        "target_price": 12281,
-        "stop_loss": 7900
+        "target_price": 2880,
+        "stop_loss": 1702
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260830-003350",
+      "id": "BO-260831-004310",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "한국화장품제조",
-      "name": "한국화장품제조",
-      "ticker": "003350",
+      "display_name": "현대약품",
+      "name": "현대약품",
+      "ticker": "004310",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "한국화장품제조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "현대약품 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 14440,
-        "current_price": 14440,
+        "entry_date": "2026-08-31",
+        "entry_price": 6410,
+        "current_price": 6410,
         "profit_pct": "0.00%",
-        "target_price": 16606,
-        "stop_loss": 10600
+        "target_price": 7371,
+        "stop_loss": 5600
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260830-019170",
+      "id": "BO-260831-019170",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "신풍제약",
@@ -133,91 +157,91 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 10090,
-        "current_price": 10090,
+        "entry_date": "2026-08-31",
+        "entry_price": 10360,
+        "current_price": 10360,
         "profit_pct": "0.00%",
-        "target_price": 11603,
+        "target_price": 11913,
         "stop_loss": 8780
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260830-0091P0",
+      "id": "BO-260831-003350",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "TIGER 코리아원자력",
-      "name": "TIGER 코리아원자력",
-      "ticker": "0091P0",
+      "display_name": "한국화장품제조",
+      "name": "한국화장품제조",
+      "ticker": "003350",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "TIGER 코리아원자력 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "한국화장품제조 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 18070,
-        "current_price": 18070,
+        "entry_date": "2026-08-31",
+        "entry_price": 14900,
+        "current_price": 14900,
         "profit_pct": "0.00%",
-        "target_price": 20780,
-        "stop_loss": 14880
+        "target_price": 17135,
+        "stop_loss": 11400
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260830-117700",
+      "id": "BO-260831-161000",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "KODEX 건설",
-      "name": "KODEX 건설",
-      "ticker": "117700",
+      "display_name": "애경케미칼",
+      "name": "애경케미칼",
+      "ticker": "161000",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "KODEX 건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "애경케미칼 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 7155,
-        "current_price": 7155,
+        "entry_date": "2026-08-31",
+        "entry_price": 11000,
+        "current_price": 11000,
         "profit_pct": "0.00%",
-        "target_price": 8228,
-        "stop_loss": 6125
+        "target_price": 12649,
+        "stop_loss": 9140
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260830-001820",
+      "id": "BO-260831-006220",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "삼화콘덴서",
-      "name": "삼화콘덴서",
-      "ticker": "001820",
+      "display_name": "제주은행",
+      "name": "제주은행",
+      "ticker": "006220",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "삼화콘덴서 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "제주은행 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-08-30",
-        "entry_price": 110200,
-        "current_price": 110200,
+        "entry_date": "2026-08-31",
+        "entry_price": 10240,
+        "current_price": 10240,
         "profit_pct": "0.00%",
-        "target_price": 126729,
-        "stop_loss": 86400
+        "target_price": 11776,
+        "stop_loss": 9260
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 7,
+    "active_holdings_count": 8,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
