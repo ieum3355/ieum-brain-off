@@ -1,154 +1,78 @@
 [
   {
     "id": 1,
-    "ticker": "001210",
-    "name": "금호전기",
-    "currentPrice": 13150,
-    "changeRate": 23.13,
-    "volume": 22682984,
-    "score": 80,
+    "ticker": "004310",
+    "name": "현대약품",
+    "currentPrice": 8140,
+    "changeRate": 27.59,
+    "volume": 17321578,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-08-31",
+    "captureDate": "2026-09-01",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 13150,
-      "stop": 7900,
-      "target": 15122
+      "entry": 8140,
+      "stop": 5900,
+      "target": 9361
     },
-    "resistancePrice": 13720,
-    "supportPrice": 3282
+    "resistancePrice": 8160,
+    "supportPrice": 6156
   },
   {
     "id": 2,
-    "ticker": "002990",
-    "name": "금호건설",
-    "currentPrice": 17120,
-    "changeRate": 0.59,
-    "volume": 16190975,
+    "ticker": "001210",
+    "name": "금호전기",
+    "currentPrice": 13540,
+    "changeRate": 8.49,
+    "volume": 14276798,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-31",
+    "captureDate": "2026-09-01",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 17120,
-      "stop": 14620,
-      "target": 19688
+      "entry": 13540,
+      "stop": 7900,
+      "target": 15570
     },
-    "resistancePrice": 18620,
-    "supportPrice": 10153
+    "resistancePrice": 14350,
+    "supportPrice": 5019
   },
   {
     "id": 3,
-    "ticker": "004770",
-    "name": "써니전자",
-    "currentPrice": 2505,
-    "changeRate": 28.79,
-    "volume": 14357284,
-    "score": 90,
+    "ticker": "090460",
+    "name": "비에이치",
+    "currentPrice": 21950,
+    "changeRate": 20.41,
+    "volume": 4745575,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-08-31",
+    "captureDate": "2026-09-01",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2505,
-      "stop": 1702,
-      "target": 2880
+      "entry": 21950,
+      "stop": 16250,
+      "target": 25242
     },
-    "resistancePrice": 2525,
-    "supportPrice": 1676
+    "resistancePrice": 22550,
+    "supportPrice": 19346
   },
   {
     "id": 4,
-    "ticker": "004310",
-    "name": "현대약품",
-    "currentPrice": 6410,
-    "changeRate": 4.06,
-    "volume": 5933537,
+    "ticker": "004770",
+    "name": "써니전자",
+    "currentPrice": 2360,
+    "changeRate": -0.42,
+    "volume": 4893460,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-08-31",
+    "captureDate": "2026-09-01",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 6410,
-      "stop": 5600,
-      "target": 7371
+      "entry": 2360,
+      "stop": 1702,
+      "target": 2714
     },
-    "resistancePrice": 7070,
-    "supportPrice": 6120
-  },
-  {
-    "id": 5,
-    "ticker": "019170",
-    "name": "신풍제약",
-    "currentPrice": 10360,
-    "changeRate": 2.68,
-    "volume": 3429699,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-31",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 10360,
-      "stop": 8780,
-      "target": 11913
-    },
-    "resistancePrice": 12050,
-    "supportPrice": 8425
-  },
-  {
-    "id": 6,
-    "ticker": "003350",
-    "name": "한국화장품제조",
-    "currentPrice": 14900,
-    "changeRate": 3.19,
-    "volume": 2524880,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-31",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 14900,
-      "stop": 11400,
-      "target": 17135
-    },
-    "resistancePrice": 15690,
-    "supportPrice": 8989
-  },
-  {
-    "id": 7,
-    "ticker": "161000",
-    "name": "애경케미칼",
-    "currentPrice": 11000,
-    "changeRate": 7.84,
-    "volume": 2104501,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-31",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 11000,
-      "stop": 9140,
-      "target": 12649
-    },
-    "resistancePrice": 11500,
-    "supportPrice": 9579
-  },
-  {
-    "id": 8,
-    "ticker": "006220",
-    "name": "제주은행",
-    "currentPrice": 10240,
-    "changeRate": 3.54,
-    "volume": 1301318,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-08-31",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 10240,
-      "stop": 9260,
-      "target": 11776
-    },
-    "resistancePrice": 10920,
-    "supportPrice": 9902
+    "resistancePrice": 2590,
+    "supportPrice": 1685
   }
 ]
