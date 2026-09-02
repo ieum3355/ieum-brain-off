@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-09-01 05:03:49",
+    "last_updated_kst": "2026-09-02 04:29:27",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "680,894.00",
-        "value": "680,894.00",
-        "change_rate": -0.16,
-        "changeRate": -0.16,
+        "current_value": "658,032.00",
+        "value": "658,032.00",
+        "change_rate": -3.74,
+        "changeRate": -3.74,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-09-01 05:03"
+        "validated_at": "2026-09-02 04:28"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "81,770.00",
-        "value": "81,770.00",
-        "change_rate": -1.99,
-        "changeRate": -1.99,
+        "current_value": "81,236.00",
+        "value": "81,236.00",
+        "change_rate": -1.08,
+        "changeRate": -1.08,
         "status": "down",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-09-01 05:03"
+        "validated_at": "2026-09-02 04:28"
       }
     ],
     "protection_mode": {
@@ -47,31 +47,103 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260901-004310",
-      "tier": "Premium",
-      "is_locked": true,
-      "display_name": "현대****",
+      "id": "BO-260902-002990",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "금호건설",
+      "name": "금호건설",
+      "ticker": "002990",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "금호건설 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-09-02",
+        "entry_price": 17430,
+        "current_price": 17430,
+        "profit_pct": "0.00%",
+        "target_price": 20044,
+        "stop_loss": 14650
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260902-058730",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "다스코",
+      "name": "다스코",
+      "ticker": "058730",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "다스코 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-09-02",
+        "entry_price": 4120,
+        "current_price": 4120,
+        "profit_pct": "0.00%",
+        "target_price": 4738,
+        "stop_loss": 3350
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260902-004310",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "현대약품",
       "name": "현대약품",
       "ticker": "004310",
       "sector": "분석중",
-      "mvp_score": 90,
+      "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
         "detail": "현대약품 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-01",
-        "entry_price": 8140,
-        "current_price": 8140,
+        "entry_date": "2026-09-02",
+        "entry_price": 7680,
+        "current_price": 7680,
         "profit_pct": "0.00%",
-        "target_price": 9361,
-        "stop_loss": 5900
+        "target_price": 8832,
+        "stop_loss": 5970
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260901-001210",
+      "id": "BO-260902-465770",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "STX그린로지스",
+      "name": "STX그린로지스",
+      "ticker": "465770",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "STX그린로지스 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-09-02",
+        "entry_price": 3635,
+        "current_price": 3635,
+        "profit_pct": "0.00%",
+        "target_price": 4180,
+        "stop_loss": 2940
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260902-001210",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "금호전기",
@@ -85,17 +157,89 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-01",
-        "entry_price": 13540,
-        "current_price": 13540,
+        "entry_date": "2026-09-02",
+        "entry_price": 13360,
+        "current_price": 13360,
         "profit_pct": "0.00%",
-        "target_price": 15570,
+        "target_price": 15363,
         "stop_loss": 7900
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260901-090460",
+      "id": "BO-260902-014990",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "인디에프",
+      "name": "인디에프",
+      "ticker": "014990",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "인디에프 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-09-02",
+        "entry_price": 4320,
+        "current_price": 4320,
+        "profit_pct": "0.00%",
+        "target_price": 4968,
+        "stop_loss": 2885
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260902-249420",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "일동제약",
+      "name": "일동제약",
+      "ticker": "249420",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "일동제약 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-09-02",
+        "entry_price": 16740,
+        "current_price": 16740,
+        "profit_pct": "0.00%",
+        "target_price": 19251,
+        "stop_loss": 14330
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260902-003160",
+      "tier": "Standard",
+      "is_locked": false,
+      "display_name": "디아이",
+      "name": "디아이",
+      "ticker": "003160",
+      "sector": "분석중",
+      "mvp_score": 80,
+      "analysis": {
+        "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+        "detail": "디아이 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+      },
+      "live_tracking": {
+        "status": "관찰중",
+        "entry_date": "2026-09-02",
+        "entry_price": 30650,
+        "current_price": 30650,
+        "profit_pct": "0.00%",
+        "target_price": 35247,
+        "stop_loss": 23100
+      },
+      "history_hit_rate": "80%+"
+    },
+    {
+      "id": "BO-260902-090460",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "비에이치",
@@ -109,43 +253,43 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-01",
-        "entry_price": 21950,
-        "current_price": 21950,
+        "entry_date": "2026-09-02",
+        "entry_price": 20200,
+        "current_price": 20200,
         "profit_pct": "0.00%",
-        "target_price": 25242,
-        "stop_loss": 16250
+        "target_price": 23230,
+        "stop_loss": 16590
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260901-004770",
+      "id": "BO-260902-001820",
       "tier": "Standard",
       "is_locked": false,
-      "display_name": "써니전자",
-      "name": "써니전자",
-      "ticker": "004770",
+      "display_name": "삼화콘덴서",
+      "name": "삼화콘덴서",
+      "ticker": "001820",
       "sector": "분석중",
       "mvp_score": 80,
       "analysis": {
         "summary": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-        "detail": "써니전자 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
+        "detail": "삼화콘덴서 종목은 60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터) 패턴을 보이고 있으며, 현재 구간에서 강한 지지가 예상됩니다."
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-01",
-        "entry_price": 2360,
-        "current_price": 2360,
+        "entry_date": "2026-09-02",
+        "entry_price": 115200,
+        "current_price": 115200,
         "profit_pct": "0.00%",
-        "target_price": 2714,
-        "stop_loss": 1702
+        "target_price": 132480,
+        "stop_loss": 102800
       },
       "history_hit_rate": "80%+"
     }
   ],
   "portfolio_performance": {
     "total_win_rate": "78.2%",
-    "active_holdings_count": 4,
+    "active_holdings_count": 10,
     "last_closed_return": "+4.5%",
     "monthly_accumulated": "+18.4%"
   }
