@@ -1,7 +1,7 @@
 {
   "system_integrity": {
     "version": "Hybrid 2.1 (Adaptive Guard)",
-    "last_updated_kst": "2026-09-04 04:28:10",
+    "last_updated_kst": "2026-09-05 04:23:16",
     "data_validation": {
       "is_verified": true,
       "method": "전일 종가 대비 변동성 교차 검증 (Volatility Guard 10%)",
@@ -13,25 +13,25 @@
     "indices": [
       {
         "name": "KOSPI",
-        "current_value": "669,773.00",
-        "value": "669,773.00",
-        "change_rate": 1.8,
-        "changeRate": 1.8,
+        "current_value": "668,721.00",
+        "value": "668,721.00",
+        "change_rate": 1.64,
+        "changeRate": 1.64,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-09-04 04:27"
+        "validated_at": "2026-09-05 04:22"
       },
       {
         "name": "KOSDAQ",
-        "current_value": "81,289.00",
-        "value": "81,289.00",
-        "change_rate": 2.87,
-        "changeRate": 2.87,
+        "current_value": "81,350.00",
+        "value": "81,350.00",
+        "change_rate": 2.95,
+        "changeRate": 2.95,
         "status": "up",
         "is_outlier": false,
         "message": "전일 대비 안정적 흐름 유지",
-        "validated_at": "2026-09-04 04:27"
+        "validated_at": "2026-09-05 04:22"
       }
     ],
     "protection_mode": {
@@ -47,7 +47,7 @@
   ],
   "recommendations": [
     {
-      "id": "BO-260904-004310",
+      "id": "BO-260905-004310",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "현대약품",
@@ -61,17 +61,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 8340,
-        "current_price": 8340,
+        "entry_date": "2026-09-05",
+        "entry_price": 7950,
+        "current_price": 7950,
         "profit_pct": "0.00%",
-        "target_price": 9591,
+        "target_price": 9142,
         "stop_loss": 6150
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-003530",
+      "id": "BO-260905-003530",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한화투자증권",
@@ -85,7 +85,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
+        "entry_date": "2026-09-05",
         "entry_price": 5100,
         "current_price": 5100,
         "profit_pct": "0.00%",
@@ -95,7 +95,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-465770",
+      "id": "BO-260905-465770",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "STX그린로지스",
@@ -109,17 +109,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 4010,
-        "current_price": 4010,
+        "entry_date": "2026-09-05",
+        "entry_price": 3750,
+        "current_price": 3750,
         "profit_pct": "0.00%",
-        "target_price": 4611,
+        "target_price": 4312,
         "stop_loss": 3000
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-004770",
+      "id": "BO-260905-004770",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "써니전자",
@@ -133,17 +133,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 2190,
-        "current_price": 2190,
+        "entry_date": "2026-09-05",
+        "entry_price": 2185,
+        "current_price": 2185,
         "profit_pct": "0.00%",
-        "target_price": 2518,
+        "target_price": 2512,
         "stop_loss": 1831
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-090460",
+      "id": "BO-260905-090460",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "비에이치",
@@ -157,17 +157,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 21450,
-        "current_price": 21450,
+        "entry_date": "2026-09-05",
+        "entry_price": 21850,
+        "current_price": 21850,
         "profit_pct": "0.00%",
-        "target_price": 24667,
+        "target_price": 25127,
         "stop_loss": 16590
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-452260",
+      "id": "BO-260905-452260",
       "tier": "Premium",
       "is_locked": true,
       "display_name": "한화****",
@@ -181,7 +181,7 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
+        "entry_date": "2026-09-05",
         "entry_price": 2300,
         "current_price": 2300,
         "profit_pct": "0.00%",
@@ -191,7 +191,7 @@
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-005880",
+      "id": "BO-260905-005880",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "대한해운",
@@ -205,17 +205,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 2080,
-        "current_price": 2080,
+        "entry_date": "2026-09-05",
+        "entry_price": 2105,
+        "current_price": 2105,
         "profit_pct": "0.00%",
-        "target_price": 2392,
+        "target_price": 2420,
         "stop_loss": 2000
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-009900",
+      "id": "BO-260905-009900",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "명신산업",
@@ -229,17 +229,17 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 8660,
-        "current_price": 8660,
+        "entry_date": "2026-09-05",
+        "entry_price": 8630,
+        "current_price": 8630,
         "profit_pct": "0.00%",
-        "target_price": 9959,
+        "target_price": 9924,
         "stop_loss": 7680
       },
       "history_hit_rate": "80%+"
     },
     {
-      "id": "BO-260904-004710",
+      "id": "BO-260905-004710",
       "tier": "Standard",
       "is_locked": false,
       "display_name": "한솔테크닉스",
@@ -253,11 +253,11 @@
       },
       "live_tracking": {
         "status": "관찰중",
-        "entry_date": "2026-09-04",
-        "entry_price": 8500,
-        "current_price": 8500,
+        "entry_date": "2026-09-05",
+        "entry_price": 8460,
+        "current_price": 8460,
         "profit_pct": "0.00%",
-        "target_price": 9775,
+        "target_price": 9729,
         "stop_loss": 6430
       },
       "history_hit_rate": "80%+"
