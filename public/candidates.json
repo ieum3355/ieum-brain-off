@@ -3,171 +3,152 @@
     "id": 1,
     "ticker": "004310",
     "name": "현대약품",
-    "currentPrice": 7950,
-    "changeRate": 3.52,
-    "volume": 11189417,
+    "currentPrice": 8380,
+    "changeRate": 5.41,
+    "volume": 10842746,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 7950,
-      "stop": 6150,
-      "target": 9142
+      "entry": 8380,
+      "stop": 6300,
+      "target": 9637
     },
-    "resistancePrice": 9050,
-    "supportPrice": 6264
+    "resistancePrice": 9210,
+    "supportPrice": 6308
   },
   {
     "id": 2,
-    "ticker": "003530",
-    "name": "한화투자증권",
-    "currentPrice": 5100,
-    "changeRate": 8.97,
-    "volume": 7332184,
+    "ticker": "0091P0",
+    "name": "TIGER 코리아원자력",
+    "currentPrice": 17475,
+    "changeRate": 6.43,
+    "volume": 2842590,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 5100,
-      "stop": 4600,
-      "target": 5865
+      "entry": 17475,
+      "stop": 15560,
+      "target": 20096
     },
-    "resistancePrice": 5330,
-    "supportPrice": 4753
+    "resistancePrice": 18585,
+    "supportPrice": 16155
   },
   {
     "id": 3,
-    "ticker": "465770",
-    "name": "STX그린로지스",
-    "currentPrice": 3750,
-    "changeRate": -1.83,
-    "volume": 4795337,
+    "ticker": "452260",
+    "name": "한화갤러리아",
+    "currentPrice": 2400,
+    "changeRate": 4.35,
+    "volume": 2184479,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 3750,
-      "stop": 3000,
-      "target": 4312
+      "entry": 2400,
+      "stop": 2005,
+      "target": 2760
     },
-    "resistancePrice": 4750,
-    "supportPrice": 2912
+    "resistancePrice": 2500,
+    "supportPrice": 2094
   },
   {
     "id": 4,
-    "ticker": "004770",
-    "name": "써니전자",
-    "currentPrice": 2185,
-    "changeRate": 4.8,
-    "volume": 4115319,
+    "ticker": "465770",
+    "name": "STX그린로지스",
+    "currentPrice": 3950,
+    "changeRate": 5.33,
+    "volume": 1720750,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2185,
-      "stop": 1831,
-      "target": 2512
+      "entry": 3950,
+      "stop": 3000,
+      "target": 4542
     },
-    "resistancePrice": 2590,
-    "supportPrice": 1706
+    "resistancePrice": 4750,
+    "supportPrice": 2921
   },
   {
     "id": 5,
     "ticker": "090460",
     "name": "비에이치",
-    "currentPrice": 21850,
-    "changeRate": 10.75,
-    "volume": 2926725,
+    "currentPrice": 21500,
+    "changeRate": -1.6,
+    "volume": 1263891,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 21850,
-      "stop": 16590,
-      "target": 25127
+      "entry": 21500,
+      "stop": 19480,
+      "target": 24724
     },
-    "resistancePrice": 22650,
-    "supportPrice": 19065
+    "resistancePrice": 23000,
+    "supportPrice": 18999
   },
   {
     "id": 6,
-    "ticker": "452260",
-    "name": "한화갤러리아",
-    "currentPrice": 2300,
-    "changeRate": 6.73,
-    "volume": 1970702,
-    "score": 90,
+    "ticker": "003530",
+    "name": "한화투자증권",
+    "currentPrice": 4950,
+    "changeRate": -2.94,
+    "volume": 1196921,
+    "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2300,
-      "stop": 1964,
-      "target": 2645
+      "entry": 4950,
+      "stop": 4600,
+      "target": 5692
     },
-    "resistancePrice": 2345,
-    "supportPrice": 2096
+    "resistancePrice": 5330,
+    "supportPrice": 4745
   },
   {
     "id": 7,
-    "ticker": "005880",
-    "name": "대한해운",
-    "currentPrice": 2105,
-    "changeRate": 1.45,
-    "volume": 1808503,
-    "score": 80,
+    "ticker": "004710",
+    "name": "한솔테크닉스",
+    "currentPrice": 9060,
+    "changeRate": 7.09,
+    "volume": 1017973,
+    "score": 90,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2105,
-      "stop": 2000,
-      "target": 2420
+      "entry": 9060,
+      "stop": 6440,
+      "target": 10419
     },
-    "resistancePrice": 2175,
-    "supportPrice": 1949
+    "resistancePrice": 9230,
+    "supportPrice": 8935
   },
   {
     "id": 8,
-    "ticker": "009900",
-    "name": "명신산업",
-    "currentPrice": 8630,
-    "changeRate": 11.07,
-    "volume": 1467289,
+    "ticker": "0098F0",
+    "name": "KODEX 원자력SMR",
+    "currentPrice": 16360,
+    "changeRate": 5.68,
+    "volume": 1002641,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-06",
+    "captureDate": "2026-09-07",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 8630,
-      "stop": 7680,
-      "target": 9924
+      "entry": 16360,
+      "stop": 14805,
+      "target": 18814
     },
-    "resistancePrice": 9260,
-    "supportPrice": 7480
-  },
-  {
-    "id": 9,
-    "ticker": "004710",
-    "name": "한솔테크닉스",
-    "currentPrice": 8460,
-    "changeRate": -0.35,
-    "volume": 1439063,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-09-06",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 8460,
-      "stop": 6430,
-      "target": 9729
-    },
-    "resistancePrice": 9020,
-    "supportPrice": 8976
+    "resistancePrice": 17235,
+    "supportPrice": 15347
   }
 ]
