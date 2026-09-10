@@ -1,173 +1,230 @@
 [
   {
     "id": 1,
-    "ticker": "010580",
-    "name": "에스엠벡셀",
-    "currentPrice": 2535,
-    "changeRate": 21.0,
-    "volume": 15320757,
+    "ticker": "003280",
+    "name": "흥아해운",
+    "currentPrice": 1917,
+    "changeRate": 8.92,
+    "volume": 93624655,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-09",
+    "captureDate": "2026-09-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2535,
-      "stop": 1669,
-      "target": 2915
+      "entry": 1917,
+      "stop": 1699,
+      "target": 2204
     },
-    "resistancePrice": 2700,
-    "supportPrice": 1640
+    "resistancePrice": 2200,
+    "supportPrice": 1724
   },
   {
     "id": 2,
-    "ticker": "004310",
-    "name": "현대약품",
-    "currentPrice": 10180,
-    "changeRate": -2.49,
-    "volume": 13440146,
+    "ticker": "004090",
+    "name": "한국석유",
+    "currentPrice": 12940,
+    "changeRate": 12.03,
+    "volume": 7054593,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-09",
+    "captureDate": "2026-09-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 10180,
-      "stop": 7300,
-      "target": 11707
+      "entry": 12940,
+      "stop": 11070,
+      "target": 14880
     },
-    "resistancePrice": 11340,
-    "supportPrice": 6433
+    "resistancePrice": 14880,
+    "supportPrice": 11111
   },
   {
     "id": 3,
-    "ticker": "004770",
-    "name": "써니전자",
-    "currentPrice": 2495,
-    "changeRate": 15.51,
-    "volume": 10430823,
+    "ticker": "014530",
+    "name": "극동유화",
+    "currentPrice": 3435,
+    "changeRate": 3.93,
+    "volume": 6167328,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-09",
+    "captureDate": "2026-09-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 2495,
-      "stop": 1831,
-      "target": 2869
+      "entry": 3435,
+      "stop": 3210,
+      "target": 3950
     },
-    "resistancePrice": 2670,
-    "supportPrice": 1735
+    "resistancePrice": 4000,
+    "supportPrice": 3178
   },
   {
     "id": 4,
-    "ticker": "0091P0",
-    "name": "TIGER 코리아원자력",
-    "currentPrice": 18995,
-    "changeRate": 2.12,
-    "volume": 4009580,
+    "ticker": "010580",
+    "name": "에스엠벡셀",
+    "currentPrice": 2585,
+    "changeRate": 1.77,
+    "volume": 5534932,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-09",
+    "captureDate": "2026-09-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 18995,
-      "stop": 15560,
-      "target": 21844
+      "entry": 2585,
+      "stop": 1669,
+      "target": 2972
     },
-    "resistancePrice": 19710,
-    "supportPrice": 16125
+    "resistancePrice": 2750,
+    "supportPrice": 1650
   },
   {
     "id": 5,
-    "ticker": "452260",
-    "name": "한화갤러리아",
-    "currentPrice": 2510,
-    "changeRate": 6.81,
-    "volume": 3362960,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-09-09",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 2510,
-      "stop": 2095,
-      "target": 2886
-    },
-    "resistancePrice": 2675,
-    "supportPrice": 2083
-  },
-  {
-    "id": 6,
-    "ticker": "117700",
-    "name": "KODEX 건설",
-    "currentPrice": 7325,
-    "changeRate": 1.31,
-    "volume": 2204349,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-09-09",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 7325,
-      "stop": 6295,
-      "target": 8423
-    },
-    "resistancePrice": 7525,
-    "supportPrice": 6463
-  },
-  {
-    "id": 7,
-    "ticker": "0098F0",
-    "name": "KODEX 원자력SMR",
-    "currentPrice": 17647,
-    "changeRate": 2.3,
-    "volume": 1596504,
-    "score": 80,
-    "status": "active",
-    "captureDate": "2026-09-09",
-    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
-    "entryGrid": {
-      "entry": 17647,
-      "stop": 14805,
-      "target": 20294
-    },
-    "resistancePrice": 18235,
-    "supportPrice": 15311
-  },
-  {
-    "id": 8,
-    "ticker": "020120",
-    "name": "키다리스튜디오",
+    "ticker": "117580",
+    "name": "대성에너지",
     "currentPrice": 7570,
-    "changeRate": 14.7,
-    "volume": 1194601,
+    "changeRate": 5.29,
+    "volume": 4669812,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-09",
+    "captureDate": "2026-09-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
       "entry": 7570,
-      "stop": 5910,
+      "stop": 6850,
       "target": 8705
     },
-    "resistancePrice": 7850,
-    "supportPrice": 4098
+    "resistancePrice": 8790,
+    "supportPrice": 6876
+  },
+  {
+    "id": 6,
+    "ticker": "005880",
+    "name": "대한해운",
+    "currentPrice": 2100,
+    "changeRate": 0.96,
+    "volume": 4368720,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-09-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 2100,
+      "stop": 2045,
+      "target": 2415
+    },
+    "resistancePrice": 2175,
+    "supportPrice": 1952
+  },
+  {
+    "id": 7,
+    "ticker": "004310",
+    "name": "현대약품",
+    "currentPrice": 9760,
+    "changeRate": -5.24,
+    "volume": 3824431,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-09-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 9760,
+      "stop": 7300,
+      "target": 11224
+    },
+    "resistancePrice": 11340,
+    "supportPrice": 6471
+  },
+  {
+    "id": 8,
+    "ticker": "004770",
+    "name": "써니전자",
+    "currentPrice": 2160,
+    "changeRate": -4.42,
+    "volume": 2959045,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-09-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 2160,
+      "stop": 1952,
+      "target": 2484
+    },
+    "resistancePrice": 2705,
+    "supportPrice": 1739
   },
   {
     "id": 9,
-    "ticker": "008970",
-    "name": "KBI동양철관",
-    "currentPrice": 1175,
-    "changeRate": -1.34,
-    "volume": 1126308,
+    "ticker": "0091P0",
+    "name": "TIGER 코리아원자력",
+    "currentPrice": 18530,
+    "changeRate": -2.76,
+    "volume": 1820475,
     "score": 80,
     "status": "active",
-    "captureDate": "2026-09-09",
+    "captureDate": "2026-09-10",
     "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
     "entryGrid": {
-      "entry": 1175,
-      "stop": 1107,
-      "target": 1351
+      "entry": 18530,
+      "stop": 16205,
+      "target": 21309
     },
-    "resistancePrice": 1290,
-    "supportPrice": 1150
+    "resistancePrice": 19710,
+    "supportPrice": 16077
+  },
+  {
+    "id": 10,
+    "ticker": "248170",
+    "name": "샘표식품",
+    "currentPrice": 30000,
+    "changeRate": 29.31,
+    "volume": 1604868,
+    "score": 90,
+    "status": "active",
+    "captureDate": "2026-09-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 30000,
+      "stop": 22500,
+      "target": 34500
+    },
+    "resistancePrice": 30150,
+    "supportPrice": 22851
+  },
+  {
+    "id": 11,
+    "ticker": "316140",
+    "name": "우리금융지주",
+    "currentPrice": 34000,
+    "changeRate": 1.49,
+    "volume": 1467682,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-09-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 34000,
+      "stop": 32950,
+      "target": 39100
+    },
+    "resistancePrice": 35600,
+    "supportPrice": 31912
+  },
+  {
+    "id": 12,
+    "ticker": "452260",
+    "name": "한화갤러리아",
+    "currentPrice": 2565,
+    "changeRate": 0.0,
+    "volume": 1438797,
+    "score": 80,
+    "status": "active",
+    "captureDate": "2026-09-10",
+    "reason": "60일선 지지 및 거래량 500% 매집봉 포착 (Yahoo+Naver 데이터)",
+    "entryGrid": {
+      "entry": 2565,
+      "stop": 2115,
+      "target": 2949
+    },
+    "resistancePrice": 2675,
+    "supportPrice": 2080
   }
 ]
